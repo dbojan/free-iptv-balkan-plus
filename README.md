@@ -6,13 +6,8 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 
 ```
 Channels are checked if they work
-
-here is the list.
-
-download list (right click, save as, open in vlc), or open network addres in vlc directly:
-
-v 20221212-1
-
+Download list (right click, save as, open in vlc), or open network addres in vlc directly.
+version: 20221212-1
 
 windows players:
 vlc
