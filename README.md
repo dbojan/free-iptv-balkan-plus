@@ -32,7 +32,7 @@ more info on apps: https://github.com/iptv-org/awesome-iptv
 list of free iptv channels 2, https://github.com/Free-TV/IPTV
 
 list of free iptv channels balkan exyu: https://satelitskiforum.com/index.php?page=Thread&threadID=11945&pageNo=37
-gledaj online iz web browesera: tv balkan uzivo
+web browser player: tv balkan uzivo
 
 
 
