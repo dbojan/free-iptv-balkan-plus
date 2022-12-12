@@ -16,10 +16,32 @@ vlc: media/open network stream, or download list (right click, save as, open in 
 mpc-hc, file, quick open file. user agent is not supported. label is not supported.
 mpv. create mpv.conf in mpv subfolder folder. add --user-agent=android, or if you use command line: mpv --user-agent=android file_or_url_address
 kodi
-SF Vip player
+SF Vip player, https://serbianforum.org/threads/sf-vip-plejer.878393/
 progtv player (shareware)
 
 
 android players:
 vlc
 kodi
+
+
+
+
+
+sources:
+list of free iptv channels: https://github.com/iptv-org/iptv
+more info on apps: https://github.com/iptv-org/awesome-iptv
+
+list of free iptv channels 2, https://github.com/Free-TV/IPTV
+
+list of free iptv channels balkan exyu: https://satelitskiforum.com/index.php?page=Thread&threadID=11945&pageNo=37
+gledaj online iz web browesera: tv balkan uzivo
+
+
+
+
+
+
+
+
+
