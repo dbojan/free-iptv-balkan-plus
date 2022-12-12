@@ -14,7 +14,7 @@ Download list (right click, save as, open in vlc), or open network addres in vlc
 windows players:
 vlc: media/open network stream, or download list (right click, save as, open in vlc)
 mpc-hc, file, quick open file. user agent is not supported. label is not supported.
-mpv. create mpv.conf in mpv subfolder folder. add --user-agent=android, or if you use command line: mpv --user-agent=android file_or_url_address
+mpv. create mpv.conf in mpv subfolder. add --user-agent=android in mpv.conf, or if you use command line: mpv --user-agent=android file_or_url_address
 kodi
 SF Vip player, https://serbianforum.org/threads/sf-vip-plejer.878393/
 progtv player (shareware)
