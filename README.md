@@ -12,7 +12,7 @@ Channels are checked if they work
 Download list (right click, save as, open in vlc), or open network addres in vlc directly.
 
 windows players:
-vlc
+vlc: media/open network stream, or download list (right click, save as, open in vlc)
 mpc-hc, file, quick open file. user agent is not supported. label is not supported.
 mpv. create mpv.conf in mpv subfolder folder. add --user-agent=android, or if you use command line: mpv --user-agent=android file_or_url_address
 kodi
