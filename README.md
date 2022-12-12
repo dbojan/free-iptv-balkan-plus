@@ -1,11 +1,12 @@
 
 # free-iptv-balkan-plus
 Free IPTV list of Balkan Ex-Yu channels + some free english speaking movie channels
-Channels are mostly from web sites, or possibly apps.
 
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
 
 ```
+Channels are mostly from web sites, or possibly apps.
+
 Channels are checked if they work
 Download list (right click, save as, open in vlc), or open network addres in vlc directly.
 version: 20221212-1
