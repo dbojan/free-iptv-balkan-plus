@@ -25,9 +25,6 @@ vlc
 kodi
 
 
-
-
-
 sources:
 list of free iptv channels: https://github.com/iptv-org/iptv
 more info on apps: https://github.com/iptv-org/awesome-iptv
