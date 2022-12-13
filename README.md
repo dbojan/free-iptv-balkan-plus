@@ -18,6 +18,7 @@ mpv. create mpv.conf in mpv subfolder. add --user-agent=android in mpv.conf, or 
 kodi
 SF Vip player, https://serbianforum.org/threads/sf-vip-plejer.878393/
 progtv player (shareware)
+smplayer
 
 
 android players:
