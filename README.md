@@ -24,6 +24,7 @@ smplayer
 android players:
 vlc
 kodi
+progtv
 
 
 sources:
