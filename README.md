@@ -28,13 +28,17 @@ progtv
 
 
 sources:
-list of free iptv channels: https://github.com/iptv-org/iptv
-more info on apps: https://github.com/iptv-org/awesome-iptv
+list of free iptv channels: 
+https://github.com/iptv-org/iptv
+https://github.com/Free-TV/IPTV
+https://satelitskiforum.com/index.php?page=Thread&threadID=11945&pageNo=37
+https://iptvcat.com
 
-list of free iptv channels 2, https://github.com/Free-TV/IPTV
+more info on apps: 
+https://github.com/iptv-org/awesome-iptv
 
-list of free iptv channels balkan exyu: https://satelitskiforum.com/index.php?page=Thread&threadID=11945&pageNo=37
-web browser player: tv balkan uzivo
+web browser players: 
+tv balkan uzivo
 
 
 
