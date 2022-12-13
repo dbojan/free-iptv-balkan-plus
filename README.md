@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 version: 20221213-1
 Channels are mostly from web sites, or possibly apps.
 
-Channels are checked if they work
+Channels are checked for validity.
 Download list (right click, save as, open in vlc), or open network addres in vlc directly.
 
 windows players:
