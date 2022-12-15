@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 
 ```
 
-version: 20221213-1
+version: 20221215-1
 Channels are mostly from web sites, or possibly apps.
 
 Channels are checked for validity.
