@@ -13,7 +13,7 @@ On android, if you want to download file, click and hold, and save file. Or past
 
 ```
 
-version: 20221215-1
+version: 20221215-2
 Channels are mostly from web sites, or possibly apps.
 
 Channels are checked for validity.
