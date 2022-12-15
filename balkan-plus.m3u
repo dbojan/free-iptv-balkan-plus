@@ -43,14 +43,10 @@ https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
 #
 #EXTVLCOPT:http-user-agent=Android
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1302619168_b6256000.m3u8
-#EXTINF:-1 tvg-country="SL"  group-title="MUS",GORENJSKA TV
+#EXTINF:-1 tvg-country="SL"  group-title="DAY",GORENJSKA TV
 #
 #EXTVLCOPT:http-user-agent=Android
 http://91.220.221.60/gtv_hls/gtv_03.m3u8
-#EXTINF:-1 tvg-country="BA"  group-title="DAY",RTV HB
-#HERCEG BOSNA
-#EXTVLCOPT:http-user-agent=Android
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1 tvg-country="HR"  group-title="DAY",HRT 1 (HD)
 #REFERER MANDATORY.q5
 #EXTVLCOPT:http-user-agent=Android
@@ -99,6 +95,10 @@ rtmp://rtcg2.videostreaming.rs/rtcg/rtcg.1.stream
 #.q5
 #EXTVLCOPT:http-user-agent=Android
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="GB"  group-title="MOV",MOVIESPHERE (HD)
+#.q5
+#EXTVLCOPT:http-user-agent=Android
+https://moviesphere-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="GB"  group-title="MOV",MOVIESPHERE ENGLAND
 #.q5
 #EXTVLCOPT:http-user-agent=Android
@@ -107,10 +107,6 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #.q5
 #EXTVLCOPT:http-user-agent=Android
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB"  group-title="MOV",MOVIESPHERE (HD)
-#.q5
-#EXTVLCOPT:http-user-agent=Android
-https://moviesphere-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="GB"  group-title="MOV",MOVIESPHERE UK
 #.q5
 #EXTVLCOPT:http-user-agent=Android
@@ -219,10 +215,18 @@ https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #geolocked.q4
 #EXTVLCOPT:http-user-agent=Android
 https://uzivo.rtrs.tv/tv/live/index.m3u8
+#EXTINF:-1 tvg-country="BA"  group-title="DAY",RTV HB
+#HERCEG BOSNA
+#EXTVLCOPT:http-user-agent=Android
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1 tvg-country="RS"  group-title="DAY",RTV NOVI PAZAR
 #
 #EXTVLCOPT:http-user-agent=Android
 https://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1 tvg-country="RS"  group-title="DAY",RTV SP
+#STARA PAZOVA
+#EXTVLCOPT:http-user-agent=Android
+rtmp://bk.ddstream.info:1935/mylive/rtvsp/rtvsp
 #EXTINF:-1 tvg-country="BA"  group-title="DAY",RTV USK
 #
 #EXTVLCOPT:http-user-agent=Android
@@ -247,10 +251,6 @@ http://89.201.163.244:8080/hls/hdmi.m3u8
 #
 #EXTVLCOPT:http-user-agent=Android
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="RS"  group-title="DAY",RTV SP
-#STARA PAZOVA
-#EXTVLCOPT:http-user-agent=Android
-rtmp://bk.ddstream.info:1935/mylive/rtvsp/rtvsp
 #EXTINF:-1 tvg-country="GB"  group-title="MOV",STIRR GRAVITAS MOVIES (720p)
 #
 #EXTVLCOPT:http-user-agent=Android
@@ -267,15 +267,15 @@ https://mirtv.club/live/mirtv/index.m3u8
 #
 #EXTVLCOPT:http-user-agent=Android
 https://peer.tdiradio.com/static/streaming-playlists/hls/2dbc3630-2d41-4a02-ace8-da279e698b74/0.m3u8
-#EXTINF:-1 tvg-country="GB"  group-title="KIDS",TOONAMI AFTERMATH EAST
+#EXTINF:-1 tvg-country="US"  group-title="KIDS",TOONAMI AFTERMATH EAST
 #.q5
 #EXTVLCOPT:http-user-agent=Android
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:-1 tvg-country="GB"  group-title="MOV",TOONAMI AFTERMATH MOVIES (540p)
+#EXTINF:-1 tvg-country="US"  group-title="MOV",TOONAMI AFTERMATH MOVIES (540p)
 #.q5
 #EXTVLCOPT:http-user-agent=Android
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB"  group-title="KIDS",TOONAMI AFTERMATH WEST
+#EXTINF:-1 tvg-country="US"  group-title="KIDS",TOONAMI AFTERMATH WEST
 #.q5
 #EXTVLCOPT:http-user-agent=Android
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
@@ -311,11 +311,11 @@ https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w1209443471.m3u8
 #
 #EXTVLCOPT:http-user-agent=Android
 https://live.tsd-tv.com/live/tsd.m3u8
-#EXTINF:-1 tvg-country="GB"  group-title="MOVCLASSIC",TVS CLASSIC MOVIES (480p)
+#EXTINF:-1 tvg-country="US"  group-title="MOVCLASSIC",TVS CLASSIC MOVIES (480p)
 #
 #EXTVLCOPT:http-user-agent=Android
 https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB"  group-title="MOVCLASSIC",TVS NOSTALGIA MOVIES (480p)
+#EXTINF:-1 tvg-country="US"  group-title="MOVCLASSIC",TVS NOSTALGIA MOVIES (480p)
 #
 #EXTVLCOPT:http-user-agent=Android
 https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8?checkedby:iptvcat.com
