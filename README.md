@@ -13,7 +13,7 @@ On android, if you want to download file, click and hold, and save file. Or past
 
 ```
 
-version: 20221215-2
+version: 20221215-3
 Channels are mostly from web sites, or possibly apps.
 
 Channels are checked for validity.
@@ -23,6 +23,7 @@ windows players:
 vlc: media/open network stream, or download list (right click, save as, open in vlc)
 mpc-hc, file, quick open file. user agent is not supported. label is not supported.
 mpv. create mpv.conf in mpv subfolder. add --user-agent=android in mpv.conf, or if you use command line: mpv --user-agent=android file_or_url_address
+  -if you want playlist in mpv-windows, download config from https://github.com/tomasklaen/uosc
 kodi
 SF Vip player, https://serbianforum.org/threads/sf-vip-plejer.878393/
 progtv player (shareware)
