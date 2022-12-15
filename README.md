@@ -26,6 +26,7 @@ android players:
 vlc
 kodi
 progtv
+mpv, 
 
 **Wiki** is also active https://github.com/dbojan/free-iptv-balkan-plus/wiki
 Let me know if you edit it in a meaningfull way.
