@@ -36,8 +36,8 @@ Download list (right click, save as, open in vlc), or open network addres in vlc
 --if you use command line: mpv --user-agent=android file_or_url_address
 --if you want playlist in mpv-windows, download config from https://github.com/tomasklaen/uosc
   
--kodi
--SF Vip player, https://serbianforum.org/threads/sf-vip-plejer.878393/
+-kodi, supports epg, kinda complicated to setup, and to navigate.
+-(SF Vip player)[https://serbianforum.org/threads/sf-vip-plejer.878393/]
 -progtv player (shareware)
 -smplayer, download m3u file, open file
 
