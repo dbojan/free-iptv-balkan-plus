@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 
 On android, if you want to download file, click and hold, and save file. Or paste m3u url directly in player.
 
-Paste this for epg guide: https://iptv-org.github.io/epg/guides/hr.xml , more info [here](https://github.com/iptv-org/epg)
+Paste this for into kodi epg part: https://iptv-org.github.io/epg/guides/hr.xml , more info [here](https://github.com/iptv-org/epg)
 
 <code>
 <pre>
