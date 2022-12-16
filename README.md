@@ -70,7 +70,7 @@ tv balkan uzivo
 
 
 
-#short and long qr codes, both are ok. point your phone camera, or use qr code scanner app:
+#short and long qr codes for list url, both are ok. point your phone camera, or use qr code scanner app:
 
 ![qrshort](qrshort.png)
 
