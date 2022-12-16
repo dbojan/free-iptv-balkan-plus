@@ -10,8 +10,6 @@ Shortened version, if you need to type it (or use kodi remote for android/iphone
 
 https://t.ly/bppp
 
-QR Code(qrshort.png)
-
 
 same file also available gzipped, supported by vlc and probably kodi:
 
@@ -64,6 +62,13 @@ https://github.com/iptv-org/awesome-iptv
 web browser players: 
 tv balkan uzivo
 
+</code></pre>
+
+short and long qr codes, both are ok:
+
+![qrshort](qrshort.png)
+
+![qrlong](qrlong.png)
 
 
 
