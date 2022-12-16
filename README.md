@@ -21,7 +21,7 @@ Paste this for epg guide: https://iptv-org.github.io/epg/guides/hr.xml , found [
 
 <code>
 <pre>
-version: 20221215-3
+version: 20221216-1
 Channels are mostly from web sites, or possibly apps.
 
 Channels are checked for validity.
