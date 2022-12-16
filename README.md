@@ -26,7 +26,9 @@ Channels are mostly from web sites, or possibly apps.
 Channels are checked for validity.
 Download list (right click, save as, open in vlc), or open network addres in vlc directly.
 
-windows players:
+
+#IPTV players
+##windows players:
 vlc: media/open network stream, or download list (right click, save as, open in vlc)
 mpc-hc, file, quick open file. user agent is not supported. label is not supported.
 mpv. create mpv.conf in mpv subfolder. add --user-agent=android in mpv.conf, 
@@ -39,7 +41,7 @@ progtv player (shareware)
 smplayer, download m3u file, open file
 
 
-android players:
+##android players:
 vlc
 kodi
 progtv
@@ -68,11 +70,14 @@ tv balkan uzivo
 
 
 
-short and long qr codes, both are ok:
+#short and long qr codes, both are ok. point your phone camera, or use qr code scanner app:
 
 ![qrshort](qrshort.png)
 
 ```
+
+
+
 
 
 
