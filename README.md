@@ -62,6 +62,10 @@ more info on apps:
 https://github.com/iptv-org/awesome-iptv
 
 
+qr code creator web: https://goqr.me/
+barcode scanner for android: https://play.google.com/store/apps/details?id=com.google.zxing.client.android&hl=en&gl=US
+url shortener: https://t.ly/links
+
 </code>
 </pre>
 
