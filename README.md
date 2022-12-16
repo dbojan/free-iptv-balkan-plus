@@ -19,7 +19,6 @@ On android, if you want to download file, click and hold, and save file. Or past
 
 <code>
 <pre>
-
 version: 20221215-3
 Channels are mostly from web sites, or possibly apps.
 
