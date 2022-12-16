@@ -59,15 +59,31 @@ https://iptvcat.com
 more info on apps: 
 https://github.com/iptv-org/awesome-iptv
 
+
+</code>
+</pre>
+
 web browser players: 
 tv balkan uzivo
 
-</code></pre>
+
 
 short and long qr codes, both are ok:
 
 ![qrshort](qrshort.png)
 
+```
+
+
+
+
+
+
+
+
+
+
+```
 ![qrlong](qrlong.png)
 
 
