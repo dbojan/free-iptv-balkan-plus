@@ -27,31 +27,31 @@ Channels are checked for validity.
 Download list (right click, save as, open in vlc), or open network addres in vlc directly.
 
 
-#IPTV players
-##windows players:
-vlc: media/open network stream, or download list (right click, save as, open in vlc)
-mpc-hc, file, quick open file. user agent is not supported. label is not supported.
-mpv. create mpv.conf in mpv subfolder. add --user-agent=android in mpv.conf, 
+## IPTV players
+## windows players:
+-vlc: media/open network stream, or download list (right click, save as, open in vlc)
+-mpc-hc, file, quick open file. user agent is not supported. label is not supported.
+-mpv. create mpv.conf in mpv subfolder. add --user-agent=android in mpv.conf, 
   -if you use command line: mpv --user-agent=android file_or_url_address
   -if you want playlist in mpv-windows, download config from https://github.com/tomasklaen/uosc
   
-kodi
-SF Vip player, https://serbianforum.org/threads/sf-vip-plejer.878393/
-progtv player (shareware)
-smplayer, download m3u file, open file
+-kodi
+-SF Vip player, https://serbianforum.org/threads/sf-vip-plejer.878393/
+-progtv player (shareware)
+-smplayer, download m3u file, open file
 
 
-##android players:
-vlc
-kodi
-progtv
-mpv, 
+## android players:
+-vlc
+-kodi
+-progtv
+-mpv, 
 
 **Wiki** is also active https://github.com/dbojan/free-iptv-balkan-plus/wiki
 Let me know if you edit it in a meaningfull way.
 
 
-sources:
+## sources:
 list of free iptv channels: 
 https://github.com/iptv-org/iptv
 https://github.com/Free-TV/IPTV
@@ -70,7 +70,10 @@ tv balkan uzivo
 
 
 
-#short and long qr codes for list url, both are ok. point your phone camera, or use qr code scanner app:
+## qr codes
+
+qr codes for list, short and long. Both are ok. Point your phone camera, or use qr code scanner app
+
 
 ![qrshort](qrshort.png)
 
