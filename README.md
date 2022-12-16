@@ -31,8 +31,8 @@ Download list (right click, save as, open in vlc), or open network addres in vlc
 -vlc: media/open network stream, or download list (right click, save as, open in vlc)
 -mpc-hc, file, quick open file. user agent is not supported. label is not supported.
 -mpv. create mpv.conf in mpv subfolder. add --user-agent=android in mpv.conf, 
-  -if you use command line: mpv --user-agent=android file_or_url_address
-  -if you want playlist in mpv-windows, download config from https://github.com/tomasklaen/uosc
+--if you use command line: mpv --user-agent=android file_or_url_address
+--if you want playlist in mpv-windows, download config from https://github.com/tomasklaen/uosc
   
 -kodi
 -SF Vip player, https://serbianforum.org/threads/sf-vip-plejer.878393/
@@ -44,7 +44,7 @@ Download list (right click, save as, open in vlc), or open network addres in vlc
 -vlc
 -kodi
 -progtv
--mpv, 
+-mpv
 
 **Wiki** is also active https://github.com/dbojan/free-iptv-balkan-plus/wiki
 Let me know if you edit it in a meaningfull way.
@@ -65,13 +65,11 @@ qr code creator web: https://goqr.me/
 barcode scanner for android: https://play.google.com/store/apps/details?id=com.google.zxing.client.android&hl=en&gl=US
 url shortener: https://t.ly/links
 
-</code>
-</pre>
-
 web browser players: 
 tv balkan uzivo
 
-
+</code>
+</pre>
 
 ## qr codes
 
