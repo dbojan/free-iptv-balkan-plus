@@ -24,11 +24,10 @@ https://iptv-org.github.io/epg/guides/us.xml
 
 ---
 
-github site shortener:
-https://t.ly/balkanplus
-https://github.com/dbojan/free-iptv-balkan-plus 
-
 main list shortener (3 letters after b) use this with your iptv player app:
 https://t.ly/bppp
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
 
+github site shortener:
+https://t.ly/balkanplus
+https://github.com/dbojan/free-iptv-balkan-plus 
