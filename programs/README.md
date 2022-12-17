@@ -14,8 +14,9 @@ windows players:
 |vlc|+|+|-|+|3.5|3.9|android|+|-|+|it supports labels|low stability, sometimes hangs||-|||||
 |kodi|+|+|-|+|4|3.6|android|+|+|+|supports epg, although single source only|complicated to set up and navigate, single epg source only (minor con), forced landscape, paste does not work||-|+|-|+ (but not both url in m3u and additional box)|-|
 |progtv|+|+|+|+|3.5|4|android|+|+|shareware, recording omitted from free version|multiple epg boxes sources|weird navigation, does not play some channels like moviesphere||+|-|-|+|+|
-|mpv|+|+|-|+|5|4.1|android|+|-|+|very stable|does not support epg, you have to open playlist manually each startup|hold on arrow to the right to see the playlist||||||
+|mpv|+|+|-|+|5|3.8|android|+|-|+|very stable|does not support epg, you have to open playlist manually each startup|hold on arrow to the right to see the playlist||||||
 |tivimate|+|+|-|+|4|4|android|+|+|shareware, limitation: singe playlist url and single epg inputbox|shows epg|forced landscape mode||-|+|-|+|-|
+
 
 
 -vlc: 
