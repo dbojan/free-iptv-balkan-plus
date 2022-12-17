@@ -21,7 +21,7 @@ EPG
 
 "Kodi simple iptv client" only supports one epg url at the time. Only one is enabled in the list.
 
-ProgTV can add more than one epg sources, when adding channel lists.
+ProgTV can add more than one epg sources, you have to add each in the single text box for guide, when adding sources, then click update button.
 
 List can be found [here](https://github.com/iptv-org/epg)
 
