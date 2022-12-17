@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 On android, if you want to download file, click and hold, and save file. Or paste m3u url directly in player.
 
 EPG
+
 "Kodi simple iptv client" only supports one epg url at the time. Only one is enabled in the list.
 
 Progdvb can add more than one epg sources, when adding channel lists.
