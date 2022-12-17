@@ -24,7 +24,7 @@ https://iptv-org.github.io/epg/guides/us.xml
 
 ---
 
-main list shortener (3 letters after b) use this with your iptv player app:
+main play list shortener (3 letters after b) use this with your iptv player app:
 https://t.ly/bppp
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
 
