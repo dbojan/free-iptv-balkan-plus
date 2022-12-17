@@ -3,7 +3,9 @@
 <pre>
 
 
-EPG shorteners (**4 letters** after e) you should not open these directly, instead paste or type short version into your iptv app, in the epg section:
+EPG shorteners (**4 letters** after e) 
+you should not open these directly, instead paste or type short version into your iptv app, in the epg section:
+
 https://t.ly/ehhhh
 https://iptv-org.github.io/epg/guides/hr.xml 
 
