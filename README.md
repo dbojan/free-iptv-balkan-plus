@@ -23,7 +23,7 @@ EPG
 
 ProgTV can add more than one epg sources, you have to add each in the single text box for guide, when adding sources, then click update button.
 
-List can be found [here](https://github.com/iptv-org/epg), shorter versions [here](short)
+List URLS can be found [here](https://github.com/iptv-org/epg), shorter versions [here](short)
 
 <code>
 <pre>
