@@ -27,7 +27,7 @@ List URLS can be found [here](https://github.com/iptv-org/epg), shorter versions
 
 <code>
 <pre>
-version: 20221216-1
+version: 20221219-1
 Channels are mostly from web sites, or possibly apps.
 
 Channels are checked for validity.
