@@ -71,7 +71,7 @@ https://github.com/iptv-org/awesome-iptv
 
 qr code creator web: https://goqr.me/
 barcode scanner for android: https://play.google.com/store/apps/details?id=com.google.zxing.client.android&hl=en&gl=US
-url shortener: https://t.ly/links
+url shortener: https://cutt.ly
 
 web browser players: 
 tv balkan uzivo
@@ -109,4 +109,11 @@ qr codes for list, short and long. Both are ok. Point your phone camera, or use 
 
 
 
+```
 
+
+
+
+
+```
+Don't use t.ly url shortener. After a couple of days your free trial will expire and your links will not work!
