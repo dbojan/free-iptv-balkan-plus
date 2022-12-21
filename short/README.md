@@ -33,3 +33,9 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 github site shortener:
 https://cutt.ly/balkanplus
 https://github.com/dbojan/free-iptv-balkan-plus 
+
+
+
+
+
+Don't use t.ly url shortener. After a couple of days your free trial will expire and your links will not work!
