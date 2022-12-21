@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 
 Shortened version, if you need to type it (or use [kodi remote](https://kodi.wiki/view/Official_Kodi_Remote) for android/iphone to send text ):
 
-https://t.ly/bppp
+https://cutt.ly/bppp
 
 
 same file also available gzipped, supported by vlc and probably kodi:
