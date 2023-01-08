@@ -9,7 +9,7 @@ windows players:
 |progtv|+|+|+|+|3.5|4.2|windows|+|+|shareware, recording omitted from free version|multiple epg boxes sources and from m3u supported|||+|-|-|+|+|
 |smplayer|-|+|-|+|4|3.9|windows|+|-|+|easy navigation in playlist using arrows|cannot open url with m3u|||||||
 |mpv|+|+|-|+|5|4.1|windows|+|-|+|rock stable, can record stream|you have to download additional plugins to display list on windows, does not support epg|||||||
-|mpc-hc|+ (use quick open)|+|-|-|4|3.9|windows|-|-|+|fast|no user agemt, labels, epg|||||||
+|mpc-hc|+ (use open file/url)|+|-|-|4|3.9|windows|-|-|+|fast|no user agemt, labels, epg|||||||
 |sf vip player|+|+|+ (user profiles)|+|4|4|windows|+|-|+|multiple users|no epg support|||||||
 |vlc|+|+|-|+|3.5|3.9|android|+|-|+|it supports labels|low stability, sometimes hangs||-|||||
 |kodi|+|+|-|+|4|3.6|android|+|+|+|supports epg, although single source only|complicated to set up and navigate, single epg source only (minor con), forced landscape, paste does not work||-|+|-|+ (but not both url in m3u and additional box)|-|
