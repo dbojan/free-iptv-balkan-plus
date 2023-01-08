@@ -7,7 +7,7 @@ windows players:
 |vlc|+|+|-|+|4|4|windows|+|-|+|it supports labels|does not support epg||-|||||
 |kodi|+|+|-|+|4|3.6|windows|+|+|+|supports epg, although single source only|complicated to set up and navigate, single epg source only (minor con)||-|+|-|+ (but not both url in m3u and additional box)|-|
 |progtv|+|+|+|+|3.5|4.2|windows|+|+|shareware, recording omitted from free version|multiple epg boxes sources and from m3u supported|||+|-|-|+|+|
-|smplayer|-(download list first)|+|-|+|4|3.9|windows|+|-|+|easy navigation in playlist using arrows|cannot open url with m3u|||||||
+|smplayer|- (download list first)|+|-|+|4|3.9|windows|+|-|+|easy navigation in playlist using arrows|cannot open url with m3u|||||||
 |mpv|+|+|-|+|5|4.1|windows|+|-|+|rock stable, can record stream|you have to download additional plugins to display list on windows, does not support epg|||||||
 |mpc-hc|+ (use quick open)|+|-|-|4|3.9|windows|-|-|+|fast|no user agemt, labels, epg|||||||
 |sf vip player|+|+|+ (user profiles)|+|4|4|windows|+|-|+|multiple users|no epg support|||||||
