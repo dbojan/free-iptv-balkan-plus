@@ -29,7 +29,7 @@ List URLS can be found [here](https://github.com/iptv-org/epg), shorter versions
 <pre>
 
 version:
-update:20230805-1
+update: 20230805-1
 changed list of tv stations
 
 update: 20221219-1
