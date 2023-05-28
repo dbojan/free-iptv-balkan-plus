@@ -1,321 +1,219 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/hr.xml" country open tag.space leftCOUNTRYclose quotes.space rightopen logo space leftlogo composite urlclose logo space rightopen id space leftclose space rightgroup open tag.space leftTYPEclose tag and comaNAMEADD TO NAMEnwlinecommentquality . as delimiternwlineuser agentnwlineURL
-#EXTINF:-1 tvg-country="BA"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/AlJazeeraBalkans.qa.png"  tvg-id="AlJazeeraBalkans.qa"  group-title="NEWS",Al Jazeera Balkans
-#
+﻿#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" ,AS
+#OK
 #EXTVLCOPT:http-user-agent=Android
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-country="BA"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/B1TV.ba.png"  tvg-id="B1TV.ba"  group-title="MUS",B1 TV
-#NOT 24
-#EXTVLCOPT:http-user-agent=Android
-http://wowza.bihnet.net:88/hls/b1-live.m3u8
-#EXTINF:-1 tvg-country="BA"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/BHRT.ba.png"  tvg-id="BHRT.ba"  group-title="DAY",BHRT
-#4
+https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="RS" ,Backa Palanka
+https://5bc45691ca49f.streamlock.net/rtvbap/uzivo/chunklist_w1314121693.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="BA" tvg-id="BHT1.ba" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/BHT1.ba.png" ,BHRT
+#4 hd
 #EXTVLCOPT:http-user-agent=Android
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
-#EXTINF:-1 tvg-country="BA"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/BNTV.ba.png"  tvg-id="BNTV.ba"  group-title="DAY",BN TV
-#3
-#EXTVLCOPT:http-user-agent=Android
-https://dns2.rtvbn.com:8080/live/index.m3u8
-#EXTINF:-1 tvg-country="HR"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/CMCTV.hr.png"  tvg-id="CMCTV.hr"  group-title="MUS",CMC TV
-#AKA KLAPE I TAMBURE
-#EXTVLCOPT:http-user-agent=Android
-https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/eduTV.rs.png"  tvg-id="eduTV.rs"  group-title="EDU",eduTV
-#
-#EXTVLCOPT:http-user-agent=Android
-https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/EuronewsSerbia.rs.png"  tvg-id="EuronewsSerbia.rs"  group-title="NEWS",Euronews Serbia
-#
-#EXTVLCOPT:http-user-agent=Android
-https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1302619168_b6256000.m3u8
-#EXTINF:-1 tvg-country="SL"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/GTV-Gorenjskatelevizija.sl.png"  tvg-id="GTV-Gorenjskatelevizija.sl"  group-title="DAY",GTV - Gorenjska televizija
-#
-#EXTVLCOPT:http-user-agent=Android
-http://91.220.221.60/gtv_hls/gtv_03.m3u8
-#EXTINF:-1 tvg-country="HR"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT1.hr.png"  tvg-id="HRT1.hr"  group-title="DAY",HRT 1
-#REFERER MANDATORY5
-#EXTVLCOPT:http-user-agent=Android
-http://195.29.70.67/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1 tvg-country="HR"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT2.hr.png"  tvg-id="HRT2.hr"  group-title="DAY",HRT 2
-#REFERER MANDATORY5
-#EXTVLCOPT:http-user-agent=Android
-http://195.29.70.67/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1 tvg-country="HR"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT3.hr.png"  tvg-id="HRT3.hr"  group-title="DAY",HRT 3
-#REFERER MANDATORY5
-#EXTVLCOPT:http-user-agent=Android
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:-1 tvg-country="HR"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT4.hr.png"  tvg-id="HRT4.hr"  group-title="DAY",HRT 4
-#REFERER MANDATORY5
-#EXTVLCOPT:http-user-agent=Android
-http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
-#EXTINF:-1 tvg-country="HR"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HrvatskiradioKarlovac.hr.png"  tvg-id="HrvatskiradioKarlovac.hr"  group-title="MUS",HRVATSKI RADIO KARLOVAC
-#
-#EXTVLCOPT:http-user-agent=Android
-https://pool.alter-media.hr:1936/prvikarlovacki/prvikarlovacki/chunklist_w1038836451.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/IDJTV.rs.png"  tvg-id="IDJTV.rs"  group-title="MUS",IDJ TV
-#
-#EXTVLCOPT:http-user-agent=Android
-https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/K23TV.rs.png"  tvg-id="K23TV.rs"  group-title="DAY",K23 TV
-#daily motion
-#EXTVLCOPT:http-user-agent=Android
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.dailymotion.com/video/x1jztwz
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/KanalM.rs.png"  tvg-id="KanalM.rs"  group-title="MUS",KANAL M
-#
-#EXTVLCOPT:http-user-agent=Android
-http://176.67.210.1/hls/kanalm.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/KarolinaTV.rs.png"  tvg-id="KarolinaTV.rs"  group-title="MUS",KAROLINA TV
-#
-#EXTVLCOPT:http-user-agent=Android
-https://peer.tdiradio.com/static/streaming-playlists/hls/f43b4b5e-7e2e-442d-85a0-4b38fd1c1be7/0.m3u8
-#EXTINF:-1 tvg-country="GB"  tvg-logo=""  tvg-id=""  group-title="MOV",MOVIESPHERE
-#5
-#EXTVLCOPT:http-user-agent=Android
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB"  tvg-logo=""  tvg-id=""  group-title="MOV",MOVIESPHERE (ENGLAND)
-#5
-#EXTVLCOPT:http-user-agent=Android
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB"  tvg-logo=""  tvg-id=""  group-title="MOV",MOVIESPHERE FREE
-#5
-#EXTVLCOPT:http-user-agent=Android
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB"  tvg-logo=""  tvg-id=""  group-title="MOV",MOVIESPHERE HD
-#5
-#EXTVLCOPT:http-user-agent=Android
-https://moviesphere-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB"  tvg-logo=""  tvg-id=""  group-title="MOV",MOVIESPHERE UK
-#5
-#EXTVLCOPT:http-user-agent=Android
-https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/Muzzik.rs.png"  tvg-id="Muzzik.rs"  group-title="MUS",MUZZIK
-#REFERER MANDATORY
-#EXTVLCOPT:http-user-agent=Android
-https://muzzik-live.morescreens.com/mts-6/chunklist.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="MUS",MUZZIK ELECTRO
-#REFERER MANDATORY
-#EXTVLCOPT:http-user-agent=Android
-https://muzzik-live.morescreens.com/mts-a7/chunklist.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="MUS",MUZZIK FLASHBACK
-#REFERER MANDATORY
-#EXTVLCOPT:http-user-agent=Android
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id="MuzzikJekaSerbia.rs"  group-title="MUS",MUZZIK JEKA
-#REFERER MANDATORY
-#EXTVLCOPT:http-user-agent=Android
-https://muzzik-live.morescreens.com/mts-4/chunklist.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="MUS",MUZZIK MOBA
-#REFERER MANDATORY
-#EXTVLCOPT:http-user-agent=Android
-https://muzzik-live.morescreens.com/mts-2/chunklist.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="MUS",MUZZIK POPSTAR
-#REFERER MANDATORY
-#EXTVLCOPT:http-user-agent=Android
-https://muzzik-live.morescreens.com/mts-3/chunklist.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="MUS",MUZZIK RIVIERA
-#REFERER MANDATORY
-#EXTVLCOPT:http-user-agent=Android
-https://muzzik-live.morescreens.com/mts-a5/chunklist.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id="MuzzikRockRollSerbia.rs"  group-title="MUS",MUZZIK RNR
-#REFERER MANDATORY
-#EXTVLCOPT:http-user-agent=Android
-https://muzzik-live.morescreens.com/mts-1/chunklist.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="MUS",MUZZIK SENSE
-#REFERER MANDATORY
-#EXTVLCOPT:http-user-agent=Android
-https://muzzik-live.morescreens.com/mts-7/chunklist.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="MUS",MUZZIK WWM
-#REFERER MANDATORY
-#EXTVLCOPT:http-user-agent=Android
-https://muzzik-live.morescreens.com/mts-5/chunklist.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="MUS",MUZZIK ZZ TV
-#REFERER MANDATORY
-#EXTVLCOPT:http-user-agent=Android
-https://muzzik-live.morescreens.com/mts-a4/chunklist.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="MUS",MUZZIK ZZ4000
-#REFERER MANDATORY
-#EXTVLCOPT:http-user-agent=Android
-https://muzzik-live.morescreens.com/mts-a6/chunklist.m3u8
-#EXTINF:-1 tvg-country="BA"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/N1BosniaHerzegovina.ba.png"  tvg-id="N1BosniaHerzegovina.ba"  group-title="NEWS",N1 BIH
-#
-#EXTVLCOPT:http-user-agent=Android
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-country="HR"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/N1Croatia.hr.png"  tvg-id="N1Croatia.hr"  group-title="NEWS",N1 HRV
-#
-#EXTVLCOPT:http-user-agent=Android
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/N1Serbia.rs.png"  tvg-id="N1Serbia.rs"  group-title="NEWS",N1 SRB
-#
-#EXTVLCOPT:http-user-agent=Android
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/PiKanal.rs.png"  tvg-id="PiKanal.rs"  group-title="DAY",PI KANAL
-#
-#EXTVLCOPT:http-user-agent=Android
-http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/PrugaTV.rs.png"  tvg-id="PrugaTV.rs"  group-title="DAY",PRUGA TV
-#
-#EXTVLCOPT:http-user-agent=Android
-https://stream.pruga.rs:8443/live/pruga/index.m3u8
-#EXTINF:-1 tvg-country="GB"  tvg-logo=""  tvg-id="RakutenTVActionMoviesUK.uk"  group-title="MOV",RAKUTEN ACTION MOVIES UK
-#
-#EXTVLCOPT:http-user-agent=Android
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB"  tvg-logo=""  tvg-id="RakutenTVComedyMoviesUK.uk"  group-title="MOV",RAKUTEN COMEDY MOVIES UK
-#
-#EXTVLCOPT:http-user-agent=Android
-https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RedTV.rs.png"  tvg-id="RedTV.rs"  group-title="DAY",RED TV
-#5
-#EXTVLCOPT:http-user-agent=Android
-https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
-#EXTINF:-1 tvg-country="GB"  tvg-logo=""  tvg-id=""  group-title="MOV",ROKU MOVIESPHERE
-#
-#EXTVLCOPT:http-user-agent=Android
-https://moviesphere-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="HR"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTLCroatia.hr.png"  tvg-id="RTLCroatia.hr"  group-title="DAY",RTL
-#5
-#EXTVLCOPT:http-user-agent=Android
-https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-country="HR"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTL2Croatia.hr.png"  tvg-id="RTL2Croatia.hr"  group-title="DAY",RTL 2
-#5
-#EXTVLCOPT:http-user-agent=Android
-https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-#EXTINF:-1 tvg-country="HR"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTLKockica.hr.png"  tvg-id="RTLKockica.hr"  group-title="KIDS",RTL KOCKICA
-#5
-#EXTVLCOPT:http-user-agent=Android
-https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:-1 tvg-country="BA"  tvg-logo=""  tvg-id=""  group-title="DAY",RTRS
-#geolocked4
-#EXTVLCOPT:http-user-agent=Android
-https://uzivo.rtrs.tv/tv/live/index.m3u8
-#EXTINF:-1 tvg-country="BA"  tvg-logo=""  tvg-id=""  group-title="DAY",RTV HB
-#HERCEG BOSNA
-#EXTVLCOPT:http-user-agent=Android
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTVNoviPazar.rs.png"  tvg-id="RTVNoviPazar.rs"  group-title="DAY",RTV NOVI PAZAR
-#
-#EXTVLCOPT:http-user-agent=Android
-https://rtvnp.rs/hls/rtvnp.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTVStaraPazova.rs.png"  tvg-id="RTVStaraPazova.rs"  group-title="DAY",RTV STARA PAZOVA
-#STARA PAZOVA
-#EXTVLCOPT:http-user-agent=Android
-rtmp://bk.ddstream.info:1935/mylive/rtvsp/rtvsp
-#EXTINF:-1 tvg-country="BA"  tvg-logo=""  tvg-id=""  group-title="DAY",RTV USK
-#
-#EXTVLCOPT:http-user-agent=Android
-http://wslb.dobratv.net:8877/usk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-country="BA"  tvg-logo=""  tvg-id=""  group-title="DAY",SEHARA ONLINE
-#
-#EXTVLCOPT:http-user-agent=Android
-http://ip2.xxlservices.com:8081/seharaonline/live/chunks.m3u8
-#EXTINF:-1 tvg-country="BA"  tvg-logo=""  tvg-id=""  group-title="MUS",SEHARA TELEVIZIJA
-#
-#EXTVLCOPT:http-user-agent=Android
-http://ip2.xxlservices.com:8081/seharatv/mpegts/mpeg.2ts
-#EXTINF:-1 tvg-country="HR"  tvg-logo=""  tvg-id=""  group-title="DAY",SLAVONSKA TV
-#
-#EXTVLCOPT:http-user-agent=Android
-http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/SOSKanalPlus.rs.png"  tvg-id="SOSKanalPlus.rs"  group-title="DAY",SOS KANAL PLUS
-#
-#EXTVLCOPT:http-user-agent=Android
-https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="GB"  tvg-logo=""  tvg-id=""  group-title="MOV",STIRR GRAVITAS MOVIES
-#
-#EXTVLCOPT:http-user-agent=Android
-https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="RS"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/StudioB.rs.png"  tvg-id="StudioB.rs"  group-title="DAY",STUDIO B
-#
-#EXTVLCOPT:http-user-agent=Android
-http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
-#EXTINF:-1 tvg-country="BA"  tvg-logo=""  tvg-id=""  group-title="DAY",SUPERTV
-#
-#EXTVLCOPT:http-user-agent=Android
-https://mirtv.club/live/mirtv/index.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="MUS",TDI RADIO TV
-#
-#EXTVLCOPT:http-user-agent=Android
-https://peer.tdiradio.com/static/streaming-playlists/hls/2dbc3630-2d41-4a02-ace8-da279e698b74/0.m3u8
-#EXTINF:-1 tvg-country="US"  tvg-logo=""  tvg-id="ToonamiAftermathEast.us"  group-title="KIDS",TOONAMI AFTERMATH EAST
-#5
-#EXTVLCOPT:http-user-agent=Android
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:-1 tvg-country="US"  tvg-logo=""  tvg-id="ToonamiAftermathMovies.us"  group-title="MOV",TOONAMI AFTERMATH MOVIES
-#5
-#EXTVLCOPT:http-user-agent=Android
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="US"  tvg-logo=""  tvg-id="ToonamiAftermathWest.us"  group-title="KIDS",TOONAMI AFTERMATH WEST
-#5
-#EXTVLCOPT:http-user-agent=Android
-http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
-#EXTINF:-1 tvg-country="HR"  tvg-logo=""  tvg-id=""  group-title="DAY",TREND TV
-#
-#EXTVLCOPT:http-user-agent=Android
-http://185.62.75.22:1935/trend/myStream/playlist.m3u8
-#EXTINF:-1 tvg-country="ME"  tvg-logo=""  tvg-id=""  group-title="DAY",TV 7
-#
-#EXTVLCOPT:http-user-agent=Android
-https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/chunklist_w950220315.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="DAY",TV AS
-#
-#EXTVLCOPT:http-user-agent=Android
-https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac&player=m3u8
-#EXTINF:-1 tvg-country="HR"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/TVJadran.hr.png"  tvg-id="TVJadran.hr"  group-title="DAY",TV Jadran
-#daily motion
-#EXTVLCOPT:http-user-agent=Android
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x670ug8/live
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="DAY",TV KRAGUJEVAC
-#twitch
-#EXTVLCOPT:http-user-agent=Android
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/televizijakragujevac
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="DAY",TV NOVI PAZAR
-#
-#EXTVLCOPT:http-user-agent=Android
-https://rtvnp.rs/hls/rtvnp.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="DAY",TV PI PIROT
-#
-#EXTVLCOPT:http-user-agent=Android
-http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="DAY",TV PIROT
-#
-#EXTVLCOPT:http-user-agent=Android
-https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w1209443471.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="DAY",TV SRPSKE DIJASPORE
-#
-#EXTVLCOPT:http-user-agent=Android
-https://live.tsd-tv.com/live/tsd.m3u8
-#EXTINF:-1 tvg-country="RS"  tvg-logo=""  tvg-id=""  group-title="DAY",TV VALJEVO PLUS
-#twitch
-#EXTVLCOPT:http-user-agent=Android
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvvaljevoplus
-#EXTINF:-1 tvg-country="ME"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/TVCG1.me.png"  tvg-id="TVCG1.me"  group-title="DAY",TVCG 1
+#EXTINF:0 status="ok:0" group-title="DAY" tvg-country="RS" ,BOR
+http://ott.dobratv.net:25461/BoemTV/112233445566/6932
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="ME" tvg-id="TVCG1.me" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/TVCG1.me.png" ,CG 1
 #4
 #EXTVLCOPT:http-user-agent=Android
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="ME"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/TVCG2.me.png"  tvg-id="TVCG2.me"  group-title="DAY",TVCG 2
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="ME" tvg-id="TVCG2.me" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/TVCG2.me.png" ,CG 2
 #4
 #EXTVLCOPT:http-user-agent=Android
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="ME"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/TVCG3.me.png"  tvg-id="TVCG3.me"  group-title="DAY",TVCG 3
-#
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="ME" tvg-id="TVCG3.me" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/TVCG3.me.png" ,CG 3
 #EXTVLCOPT:http-user-agent=Android
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="ME"  tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/TVCGMNE.me.png"  tvg-id="TVCGMNE.me"  group-title="DAY",TVCG MNE
+#EXTINF:0 status="ok:0" group-title="DAY" tvg-country="BA" ,DOBRA international
+#sa eng prevodom
+http://ott.dobratv.net:25461/BoemTV/112233445566/13
+#EXTINF:0 status="ok:0" group-title="DAY" tvg-country="BA" ,DOBRA Travel
+#SOMETIMES ENGLISH
+http://ott.dobratv.net:25461/BoemTV/112233445566/14145
+#EXTINF:-1 status="ok:0" group-title="EDU" tvg-country="RS" tvg-id="eduTV.rs" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/eduTV.rs.png" ,Edu
+#EXTVLCOPT:http-user-agent=Android
+https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
+#EXTINF:0 status="ok:0" group-title="DAY" tvg-country="RS" ,Gm Plus
+http://178.217.15.36/fineliving/index.m3u8?token=test
+#EXTINF:0 status="ok:0" group-title="DAY" tvg-country="BA" ,HIT
+http://ott.dobratv.net:25461/BoemTV/112233445566/6887
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="HR" tvg-id="HRT1.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT1.hr.png" ,HRT 1
+#USER AGENT MANDATORY
+#EXTVLCOPT:http-user-agent=Android
+http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="HR" tvg-id="HRT2.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT2.hr.png" ,HRT 2
+#USER AGENT MANDATORY
+#EXTVLCOPT:http-user-agent=Android
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="HR" tvg-id="HRT3.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT3.hr.png" ,HRT 3
+#USER AGENT MANDATORY
+#EXTVLCOPT:http-user-agent=Android
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="HR" tvg-id="HRT4.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT4.hr.png" ,HRT 4
+#USER AGENT MANDATORY
+#EXTVLCOPT:http-user-agent=Android
+http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="HR" tvg-id="TVJadran.hr" tvg-logo="https://i.imgur.com/UWMHnOG.png" ,Jadran
+# (720p) [Not 24/7]
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:0 status="ok:0" group-title="DAY" tvg-country="RS" ,Krusevac
+#OK SLOW
+http://91.148.123.53:8888/ipvt_009
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="RS" tvg-id="KurirTV.rs" ,Kurir
+#EXTVLCOPT:http-user-agent=Android
+https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
+#EXTINF:0 status="ok:0" group-title="DAY" tvg-country="RS" ,Mars
+http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="ME" tvg-logo="https://i.imgur.com/jozQP6Z.png" ,MNE
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="MK" ,M-NET
+https://giganet.mk/hls/mnet.m3u8
+#EXTINF:-1 status="ok:0" group-title="KIDS" tvg-country="MK" ,M-NET KIDS
+https://giganet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="RS" tvg-id="RTVNoviPazar.rs" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTVNoviPazar.rs.png" ,Novi Pazar
+#EXTVLCOPT:http-user-agent=Android
+https://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:0 status="ok:0" group-title="DAY" tvg-country="BA" ,NTV 1C
+http://ott.dobratv.net:25461/BoemTV/112233445566/6897
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="RS" tvg-id="PiKanal.rs" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/PiKanal.rs.png" ,Pi Kanal
+#EXTVLCOPT:http-user-agent=Android
+http://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:0 status="ok:0" group-title="DAY" tvg-country="BA" ,PODRINJE
+#podrinje tv
+http://ott.dobratv.net:25461/BoemTV/112233445566/121
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="RS" tvg-id="RedTV.rs" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RedTV.rs.png" ,Red
+#5
+#EXTVLCOPT:http-user-agent=Android
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="HR" tvg-id="RTLCroatia.hr" tvg-logo="https://i.imgur.com/aJGNyQn.png" ,RTL
+#hd
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="HR" tvg-id="RTL2Croatia.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTL2Croatia.hr.png" ,RTL 2
+#5
+#EXTVLCOPT:http-user-agent=Android
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+#EXTINF:-1 status="ok:0" group-title="KIDS" tvg-country="HR" tvg-id="RTLKockica.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTLKockica.hr.png" ,RTL Kockica
+#5
+#EXTVLCOPT:http-user-agent=Android
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="HR" tvg-id="RTLCroatia.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTLCroatia.hr.png" ,RTL v2
+#5 Full hd
+#EXTVLCOPT:http-user-agent=Android
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="RS" ,RTS 1
+#geolocked hd
+http://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="RS" ,RTS 2
+#geolocked
+http://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="RS" tvg-id="RTV1.rs" ,RTV 1
+#(576p) [Not 24/7]
+mmsh://212.200.255.151/rtv1
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="RS" tvg-id="RTV2.rs" ,RTV 2
+#(576p) [Not 24/7]
+mmsh://212.200.255.151/rtv2
+#EXTINF:-1 status="ok:0" group-title="MOV-YU" tvg-country="BA" tvg-id="SeharaOnline.ba" ,Sehara Online
+#5 mov?
+#EXTVLCOPT:http-user-agent=Android
+http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="HR" tvg-id="SlavonskaTV.hr" ,Slavonska
+#EXTVLCOPT:http-user-agent=Android
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="BA" tvg-id="TVSlonExtra.ba" ,Slon Extra
+#EXTVLCOPT:http-user-agent=Android
+http://31.47.0.130:8082/
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="RS" tvg-id="StudioB.rs" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/StudioB.rs.png" ,Studio B
+#EXTVLCOPT:http-user-agent=Android
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
+#EXTINF:-1 status="ok:0" group-title="DAY" tvg-country="BA" tvg-id="RTVUSK.ba" ,USK
+#EXTVLCOPT:http-user-agent=Android
+http://wslb.dobratv.net:8877/usk/tracks-v1a1/mono.m3u8
+#EXTINF:0 status="ok:0" group-title="DAY" tvg-country="BA' ,VOGOSCA
+http://ott.dobratv.net:25461/BoemTV/112233445566/13240
+#EXTINF:0 status="ok:0" group-title="DAY" tvg-country="HR" ,Zapad
+http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e_output_0.m3u8
+﻿#EXTINF:-1 group-title="Undefined" tvg-id="BBCAmericaEast.us" tvg-country="US" tvg-logo="https://i.imgur.com/pTiiPz0.png" ,BBC America (720p)
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="MOV" tvg-id="GravitasMovies.us" tvg-country="US" tvg-logo="" ,Gravitas Movies
 #
 #EXTVLCOPT:http-user-agent=Android
-rtmp://rtcg2.videostreaming.rs/rtcg/rtcg.1.stream
-#EXTINF:-1 tvg-country="US"  tvg-logo=""  tvg-id="TVSClassicMovies.us"  group-title="MOVCLASSIC",TVS CLASSIC MOVIES
+https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="MOV" tvg-id="MovieSphere.us" tvg-country="US" tvg-logo="" ,Moviesphere
+#5
+#EXTVLCOPT:http-user-agent=Android
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="MOV" tvg-id="" tvg-country="GB" tvg-logo="" ,Moviesphere England
+#5
+#EXTVLCOPT:http-user-agent=Android
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="MOV" tvg-id="" tvg-country="US" tvg-logo="" ,Moviesphere Free
+#5
+#EXTVLCOPT:http-user-agent=Android
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="MOV" tvg-id="" tvg-country="US" tvg-logo="" ,Moviesphere HD
+#5
+#EXTVLCOPT:http-user-agent=Android
+https://moviesphere-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="MOV" tvg-id="" tvg-country="GB" tvg-logo="" ,Moviesphere UK
+#5
+#EXTVLCOPT:http-user-agent=Android
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="PlutoTVAndromeda.us" tvg-country="US" tvg-logo="https://i.imgur.com/P280WPZ.png" ,Pluto TV Andromeda (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bccae160007c71eec/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Series" tvg-id="AwesomenessTV.us" tvg-country="US" tvg-logo="https://i.imgur.com/RSRSWZt.png" ,Pluto TV Awesomeness TV (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5595e43c66ace1652e63c6a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=194&terminate=false&userId=
+#EXTINF:-1 group-title="Entertainment" tvg-id="PlutoTVBritishTV.us" tvg-country="US" tvg-logo="https://i.imgur.com/KuIVlD1.png" ,Pluto TV British TV (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b68a18823ecb93393cba2f1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=154&terminate=false&userId=
+#EXTINF:-1 group-title="Classic" tvg-id="ClassicMoviesChannel.us" tvg-country="US" tvg-logo="https://i.imgur.com/pQJxov2.png" ,Pluto TV Classic Movies (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=561c5b0dada51f8004c4d855&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=106&terminate=false&userId=
+#EXTINF:-1 group-title="Classic" tvg-id="ClassicTVDrama.us" tvg-country="US" tvg-logo="https://i.imgur.com/XHQxv0x.png" ,Pluto TV Classic TV Drama (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e3cccf49290007053c67&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=520&terminate=false&userId=
+#EXTINF:-1 group-title="Comedy" tvg-id="PlutoTVComedy.us" tvg-country="US" tvg-logo="https://i.imgur.com/MTVrbd5.png" ,Pluto TV Comedy (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d3a00ad95e4718ae8d8db&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=57&terminate=false&userId=
+#EXTINF:-1 group-title="Series" tvg-id="Dogs247.us" tvg-country="US" tvg-logo="https://i.imgur.com/zeTgPIx.png" ,Pluto TV Dogs 24/7 (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b329e0a7b9d8872aeb49ceb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=636&terminate=false&userId=
+#EXTINF:-1 group-title="Series" tvg-id="FamilyTies.us" tvg-country="US" tvg-logo="https://i.imgur.com/WJEkKCb.png" ,Pluto TV Family Ties (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Series" tvg-id="PlutoTVFantastic.us" tvg-country="US" tvg-logo="https://i.imgur.com/MCu7YTA.png" ,Pluto TV Fantastic (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b64a245a202b3337f09e51d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=66&terminate=false&userId=
+#EXTINF:-1 group-title="Series" tvg-id="PlutoTVLoveStories.us" tvg-country="US" tvg-logo="https://i.imgur.com/BFESllF.png" ,Pluto TV Love Stories (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa000771ce79/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e181520cfa000771ce79&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=147&terminate=false&userId=
+#EXTINF:-1 group-title="Movies" tvg-id="PlutoTVMoviesUK.uk" tvg-country="US" tvg-logo="https://i.imgur.com/i51xfAn.png" ,Pluto TV Movies (England) (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId=
+#EXTINF:-1 group-title="Series" tvg-id="PlutoTVRetroDramaUK.uk" tvg-country="US" tvg-logo="https://i.imgur.com/a2xIDMJ.png" ,Pluto TV Retro Drama (England) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91f19c2c3300098ce961/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf91f19c2c3300098ce961&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=415&terminate=false&userId=
+#EXTINF:-1 group-title="Series" tvg-id="StarTrek.us" tvg-country="US" tvg-logo="https://i.imgur.com/8cvXYiT.png" ,Pluto TV Star Trek (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MOV" tvg-id="RakutenTVActionMoviesUK.uk" tvg-country="GB" tvg-logo="" ,Rakuten Action Movies UK
+#commercial breaks
+#EXTVLCOPT:http-user-agent=Android
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="MOV" tvg-id="RakutenTVComedyMoviesUK.uk" tvg-country="GB" tvg-logo="" ,Rakuten Comedy Movies UK
+#
+#EXTVLCOPT:http-user-agent=Android
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-id="RedboxSpotlight.us" tvg-country="US" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" ,Redbox 1: Spotlight (1080p)
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-id="RedboxComedy.us" tvg-country="US" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" ,Redbox 2: Comedy (1080p)
+https://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MOV" tvg-id="" tvg-country="GB" tvg-logo="" ,Roku Moviesphere
+#
+#EXTVLCOPT:http-user-agent=Android
+https://moviesphere-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="KIDS" tvg-id="ToonamiAftermathEast.us" tvg-country="US" tvg-logo="" ,Toonami Aftermath East
+#5
+#EXTVLCOPT:http-user-agent=Android
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 group-title="MOV" tvg-id="ToonamiAftermathMovies.us" tvg-country="US" tvg-logo="" ,Toonami Aftermath Movies
+#5
+#EXTVLCOPT:http-user-agent=Android
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="KIDS" tvg-id="ToonamiAftermathWest.us" tvg-country="US" tvg-logo="" ,Toonami Aftermath West
+#5
+#EXTVLCOPT:http-user-agent=Android
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1 group-title="MOVCLASSIC" tvg-id="TVSClassicMovies.us" tvg-country="US" tvg-logo="" ,TVS Classic Movies
 #
 #EXTVLCOPT:http-user-agent=Android
 https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="US"  tvg-logo=""  tvg-id="TVSNostalgiaMovies.us"  group-title="MOVCLASSIC",TVS NOSTALGIA MOVIES
+#EXTINF:-1 group-title="MOVCLASSIC" tvg-id="TVSNostalgiaMovies.us" tvg-country="US" tvg-logo="" ,TVS Nostalgia Movies
 #
 #EXTVLCOPT:http-user-agent=Android
 https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="BA"  tvg-logo=""  tvg-id=""  group-title="DAY",TVSLON EXTRA
-#
-#EXTVLCOPT:http-user-agent=Android
-http://31.47.0.130:8082/
-#EXTINF:-1 tvg-country="SL"  tvg-logo=""  tvg-id=""  group-title="MUS",VESELJAK TV
-#
-#EXTVLCOPT:http-user-agent=Android
-https://stream.veseljak.tv/hls/stream.m3u8
