@@ -27,8 +27,15 @@ List URLS can be found [here](https://github.com/iptv-org/epg), shorter versions
 
 <code>
 <pre>
-version: 20221219-1
+
+version:
+update:20230805-1
+changed list of tv stations
+
+update: 20221219-1
 Channels are mostly from web sites, or possibly apps.
+
+
 
 Channels are checked for validity.
 Download list (right click, save as, open in vlc), or open network addres in vlc directly.
