@@ -2,7 +2,7 @@
 
 <code> <pre> 
 ### What is it:
-It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking movie channels:
+It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking media channels:
 
 ### Where can I find it:
 
