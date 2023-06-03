@@ -76,7 +76,7 @@ More info on using mpv player:
 user-agent=mpv
 -Click on save.
 -Click on file picker to open .m3u saved to device. No epg support yet.
--Click once anywhere, then click and hold on  |< or >| at the bottom to show playlist.
+-While viewing content, click on screen once, then click and hold on  |< or >| at the bottom to show playlist.
 
 
 ###  Channel list sources:
