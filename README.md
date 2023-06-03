@@ -1,71 +1,87 @@
-
 # free-iptv-balkan-plus
 
+<code> <pre> 
+### What is it:
+It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking movie channels:
 
-Free IPTV list of Balkan Ex-Yu channels + some free english speaking movie channels
+### Where can I find it:
 
+Long version:
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
 
-Shortened version, if you need to type it (or use [kodi remote](https://kodi.wiki/view/Official_Kodi_Remote) for android/iphone to send text ):
-
+or short version:
 https://cutt.ly/bppp
+if you type it using tv remote. 
+Or you can use phone app to send text to app  [kodi remote](https://kodi.wiki/view/Official_Kodi_Remote)
 
 
-same file also available gzipped, supported by vlc and probably kodi:
+### How do I use it:
 
-https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u.gz
+On Windows: download the file (right click and select save as). Open it in your player, by right clicking 
+and select open with, or drag and drop it in player. Or go to File/Open menu in player
 
-On android, if you want to download file, click and hold, and save file. Or paste m3u url directly in player.
+On phone: click on link and hold, and save file. Or paste m3u url directly in player.
 
-EPG
+###  EPG (Electronic Program Guide), tv schedule
 
+note: epg does not currently work.
 "Kodi simple iptv client" only supports one epg url at the time. Only one is enabled in the list.
 
-ProgTV can add more than one epg sources, you have to add each in the single text box for guide, when adding sources, then click update button.
+ProgTV can add more than one epg sources, you have to add each in the single text box for guide, 
+when adding sources, then click update button.
 
-List URLS can be found [here](https://github.com/iptv-org/epg), shorter versions [here](short)
+List EPG URLS can be found [here](https://github.com/iptv-org/epg), my shorter versions [here](short)
 
-<code>
-<pre>
 
-version:
-update: 20230805-1
+### List update dates:
+
+-update: 20230805-1
 changed list of tv stations
 
-update: 20221219-1
-Channels are mostly from web sites, or possibly apps.
+-update: 20221219-1
+channels are mostly from web sites, or possibly apps.
 
 
+### List of players that you can use with IPTV list:
+#### windows players:
 
-Channels are checked for validity.
-Download list (right click, save as, open in vlc), or open network addres in vlc directly.
-
-
-## IPTV players
-## windows players:
 -vlc: media/open network stream, or download list (right click, save as, open in vlc)
+
 -mpc-hc, file, quick open file. user agent is not supported. label is not supported.
+
 -mpv. create mpv.conf in mpv subfolder. add --user-agent=android in mpv.conf, 
---if you use command line: mpv --user-agent=android file_or_url_address
---if you want playlist in mpv-windows, download config from https://github.com/tomasklaen/uosc
+More info on using mpv player:
+-If you want playlist in mpv-windows, download .zip and .conf from https://github.com/tomasklaen/uosc . 
+-Put unzipped files and .conf in d:\apps\mpv\mpv, if you have installed mpv in d:\apps\mpv .
+-If you use command line, you can use it like this: mpv --user-agent=android file_or_url_address
   
 -kodi, supports epg, kinda complicated to setup, and to navigate.
+
 -(SF Vip player)[https://serbianforum.org/threads/sf-vip-plejer.878393/]
+to add playlist, click on ... on the right, then +user.
+Enter name (anything), location (local file or internet address), and user agent (anything, for example mpv )
+
 -progtv player (shareware)
+
 -smplayer, download m3u file, open file
 
-
-## android players:
+#### android players:
 -vlc
 -kodi
 -progtv
+
 -mpv
+More info on using mpv player:
+-Settings/user interface/screen orientation, select device.
+-Settings/advanced/edit mpv.conf, add: 
+user-agent=mpv
+-Click on save.
+-Click on file picker to open .m3u saved to device. No epg support yet.
+-Click once anywhere, then click and hold on  |< or >| at the bottom to show playlist.
 
-**Wiki** is also active https://github.com/dbojan/free-iptv-balkan-plus/wiki
-Let me know if you edit it in a meaningfull way.
 
+###  Channel list sources:
 
-## sources:
 list of free iptv channels: 
 https://github.com/iptv-org/iptv
 https://github.com/Free-TV/IPTV
@@ -90,6 +106,7 @@ tv balkan uzivo
 
 qr codes for list, short and long. Both are ok. Point your phone camera, or use qr code scanner app
 
+https://cutt.ly/bppp
 
 ![qrshort](qrshort.png)
 
@@ -108,19 +125,7 @@ qr codes for list, short and long. Both are ok. Point your phone camera, or use 
 
 
 ```
+https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
+
+
 ![qrlong](qrlong.png)
-
-
-
-
-
-
-
-```
-
-
-
-
-
-```
-Don't use t.ly url shortener. After a couple of days your free trial will expire and your links will not work!
