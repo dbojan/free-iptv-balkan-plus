@@ -129,7 +129,7 @@ http://wslb.dobratv.net:8877/usk/tracks-v1a1/mono.m3u8
 http://ott.dobratv.net:25461/BoemTV/112233445566/13240
 #EXTINF:0 status="ok:0" group-title="DAY" tvg-country="HR" ,Zapad
 http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e_output_0.m3u8
-﻿#EXTINF:-1 group-title="Undefined" tvg-id="BBCAmericaEast.us" tvg-country="US" tvg-logo="https://i.imgur.com/pTiiPz0.png" ,BBC America (720p)
+#EXTINF:-1 group-title="Undefined" tvg-id="BBCAmericaEast.us" tvg-country="US" tvg-logo="https://i.imgur.com/pTiiPz0.png" ,BBC America (720p)
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="MOV" tvg-id="GravitasMovies.us" tvg-country="US" tvg-logo="" ,Gravitas Movies
 #
