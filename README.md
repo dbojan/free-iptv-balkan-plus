@@ -14,7 +14,7 @@ if you type it using tv remote.
 Or you can use phone app to send text to app  [kodi remote](https://kodi.wiki/view/Official_Kodi_Remote)
 
 
-### How do I use it:
+### How to use it:
 
 On Windows: download the file (right click and select save as). Open it in your player, by right clicking 
 and select open with, or drag and drop it in player. Or go to File/Open menu in player
