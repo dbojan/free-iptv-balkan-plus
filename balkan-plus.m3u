@@ -142,15 +142,6 @@ https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/62407
 #
 #EXTVLCOPT:http-user-agent=Android
 https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 group-title="NATURE" tvg-id="LoveNature4K.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/oDacp1F.png" ,Love Nature 4K
-#4k
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:0 group-title="NATURE" tvg-id="LoveNature4K.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/oDacp1F.png" ,Love Nature FullHD
-#FullHD
-https://d18dyiwu97wm6q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/153a378c-894e-412a-9d37-e89438f42c99/1.m3u8
-#EXTINF:0 group-title="NATURE" tvg-id="LoveNature4K.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/oDacp1F.png" ,Love Nature HD
-#HD
-https://d18dyiwu97wm6q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/153a378c-894e-412a-9d37-e89438f42c99/3.m3u8
 #EXTINF:0 group-title="MOV" tvg-country="GB" ,Moviesphere England
 #5
 #EXTVLCOPT:http-user-agent=Android
@@ -246,3 +237,12 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/
 #EXTINF:0 group-title="Relax" tvg-id="BumblebeeTVRiversLive.us" tvg-country="US" tvg-logo="https://i.imgur.com/ii2IDmA.png" ,Bumblebee TV Rivers Live (1080p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Android
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:0 group-title="NATURE" tvg-id="LoveNature4K.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/oDacp1F.png" ,Love Nature 4K
+#4k
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:0 group-title="NATURE" tvg-id="LoveNature4K.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/oDacp1F.png" ,Love Nature FullHD
+#FullHD
+https://d18dyiwu97wm6q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/153a378c-894e-412a-9d37-e89438f42c99/1.m3u8
+#EXTINF:0 group-title="NATURE" tvg-id="LoveNature4K.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/oDacp1F.png" ,Love Nature HD
+#HD
+https://d18dyiwu97wm6q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/153a378c-894e-412a-9d37-e89438f42c99/3.m3u8
