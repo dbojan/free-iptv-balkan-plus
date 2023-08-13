@@ -234,6 +234,9 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:0 group-title="NATURE" tvg-id="LoveNature4K.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/oDacp1F.png" ,Love Nature HD
 #HD
 https://d18dyiwu97wm6q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/153a378c-894e-412a-9d37-e89438f42c99/3.m3u8
+#EXTINF:0 group-title="Relax" tvg-id="BumblebeeTVBeachesLive.us" tvg-country="US" tvg-logo="https://i.imgur.com/jDZchQR.png" ,Bumblebee TV Beaches Live (1080p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Android
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 #EXTINF:0 group-title="Relax" tvg-id="BumblebeeTVForestLive.us" tvg-country="US" tvg-logo="https://i.imgur.com/J84tZzN.png" ,Bumblebee TV Forest Live (1080p)
 #EXTVLCOPT:http-user-agent=Android
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
