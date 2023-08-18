@@ -5,7 +5,8 @@ It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking tv 
 
 ### What to do with it:
 
-On windows, right click on the link here: [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', and save the file somewhere.
+On windows, right click on the link here: [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', 
+and save the file somewhere.
 
 You can use it with ['VLC player'](https://www.videolan.org/vlc/).
 
@@ -17,8 +18,8 @@ https://cutt.ly/bppp
 or the longer version:
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
 
-If you are using this on Android TV, you can type it in using tv remote, or use ['Kodi Remote'](https://kodi.wiki/view/Official_Kodi_Remote) android app 
-to send text to 'Kodi player'.  
+If you are using this on Android TV, you can type it in using tv remote, or use ['Kodi Remote'](https://kodi.wiki/view/Official_Kodi_Remote) 
+android app, to send text to 'Kodi player'.  
 
 You can **edit** downloaded .m3u playlist using [csvEdit_Esmeralda(beta)](https://github.com/dbojan/csvEdit_Esmeralda)
 
@@ -51,7 +52,8 @@ channels are mostly from web sites, or possibly apps.
 
 -mpv. create mpv.conf in mpv subfolder. add --user-agent=android in mpv.conf, 
 More info on using mpv player:
--If you want playlist in mpv-windows, download .zip and .conf from https://github.com/tomasklaen/uosc . 
+-If you want playlist in mpv-windows, download .zip and .conf from 
+ https://github.com/tomasklaen/uosc . 
 -Put unzipped files and .conf in d:\apps\mpv\mpv, if you have installed mpv in d:\apps\mpv .
 -If you use command line, you can use it like this: mpv --user-agent=android file_or_url_address
   
@@ -59,7 +61,8 @@ More info on using mpv player:
 
 -(SF Vip player)[https://serbianforum.org/threads/sf-vip-plejer.878393/]
 to add playlist, click on ... on the right, then +user.
-Enter name (anything), location (local file or internet address), and user agent (anything, for example mpv )
+Enter name (anything), location (local file or internet address), and user agent (anything, 
+for example mpv )
 
 -progtv player (shareware)
 
@@ -77,7 +80,8 @@ More info on using mpv player:
 user-agent=mpv
 -Click on save.
 -Click on file picker to open .m3u saved to device. No epg support yet.
--While viewing content, click on screen once, then click and hold on  |< or >| at the bottom to show playlist.
+-While viewing content, click on screen once, then click and hold on  |< or >| at the bottom,
+ to show playlist.
 
 
 ###  Channel list sources:
@@ -93,7 +97,7 @@ https://github.com/iptv-org/awesome-iptv
 
 
 qr code creator web: https://goqr.me/
-barcode scanner for android: https://play.google.com/store/apps/details?id=com.google.zxing.client.android
+[barcode scanner for android](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)
 url shortener: https://cutt.ly
 
 web browser players: 
