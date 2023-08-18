@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" ,AS
-#15:33 uto 01.08.2023.
 #EXTVLCOPT:http-user-agent=Android
 https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac
 #EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="BHT1.ba" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/BHT1.ba.png" ,BHRT
