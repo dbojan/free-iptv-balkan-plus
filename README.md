@@ -5,19 +5,20 @@ It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking tv 
 
 ### What to do with it:
 
-On windows, right click on 'balkan-plus.m3u', select 'open in new tab'. Then click on arrow pointing down in the new tab 
-(Download raw file)
+On windows, right click on the link here: [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', and save the file somewhere.
 
 You can use it with ['VLC player'](https://www.videolan.org/vlc/).
 
 Or use it in ['Kodi'](https://kodi.tv/) multimedia player.
 
-Enter this in the 'Kodi' in settings for 'simple iptv plugin' URL:
+If you wish to use the playlist directly from the internet (inside the 'Kodi player'), 
+enter this in the 'Kodi' in settings, in the 'simple iptv plugin' URL:
 https://cutt.ly/bppp
 or the longer version:
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
 
-If you are using this on Android TV, you can type it in using tv remote, or use ['Kodi Remote'](https://kodi.wiki/view/Official_Kodi_Remote) android app to send text Kodi app  
+If you are using this on Android TV, you can type it in using tv remote, or use ['Kodi Remote'](https://kodi.wiki/view/Official_Kodi_Remote) android app 
+to send text to 'Kodi player'.  
 
 You can **edit** downloaded .m3u playlist using [csvEdit_Esmeralda(beta)](https://github.com/dbojan/csvEdit_Esmeralda)
 
