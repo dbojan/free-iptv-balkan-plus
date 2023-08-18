@@ -35,6 +35,8 @@ List EPG URLS can be found [here](https://github.com/iptv-org/epg), my shorter v
 
 
 ### List update dates:
+-update 2023-08-18-1
+ added instatv and some foreign channels like rakutenaction.
 
 -update: 20230805-1
 changed list of tv stations
