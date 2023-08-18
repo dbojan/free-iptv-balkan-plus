@@ -21,6 +21,8 @@ and select open with, or drag and drop it in player. Or go to File/Open menu in 
 
 On phone: click on link and hold, and save file. Or paste m3u url directly in player.
 
+You can edit downloaded .m3u playlist using [csvEdit_Esmeralda(beta)](https://github.com/dbojan/csvEdit_Esmeralda)
+
 ###  EPG (Electronic Program Guide), tv schedule
 
 note: epg does not currently work.
