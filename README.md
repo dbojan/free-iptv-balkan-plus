@@ -1,31 +1,29 @@
 # free-iptv-balkan-plus
 <code> <pre> 
 ### What is it:
-It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking media channels:
+It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking tv channels
 
-### Where can I find it:
+### What to do with it:
 
-Long version:
+On windows, right click on 'balkan-plus.m3u', select 'open in new tab'. Then click on arrow pointing down in the new tab 
+(Download raw file)
+
+You can use it with ['VLC player'](https://www.videolan.org/vlc/).
+
+Or use it in ['Kodi'](https://kodi.tv/) multimedia player.
+
+Enter this in the 'Kodi' in settings for 'simple iptv plugin' URL:
+https://cutt.ly/bppp
+or the longer version:
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
 
-or short version:
-https://cutt.ly/bppp
-if you type it using tv remote. 
-Or you can use phone app to send text to app  [kodi remote](https://kodi.wiki/view/Official_Kodi_Remote)
+If you are using this on Android TV, you can type it in using tv remote, or use ['Kodi Remote'](https://kodi.wiki/view/Official_Kodi_Remote) android app to send text Kodi app  
 
-
-### How to use it:
-
-On Windows: download the file (right click and select save as). Open it in your player, by right clicking 
-and select open with, or drag and drop it in player. Or go to File/Open menu in player
-
-On phone: click on link and hold, and save file. Or paste m3u url directly in player.
-
-You can edit downloaded .m3u playlist using [csvEdit_Esmeralda(beta)](https://github.com/dbojan/csvEdit_Esmeralda)
+You can **edit** downloaded .m3u playlist using [csvEdit_Esmeralda(beta)](https://github.com/dbojan/csvEdit_Esmeralda)
 
 ###  EPG (Electronic Program Guide), tv schedule
 
-note: epg does not currently work.
+**note: epg does not currently work.**
 "Kodi simple iptv client" only supports one epg url at the time. Only one is enabled in the list.
 
 ProgTV can add more than one epg sources, you have to add each in the single text box for guide, 
