@@ -224,6 +224,9 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #SERIES?
 #EXTVLCOPT:http-user-agent=Android
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="MOV" tvg-country="US" ,Paramount Plus Picks (720p)
+#EXTVLCOPT:http-user-agent=Android
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVAndromeda.us" tvg-logo="https://i.imgur.com/P280WPZ.png" group-title="SERIES" tvg-country="US" ,Pluto TV Andromeda (720p)
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bccae160007c71eec/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -285,10 +288,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8df4bc16e34700077e77d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=526&terminate=false&userId=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Action
 #EXTVLCOPT:http-user-agent=Android
-https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
+https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Action
 #EXTVLCOPT:http-user-agent=Android
-https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
+https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Action (720p)
 #OLD?
 #EXTVLCOPT:http-user-agent=Android
@@ -298,10 +301,10 @@ https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Comedy
 #EXTVLCOPT:http-user-agent=Android
-https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
+https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Comedy
 #EXTVLCOPT:http-user-agent=Android
-https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
+https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Comedy (720p)
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
@@ -310,10 +313,10 @@ https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Drama
 #EXTVLCOPT:http-user-agent=Android
-https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
+https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Drama
 #EXTVLCOPT:http-user-agent=Android
-https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
+https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Drama (720p)
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-drama-10-dk.samsung.wurl.tv/playlist.m3u8
