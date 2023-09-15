@@ -3,9 +3,9 @@
 ### What is it:
 It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking tv channels
 
-### What to do with it:
+### What to do with it / Installing:
 
-On windows, right click on the link here: [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', 
+Right click on the link here: [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', 
 and save the file somewhere.
 
 You can use it with ['VLC player'](https://www.videolan.org/vlc/).
