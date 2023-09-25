@@ -83,7 +83,7 @@ user-agent=mpv
 -Click on save.
 -How to easier open url on start, without typing it in every time:
  Create file named 'bppp.m3u' and add this text inside: https://cutt.ly/bppp
- Save file. After starting mpv on android, open this file.
+ Save file. After starting mpv on android, open this file. You can create m3u file using 'cx explorer'
 -Click on file picker to open .m3u saved on device. No epg support yet.
 -While viewing content, click on screen once, then click and hold on  |< or >| at the bottom,
  to show playlist, or click once on |< or >| to go back/forward on list.
