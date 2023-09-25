@@ -7,8 +7,8 @@ It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking tv 
 
 Enter address: https://cutt.ly/bppp
 in media player: mpv/vlc/kodi, whichever program you want to use.
-You can also save shortcut, which is file that points to same address: [download it here](https://github.com/dbojan/free-iptv-balkan-plus/blob/main/other/bppp-shortcut.m3u) 
-Right click, select 'Save Link As'.
+You can also save shortcut, which is file that points to same address: 
+[download it here](https://github.com/dbojan/free-iptv-balkan-plus/blob/main/other/bppp-shortcut.m3u) right click, select 'Save Link As'.
 And open shortcut file in media player.
 
 If you wish to save static m3u file: [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', 
