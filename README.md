@@ -8,7 +8,8 @@ It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking tv 
 Enter address: https://cutt.ly/bppp
 in media player: mpv/vlc/kodi, whichever program you want to use.
 You can also save shortcut, which is file that points to same address: 
-[download it here](https://github.com/dbojan/free-iptv-balkan-plus/blob/main/other/bppp-shortcut.m3u) right click, select 'Save Link As'.
+[download it here](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u) right click, select 'Save Link As'.
+On android click and hold, and select 'Download link'
 And open shortcut file in media player.
 
 If you wish to save static m3u file: [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', 
@@ -88,7 +89,7 @@ user-agent=mpv
 -Click on save.
 -How to easier open url on start, without typing it in every time:
  Create file named 'bppp.m3u' and add this text inside: https://cutt.ly/bppp, or 
- [download it here](https://github.com/dbojan/free-iptv-balkan-plus/blob/main/other/bppp-shortcut.m3u)
+ [download it here](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u)
  Save file. After starting mpv on android, open this file. You can create shortcut m3u file using [cx file explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)
 -Click on file picker to open .m3u saved on device. No epg support yet.
 -While viewing content, click on screen once, then click and hold on  |< or >| at the bottom,
