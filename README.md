@@ -1,5 +1,4 @@
 # free-iptv-balkan-plus
-<code> <pre> 
 ### What is it:
 It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking tv channels
 
@@ -82,8 +81,8 @@ More info on using mpv player:
 user-agent=mpv
 -Click on save.
 -How to easier open url on start, without typing it in every time:
- Create file named 'bppp.m3u' and add this text inside: https://cutt.ly/bppp
- Save file. After starting mpv on android, open this file. You can create m3u file using 'cx file explorer'.
+ Create file named 'bppp.m3u' and add this text inside: https://cutt.ly/bppp, or [download it here](https://github.com/dbojan/free-iptv-balkan-plus/blob/main/other/bppp-shortcut.m3u)
+ Save file. After starting mpv on android, open this file. You can create m3u file using [cx file explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)
 -Click on file picker to open .m3u saved on device. No epg support yet.
 -While viewing content, click on screen once, then click and hold on  |< or >| at the bottom,
  to show playlist, or click once on |< or >| to go back/forward on list.
