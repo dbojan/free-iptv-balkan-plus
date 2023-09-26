@@ -9,8 +9,8 @@ Enter address: https://cutt.ly/bppp
 in media player: mpv/vlc/kodi, whichever program you want to use.
 You can also save shortcut, which is file that points to same address: 
 [download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u) right click, select 'Save Link As'.
-On android click and hold, and select 'Download link'
-And open shortcut file in media player.
+On android click and hold, and select 'Download link' or create 'bppp-st.txt' file, add https://cutt.ly/bppp to it, save, rename to 'bppp-st.m3u', using 'cx file explorer'
+And open shortcut file in media player, like mpv. see below in 'android' section for more detailed explanatin.
 
 If you wish to save static m3u file: [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', 
 and save the file somewhere.
@@ -59,7 +59,7 @@ channels are mostly from web sites, or possibly apps.
 -mpc-hc, file, quick open file. user agent is not supported. label is not supported.
 
 -mpv. create mpv.conf in mpv subfolder. add --user-agent=android in mpv.conf, 
-More info on using mpv player:
+ More info on using mpv player:
 -If you want playlist in mpv-windows, download .zip and .conf from 
  https://github.com/tomasklaen/uosc . 
 -Put unzipped files and .conf in d:\apps\mpv\mpv, if you have installed mpv in d:\apps\mpv .
@@ -82,18 +82,23 @@ for example mpv )
 -progtv
 
 -mpv
-More info on using mpv player:
+How to easier open url on start, without typing it in every time:
+-Use [cx file explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), create text file named 'bppp-st.txt' in the root of the phone.
+-Add this text inside: https://cutt.ly/bppp
+-Rename file to 'bppp-st.m3u'. 
+-Or [download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u)
+-Save file. After starting mpv on android, open this file. You can create shortcut m3u file using 
+-Click on file picker to open .m3u saved on device. No epg support yet.
+
+While viewing content, click on screen once, then click and hold on  |< or >| at the bottom,
+-to show playlist, or click once on |< or >| to go back/forward on list.
+
+More mpv settings, optional:
 -Settings/user interface/screen orientation, select device.
--Settings/advanced/edit mpv.conf, add: 
+-Settings/advanced/edit mpv.conf, add (this is needed for some channels): 
 user-agent=mpv
 -Click on save.
--How to easier open url on start, without typing it in every time:
- Create file named 'bppp.m3u' and add this text inside: https://cutt.ly/bppp, or 
- [download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u)
- Save file. After starting mpv on android, open this file. You can create shortcut m3u file using [cx file explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)
--Click on file picker to open .m3u saved on device. No epg support yet.
--While viewing content, click on screen once, then click and hold on  |< or >| at the bottom,
- to show playlist, or click once on |< or >| to go back/forward on list.
+
 
 
 ###  Channel list sources:
