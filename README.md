@@ -12,10 +12,11 @@ You can also save shortcut, which is file that points to same address:
 
 On **android** click and hold on [download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u), and select 'Download link' 
 If this fails, use [cx file explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) to create 'bppp-st.txt' file in root folder, 
-add https://cutt.ly/bppp to it, save, rename to 'bppp-st.m3u'. 
-Open shortcut file in media player, like [mpv](https://play.google.com/store/apps/details?id=is.xyz.mpv). See below in 'android' section for more detailed explanation.
+add https://cutt.ly/bppp to it, save it, rename it to 'bppp-st.m3u'. 
+Open shortcut file in media player, like [mpv](https://play.google.com/store/apps/details?id=is.xyz.mpv). 
 Put it in root folder, and in mpv click on 'file picker (legacy)'. if you use 'remember choice on next startup' 
 it will always start with 'file picker (legacy)'. Use 'back' on android to exit.
+See below in 'android' section for more detailed explanation.
 
 You can [download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u) and use it with ['VLC player'](https://www.videolan.org/vlc/).
 Or use it in ['Kodi'](https://kodi.tv/) multimedia player.
@@ -89,8 +90,8 @@ for example mpv )
 -see above for how to add shortcut
 -While viewing content, click on screen once, then click and hold on  |< or >| at the bottom,
 -to show playlist, or click once on |< or >| to go back/forward on list.
-
-More mpv settings, optional:
+ 
+ More mpv settings, optional:
 -Settings/user interface/screen orientation, select device.
 -Settings/advanced/edit mpv.conf, add (this is needed for some channels): 
  user-agent=mpv
