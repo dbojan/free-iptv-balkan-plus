@@ -9,7 +9,8 @@ Enter address: https://cutt.ly/bppp
 in media player: mpv/vlc/kodi, whichever program you want to use.
 You can also save shortcut, which is file that points to same address: 
 [download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u) right click, select 'Save Link As'.
-On android click and hold, and select 'Download link' or create 'bppp-st.txt' file, add https://cutt.ly/bppp to it, save, rename to 'bppp-st.m3u', using 'cx file explorer'
+On android click and hold, and select 'Download link' or create 'bppp-st.txt' file, add https://cutt.ly/bppp to it, 
+save, rename to 'bppp-st.m3u', using 'cx file explorer'
 And open shortcut file in media player, like mpv. see below in 'android' section for more detailed explanatin.
 
 If you wish to save static m3u file: [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', 
