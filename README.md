@@ -59,9 +59,9 @@ channels are mostly from web sites, or possibly apps.
 ### List of players that you can use with IPTV list:
 #### windows players:
 
--vlc: media/open network stream, or download list (right click, save as, open in vlc), does not support epg
+-[vlc](https://www.videolan.org/vlc/): media/open network stream, or download list (right click, save as, open in vlc), does not support epg
 
--mpc-hc, file, quick open file. user agent is not supported. label is not supported., epg is not supported
+-[mpc-hc version by clsid2](https://github.com/clsid2/mpc-hc/), file, quick open file. user agent is not supported. label is not supported., epg is not supported
 
 -[mpv](https://mpv.io/). create mpv.conf in mpv subfolder. add --user-agent=android in mpv.conf, 
  More info on using mpv player:
@@ -71,7 +71,7 @@ channels are mostly from web sites, or possibly apps.
 -If you use command line, you can use it like this: mpv --user-agent=android file_or_url_address
 -does not support epg
 
--kodi, supports epg, kinda complicated to setup, and to navigate, supports epg
+-[kodi](https://kodi.tv/), supports epg, kinda complicated to setup, and to navigate, supports epg
 
 -[SF Vip player](https://serbianforum.org/threads/sf-vip-plejer.878393/)
 to add playlist, click on ... on the right, then +user.
