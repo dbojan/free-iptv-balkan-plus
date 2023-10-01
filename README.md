@@ -72,7 +72,7 @@ channels are mostly from web sites, or possibly apps.
   
 -kodi, supports epg, kinda complicated to setup, and to navigate.
 
--(SF Vip player)[https://serbianforum.org/threads/sf-vip-plejer.878393/]
+-[SF Vip player](https://serbianforum.org/threads/sf-vip-plejer.878393/)
 to add playlist, click on ... on the right, then +user.
 Enter name (anything), location (local file or internet address), and user agent (anything, 
 for example mpv )
