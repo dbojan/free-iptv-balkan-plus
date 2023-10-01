@@ -59,9 +59,9 @@ channels are mostly from web sites, or possibly apps.
 ### List of players that you can use with IPTV list:
 #### windows players:
 
--vlc: media/open network stream, or download list (right click, save as, open in vlc)
+-vlc: media/open network stream, or download list (right click, save as, open in vlc), does not support epg
 
--mpc-hc, file, quick open file. user agent is not supported. label is not supported.
+-mpc-hc, file, quick open file. user agent is not supported. label is not supported., epg is not supported
 
 -[mpv](https://mpv.io/). create mpv.conf in mpv subfolder. add --user-agent=android in mpv.conf, 
  More info on using mpv player:
@@ -69,17 +69,18 @@ channels are mostly from web sites, or possibly apps.
  https://github.com/tomasklaen/uosc . 
 -Put unzipped files and .conf in d:\apps\mpv\mpv, if you have installed mpv in d:\apps\mpv .
 -If you use command line, you can use it like this: mpv --user-agent=android file_or_url_address
-  
--kodi, supports epg, kinda complicated to setup, and to navigate.
+-does not support epg
+
+-kodi, supports epg, kinda complicated to setup, and to navigate, supports epg
 
 -[SF Vip player](https://serbianforum.org/threads/sf-vip-plejer.878393/)
 to add playlist, click on ... on the right, then +user.
 Enter name (anything), location (local file or internet address), and user agent (anything, 
-for example mpv )
+for example mpv ). epg support server-enabled only.
 
--progtv player (shareware)
-
--smplayer, download m3u file, open file
+-[ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer) in Russian, supports epg, windows only, freeware
+-[smplayer](https://www.smplayer.info/), download m3u file, open file, no support for epg
+-[progtv player](https://www.progdvb.com/index/progtv/progtv-win) (shareware), win, android, ios
 
 #### android players:
 -vlc
