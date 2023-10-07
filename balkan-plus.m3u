@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml"
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" ,AS
 #2023-08-18-1
 #EXTVLCOPT:http-user-agent=Android
@@ -139,9 +139,11 @@ http://ott.dobratv.net:25461/BoemTV/112233445566/13240
 #EXTVLCOPT:http-user-agent=Android
 http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e_output_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-BW" tvg-country="US" ,30A TV Classic Movies
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-OLD" tvg-country="US" ,Action Hollywood Movies
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanClassics.us" tvg-logo="https://i.imgur.com/IkYZQ9S.png" group-title="MOV" tvg-country="US" ,American Classics (432p)
@@ -149,24 +151,31 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTVLCOPT:http-user-agent=Android
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="SERIES" tvg-country="US" ,BBC America (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVBeachesLive.us" tvg-logo="https://i.imgur.com/jDZchQR.png" group-title="NATURE" tvg-country="US" ,Bumblebee TV Beaches Live (1080p) [Not 24/7]
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVForestLive.us" tvg-logo="https://i.imgur.com/J84tZzN.png" group-title="NATURE" tvg-country="US" ,Bumblebee TV Forest Live (1080p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVLakeLive.us" tvg-logo="https://i.imgur.com/1EQK4uk.png" group-title="NATURE" tvg-country="US" ,Bumblebee TV Lake Live (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVMountainLive.us" tvg-logo="https://i.imgur.com/2Ipv14J.png" group-title="NATURE" tvg-country="US" ,Bumblebee TV Mountain Live (1080p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVRiversLive.us" tvg-logo="https://i.imgur.com/ii2IDmA.png" group-title="NATURE" tvg-country="US" ,Bumblebee TV Rivers Live (1080p) [Not 24/7]
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVTropicsLive.us" tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="NATURE" tvg-country="US" ,Bumblebee TV Tropics Live (1080p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="KIDS" tvg-country="US" ,DiscoverFilm
@@ -174,9 +183,11 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 #EXTVLCOPT:http-user-agent=Android
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="FASHION" tvg-country="US" ,Fashion TV (1080p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-logo="https://i.imgur.com/dXpn7Xv.png" group-title="MOV-OLD" tvg-country="US" ,FilmRise Classic TV on Redbox (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseFamily.us" tvg-logo="https://i.imgur.com/zbrqObp.png" group-title="MOV" tvg-country="US" ,FilmRise Family (720p)
@@ -192,13 +203,15 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/play
 #EXTVLCOPT:http-user-agent=Android
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-BW" tvg-country="US" ,FilmStream Europe (1080p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GravitasMovies.us" group-title="MOV" tvg-country="US" ,Gravitas Movies
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-logo="" group-title="MOV" tvg-country="US" ,Gravitas Movies
 #not working?
 #EXTVLCOPT:http-user-agent=Android
 https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="GravitasMovies.us" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="MOV" tvg-country="US" ,Gravitas Movies (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/oDacp1F.png" group-title="NATURE" tvg-country="CA" ,Love Nature 4K
@@ -210,13 +223,14 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=Android
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="MOV" tvg-country="US" ,MovieSphere (1080p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOV" tvg-country="GB" ,Moviesphere England
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="GB" ,Moviesphere England
 #5
 #EXTVLCOPT:http-user-agent=Android
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOV" tvg-country="US" ,Moviesphere Free
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Moviesphere Free
 #5
 #EXTVLCOPT:http-user-agent=Android
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
@@ -225,48 +239,63 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="MOV" tvg-country="US" ,Paramount Plus Picks (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVAndromeda.us" tvg-logo="https://i.imgur.com/P280WPZ.png" group-title="SERIES" tvg-country="US" ,Pluto TV Andromeda (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bccae160007c71eec/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="BlackCinema.us" tvg-logo="https://i.imgur.com/FKBp987.png" group-title="MOV" tvg-country="US" ,Pluto TV Black Cinema (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58af4c093a41ca9d4ecabe96&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=80&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVBritishTV.us" tvg-logo="https://i.imgur.com/KuIVlD1.png" group-title="MOV-OLD" tvg-country="US" ,Pluto TV British TV (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b68a18823ecb93393cba2f1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=154&terminate=false&userId=
 #EXTINF:-1 tvg-id="ClassicMoviesChannel.us" tvg-logo="https://i.imgur.com/pQJxov2.png" group-title="MOV-OLD" tvg-country="US" ,Pluto TV Classic Movies (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=561c5b0dada51f8004c4d855&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=106&terminate=false&userId=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-BW" tvg-country="US" ,Pluto TV Classic Movies (England) (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d134a74ca91eedee1630faa&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=903&terminate=false&userId=
 #EXTINF:-1 tvg-id="ClassicTVDrama.us" tvg-logo="https://i.imgur.com/XHQxv0x.png" group-title="MOV-OLD" tvg-country="US" ,Pluto TV Classic TV Drama (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e3cccf49290007053c67&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=520&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVCMTWesterns.us" tvg-logo="https://i.imgur.com/qB9s4Y6.png" group-title='MOV-WESTERN" tvg-country="US" ,Pluto TV CMT Westerns (684p)
+#EXTINF:-1 tvg-id="PlutoTVCMTWesterns.us" tvg-logo="https://i.imgur.com/qB9s4Y6.png" group-title="'MOV-WESTERN" tvg-country="US" ,Pluto TV CMT Westerns (684p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVComedy.us" tvg-logo="https://i.imgur.com/MTVrbd5.png" group-title="MOV" tvg-country="US" ,Pluto TV Comedy (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d3a00ad95e4718ae8d8db&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=57&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVCrimeMovies.us" tvg-logo="https://i.imgur.com/SJcqknt.png" group-title="MOV" tvg-country="US" ,Pluto TV Crime Movies (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="Dogs247.us" tvg-logo="https://i.imgur.com/zeTgPIx.png" group-title="PETS" tvg-country="US" ,Pluto TV Dogs 24/7 (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b329e0a7b9d8872aeb49ceb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=636&terminate=false&userId=
 #EXTINF:-1 tvg-id="FamilyTies.us" tvg-logo="https://i.imgur.com/WJEkKCb.png" group-title="SERIES" tvg-country="US" ,Pluto TV Family Ties (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVFantastic.us" tvg-logo="https://i.imgur.com/MCu7YTA.png" group-title="MOV" tvg-country="US" ,Pluto TV Fantastic (684p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b64a245a202b3337f09e51d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=66&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVLoveStories.us" tvg-logo="https://i.imgur.com/BFESllF.png" group-title="MOV" tvg-country="US" ,Pluto TV Love Stories (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa000771ce79/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e181520cfa000771ce79&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=147&terminate=false&userId=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-OLD" tvg-country="US" ,Pluto TV MOVIE CHANNEL (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&serverSideAds=true&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=
 #EXTINF:-1 tvg-id="PlutoTVMoviesUK.uk" tvg-logo="https://i.imgur.com/i51xfAn.png" group-title="MOV" tvg-country="US" ,Pluto TV Movies (England) (684p)
@@ -274,22 +303,27 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId=
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="MOV-OLD" tvg-country="US" ,Pluto TV Paramount Movie Channel (684p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cb0cae7a461406ffe3f5213&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=100&terminate=false&userId=
 #EXTINF:-1 tvg-id="StarTrek.us" tvg-logo="https://i.imgur.com/8cvXYiT.png" group-title="SERIES" tvg-country="US" ,Pluto TV Star Trek (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="MOV" tvg-country="US" ,Pluto TV Stories by AMC (720p)
 #+
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8254118601b80007b4b7ae&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=135&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVWesterns.us" tvg-logo="https://i.imgur.com/biepi4A.png" group-title='MOV-WESTERN" tvg-country="US" ,Pluto TV Westerns (720p)
+#EXTINF:-1 tvg-id="PlutoTVWesterns.us" tvg-logo="https://i.imgur.com/biepi4A.png" group-title="'MOV-WESTERN" tvg-country="US" ,Pluto TV Westerns (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8df4bc16e34700077e77d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=526&terminate=false&userId=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Action
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Action
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Action (720p)
@@ -297,66 +331,87 @@ https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesUK.uk" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="MOV" tvg-country="US" ,Rakuten Action Movies UK (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Comedy
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Comedy
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Comedy (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMoviesUK.uk" tvg-logo="https://i.imgur.com/UrwA8Z3.png" group-title="MOV" tvg-country="US" ,Rakuten Comedy Movies UK (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Drama
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Drama
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Drama (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-drama-10-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS" tvg-country="US" ,Rakuten Family
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-family-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS" tvg-country="US" ,Rakuten Family (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-family-10-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMoviesUK.uk" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="KIDS" tvg-country="US" ,Rakuten Family UK (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DAY" tvg-country="US" ,Rakuten Guardian (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-guardian-1-fr.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Shows UK (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE COMPETITIONS" tvg-country="US" ,Rakuten Spotlight (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-spotlight-10-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVSpotlightUK.uk" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="MOV" tvg-country="US" ,Rakuten Spotlight UK (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" ,Rakuten Top Free UK (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVDramaMoviesFinland.fi" tvg-logo="https://i.imgur.com/6zpHj1M.png" group-title="MOV" tvg-country="US" ,Rakuten TV Draama
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMoviesFinland.fi" tvg-logo="https://i.imgur.com/HWugzhP.png" group-title="MOV" tvg-country="US" ,Rakuten TV Huippuelokuvat
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMoviesFinland.fi" tvg-logo="https://i.imgur.com/2B2p8zv.png" group-title="MOV" tvg-country="US" ,Rakuten TV Komedia
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesFinland.fi" tvg-logo="https://i.imgur.com/L0wyRLK.png" group-title="MOV" tvg-country="US" ,Rakuten TV Toiminta
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-ASIAN" tvg-country="US" ,Rakuten TV Viki Europe (720p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-ASIAN" tvg-country="US" ,Rakuten Viki (720p)
@@ -364,42 +419,50 @@ https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://newidco-rakutenviki-2-fr.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="MOV" tvg-country="US" ,Redbox 1: Spotlight (1080p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://spotlight-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedboxComedy.us" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="MOV" tvg-country="US" ,Redbox 2: Comedy (1080p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://comedy-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedboxRush.us" tvg-logo="https://i.imgur.com/pA6g3iH.jpg" group-title="MOV" tvg-country="US" ,Redbox 3: Rush (1080p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
-#EXTINF:-1 group-title="MOV-OLD" tvg-country="GB" ,Roku Moviesphere
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-OLD" tvg-country="GB" ,Roku Moviesphere
 #
 #EXTVLCOPT:http-user-agent=Android
 https://moviesphere-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollectiveSweden.se" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="PETS" tvg-country="US" ,The Pet Collective International
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ToonamiAftermathEast.us" group-title="KIDS" tvg-country="US" ,Toonami Aftermath East
+#EXTINF:-1 tvg-id="ToonamiAftermathEast.us" tvg-logo="" group-title="KIDS" tvg-country="US" ,Toonami Aftermath East
 #5
 #EXTVLCOPT:http-user-agent=Android
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:-1 tvg-id="ToonamiAftermathMovies.us" group-title="MOV" tvg-country="US" ,Toonami Aftermath Movies
+#EXTINF:-1 tvg-id="ToonamiAftermathMovies.us" tvg-logo="" group-title="MOV" tvg-country="US" ,Toonami Aftermath Movies
 #5
 #EXTVLCOPT:http-user-agent=Android
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1 tvg-id="ToonamiAftermathWest.us" group-title="KIDS" tvg-country="US" ,Toonami Aftermath West
+#EXTINF:-1 tvg-id="ToonamiAftermathWest.us" tvg-logo="" group-title="KIDS" tvg-country="US" ,Toonami Aftermath West
 #5
 #EXTVLCOPT:http-user-agent=Android
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-logo="https://i.imgur.com/st1xMsw.png" group-title="MOV-OLD" tvg-country="US" ,TVS Classic Movies (288p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://i.imgur.com/OR9APjb.png" group-title="MOV-OLD" tvg-country="US" ,TVS Drive In Movie (360p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" tvg-logo="https://i.imgur.com/w4fxiKi.png" group-title="MOV-BW" tvg-country="US" ,TVS Nostalgia Movies (480p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
-#EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-logo="https://i.imgur.com/dwr98qb.png" group-title='MOV-WESTERN" tvg-country="US" ,TVS Western Movie (270p)
+#EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-logo="https://i.imgur.com/dwr98qb.png" group-title="'MOV-WESTERN" tvg-country="US" ,TVS Western Movie (270p)
+#""
 #EXTVLCOPT:http-user-agent=Android
 https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
