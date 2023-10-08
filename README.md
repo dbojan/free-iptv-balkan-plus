@@ -158,6 +158,7 @@ changed list of tv stations
 -2023-08-10-1
  added new xmltv epg sources,
  added new channels.
+ removed non working lake channels
 
 
 
