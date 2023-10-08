@@ -66,6 +66,9 @@ more info [here](https://github.com/iptv-org/epg)
  https://github.com/tomasklaen/uosc . 
 -Put unzipped files and .conf in d:\apps\mpv\mpv, if you have installed mpv in d:\apps\mpv .
 -If you use command line, you can use it like this: mpv --user-agent=android file_or_url_address
+ or add to mpv/mpv.conf this line:
+ user-agent=mpv
+ this is needed for some channels only.
 -does not support epg
 
 -[kodi](https://kodi.tv/), supports epg, kinda complicated to setup, and to navigate, supports epg
