@@ -46,6 +46,7 @@ ProgTV can add more than one epg sources, you have to add each in the single tex
 when adding sources, then click update button.
 
 Epg xml addresses:
+https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz (balkan channels)
 http://cdn.iptvhr.net/tvdata/guide.xml (balkan channels)
 https://i.mjh.nz/PlutoTV/all.xml.gz (plutotv)
 
