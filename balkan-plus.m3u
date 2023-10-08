@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://cdn.iptvhr.net/tvdata/guide.xml,https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTM3U x-tvg-url="https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz,http://cdn.iptvhr.net/tvdata/guide.xml,https://i.mjh.nz/PlutoTV/all.xml.gz"
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" tvg-logo="" user-agent="" ,AS
 #2023-08-18-1
 #EXTVLCOPT:http-user-agent=Android
@@ -39,19 +39,19 @@ http://178.217.15.36/fineliving/index.m3u8?token=test
 #
 #EXTVLCOPT:http-user-agent=Android
 http://ott.dobratv.net:25461/BoemTV/112233445566/6887
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="HRT 1" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT1.hr.png" user-agent="Android" ,HRT 1
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv1.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT1.hr.png" user-agent="Android" ,HRT 1
 #USER AGENT MANDATORY -- extnf-user-agent for vlc-android - exvlcopt for kodi-
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="HRT 2" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT2.hr.png" user-agent="Android" ,HRT 2
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv2.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT2.hr.png" user-agent="Android" ,HRT 2
 #USER AGENT MANDATORY
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="HRT 3" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT3.hr.png" user-agent="Android" ,HRT 3
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv3.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT3.hr.png" user-agent="Android" ,HRT 3
 #USER AGENT MANDATORY
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="HRT 4" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT4.hr.png" user-agent="Android" ,HRT 4
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv4.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT4.hr.png" user-agent="Android" ,HRT 4
 #USER AGENT MANDATORY
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
@@ -99,11 +99,11 @@ http://ott.dobratv.net:25461/BoemTV/112233445566/121
 #5
 #EXTVLCOPT:http-user-agent=Android
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTL" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTLCroatia.hr.png" user-agent="" ,RTL
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="rtl.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTLCroatia.hr.png" user-agent="" ,RTL
 #5
 #EXTVLCOPT:http-user-agent=Android
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTL 2" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTL2Croatia.hr.png" user-agent="" ,RTL 2
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="rtl2.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTL2Croatia.hr.png" user-agent="" ,RTL 2
 #5
 #EXTVLCOPT:http-user-agent=Android
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
@@ -111,11 +111,11 @@ https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 #5
 #EXTVLCOPT:http-user-agent=Android
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts1" tvg-logo="" user-agent="" ,RTS 1
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts1.sr" tvg-logo="" user-agent="" ,RTS 1
 #geolocked hd
 #EXTVLCOPT:http-user-agent=Android
 http://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts2" tvg-logo="" user-agent="" ,RTS 2
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts2.sr" tvg-logo="" user-agent="" ,RTS 2
 #geolocked
 #EXTVLCOPT:http-user-agent=Android
 http://webtvstream.bhtelecom.ba/rts2.m3u8
