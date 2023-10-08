@@ -1,4 +1,4 @@
-# free-iptv-balkan-plus
+# free-iptv-balkan-plus, bppp
 <code><pre>
 ### What is it:
 It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking tv channels
@@ -49,7 +49,7 @@ Epg xml addresses:
 http://cdn.iptvhr.net/tvdata/guide.xml (balkan channels)
 https://i.mjh.nz/PlutoTV/all.xml.gz (plutotv)
 
-more info here:[here](https://github.com/iptv-org/epg)
+more info [here](https://github.com/iptv-org/epg)
 
 
 
@@ -143,17 +143,21 @@ https://cutt.ly/bppp
 
 ```
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
+![qrlong](qrlong.png)
 
-
-### List update dates:
--update 2023-08-18-1
- added instatv and some foreign channels like rakutenaction.
-
--update: 20230805-1
-changed list of tv stations
-
--update: 20221219-1
+### updates:
+-20221219-1
 channels are mostly from web sites, or possibly apps.
 
+-20230805-1
+changed list of tv stations
 
-![qrlong](qrlong.png)
+-2023-08-18-1
+ added instatv and some foreign channels like rakutenaction.
+ 
+-2023-08-10-1
+ added new xmltv epg sources,
+ added new channels.
+
+
+
