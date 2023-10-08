@@ -36,24 +36,21 @@ You can **edit** downloaded static .m3u playlist using [csvEdit_Esmeralda(beta)]
 
 ###  EPG (Electronic Program Guide), tv schedule
 
-**note: epg does not currently work.**
 "Kodi simple iptv client" only supports one epg url at the time. Only one is enabled in the list.
+
+[ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer), supports multi epg, add it in app settings (CTRL+P).
+Separate url to epg xml with comma: http://www.something.com/epg1.xml,http://http://www.something.com/epg2.xml
+Right click on app, select 'TV Guide', 'Update TV Guide'
 
 ProgTV can add more than one epg sources, you have to add each in the single text box for guide, 
 when adding sources, then click update button.
 
-List EPG URLS can be found [here](https://github.com/iptv-org/epg), my shorter versions [here](short)
+Epg xml addresses:
+http://cdn.iptvhr.net/tvdata/guide.xml (balkan channels)
+https://i.mjh.nz/PlutoTV/all.xml.gz (plutotv)
 
+more info here:[here](https://github.com/iptv-org/epg)
 
-### List update dates:
--update 2023-08-18-1
- added instatv and some foreign channels like rakutenaction.
-
--update: 20230805-1
-changed list of tv stations
-
--update: 20221219-1
-channels are mostly from web sites, or possibly apps.
 
 
 ### List of players that you can use with IPTV list:
@@ -73,12 +70,13 @@ channels are mostly from web sites, or possibly apps.
 
 -[kodi](https://kodi.tv/), supports epg, kinda complicated to setup, and to navigate, supports epg
 
+-[ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer) in Russian, supports epg, windows only, freeware
+
 -[SF Vip player](https://serbianforum.org/threads/sf-vip-plejer.878393/)
 to add playlist, click on ... on the right, then +user.
 Enter name (anything), location (local file or internet address), and user agent (anything, 
 for example mpv ). epg support server-enabled only.
 
--[ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer) in Russian, supports epg, windows only, freeware
 -[smplayer](https://www.smplayer.info/), download m3u file, open file, no support for epg
 -[progtv player](https://www.progdvb.com/index/progtv/progtv-win) (shareware), win, android, ios
 
@@ -145,6 +143,17 @@ https://cutt.ly/bppp
 
 ```
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
+
+
+### List update dates:
+-update 2023-08-18-1
+ added instatv and some foreign channels like rakutenaction.
+
+-update: 20230805-1
+changed list of tv stations
+
+-update: 20221219-1
+channels are mostly from web sites, or possibly apps.
 
 
 ![qrlong](qrlong.png)
