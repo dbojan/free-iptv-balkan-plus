@@ -10,7 +10,8 @@ in media player: [mpv](https://mpv.io/)/[vlc](https://www.videolan.org/vlc/)/[ko
 You can also save shortcut, which is file that points to same address: 
 [download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u) right click, select 'Save Link As'.  
 
-On **android** click and hold on [download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u), and select 'Download link' 
+On **android** click and hold on [download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u), and select 'Download link'
+If android renames bppp-shortcut.m3u to .txt file, download [bppp-st.txt](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-st.txt) and rename it to bppp-st.m3u
 If this fails, use [cx file explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) to create 'bppp-st.txt' file in root folder, 
 add https://cutt.ly/bppp to it, save it, rename it to 'bppp-st.m3u'.
 If it does not work, try adding whole long url: 
