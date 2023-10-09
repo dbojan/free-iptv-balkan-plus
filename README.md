@@ -12,7 +12,10 @@ You can also save shortcut, which is file that points to same address:
 
 On **android** click and hold on [download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u), and select 'Download link' 
 If this fails, use [cx file explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) to create 'bppp-st.txt' file in root folder, 
-add https://cutt.ly/bppp to it, save it, rename it to 'bppp-st.m3u'. 
+add https://cutt.ly/bppp to it, save it, rename it to 'bppp-st.m3u'.
+If it does not work, try adding whole long url: 
+https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
+Or type cutt.ly/bppp in web browser and copy long url to bppp-st.m3u
 Open shortcut file in media player, like [mpv](https://play.google.com/store/apps/details?id=is.xyz.mpv). 
 Put it in root folder, and in mpv click on 'file picker (legacy)'. if you use 'remember choice on next startup' 
 it will always start with 'file picker (legacy)'. Use 'back' on android to exit.
