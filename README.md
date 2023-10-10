@@ -76,9 +76,9 @@ more info [here](https://github.com/iptv-org/epg)
  this is needed for some channels only.
 -does not support epg
 
--[kodi](https://kodi.tv/), supports epg, kinda complicated to setup, and to navigate, supports epg
+-[ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer) supports epg, windows only, freeware
 
--[ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer) in Russian, supports epg, windows only, freeware
+-[kodi](https://kodi.tv/), supports epg, kinda complicated to setup, and to navigate, supports epg
 
 -[SF Vip player](https://serbianforum.org/threads/sf-vip-plejer.878393/)
 to add playlist, click on ... on the right, then +user.
