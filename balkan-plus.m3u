@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz,http://cdn.iptvhr.net/tvdata/guide.xml,https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz,https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz,http://cdn.iptvhr.net/tvdata/guide.xml"
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" tvg-logo="" user-agent="" ,AS
 #2023-08-18-1
 #EXTVLCOPT:http-user-agent=Android
