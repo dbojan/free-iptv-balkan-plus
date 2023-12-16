@@ -1,0 +1,809 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz,https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz,http://cdn.iptvhr.net/tvdata/guide.xml"
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" tvg-logo="" user-agent="" ,AS
+#2023-08-18-1
+#EXTVLCOPT:http-user-agent=Android
+https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac
+#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="bht1" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/BHT1.ba.png" user-agent="" ,BHRT
+#4 hd
+#EXTVLCOPT:http-user-agent=Android
+https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-logo="" user-agent="" ,BOR
+#
+#EXTVLCOPT:http-user-agent=Android
+http://ott.dobratv.net:25461/BoemTV/112233445566/6932
+#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="RTCG" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/TVCG1.me.png" user-agent="" ,CG 1
+#4
+#EXTVLCOPT:http-user-agent=Android
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="rtcg2" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/TVCG2.me.png" user-agent="" ,CG 2
+#4
+#EXTVLCOPT:http-user-agent=Android
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="RTCG Sat" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/TVCG3.me.png" user-agent="" ,CG 3
+#
+#EXTVLCOPT:http-user-agent=Android
+https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="" tvg-logo="" user-agent="" ,DOBRA international
+#sa eng prevodom
+#EXTVLCOPT:http-user-agent=Android
+http://ott.dobratv.net:25461/BoemTV/112233445566/13
+#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="" tvg-logo="" user-agent="" ,DOBRA Travel
+#SOMETIMES ENGLISH
+#EXTVLCOPT:http-user-agent=Android
+http://ott.dobratv.net:25461/BoemTV/112233445566/14145
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-logo="" user-agent="" ,Gm Plus
+#
+#EXTVLCOPT:http-user-agent=Android
+http://178.217.15.36/fineliving/index.m3u8?token=test
+#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="" tvg-logo="" user-agent="" ,HIT
+#
+#EXTVLCOPT:http-user-agent=Android
+http://ott.dobratv.net:25461/BoemTV/112233445566/6887
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv1.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT1.hr.png" user-agent="Android" ,HRT 1
+#USER AGENT MANDATORY -- extnf-user-agent for vlc-android - exvlcopt for kodi-
+#EXTVLCOPT:http-user-agent=Android
+http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv2.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT2.hr.png" user-agent="Android" ,HRT 2
+#USER AGENT MANDATORY
+#EXTVLCOPT:http-user-agent=Android
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv3.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT3.hr.png" user-agent="Android" ,HRT 3
+#USER AGENT MANDATORY
+#EXTVLCOPT:http-user-agent=Android
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv4.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/HRT4.hr.png" user-agent="Android" ,HRT 4
+#USER AGENT MANDATORY
+#EXTVLCOPT:http-user-agent=Android
+http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
+#EXTINF:-1 group-title="MOV-YU" tvg-country="RS" tvg-id="" tvg-logo="" user-agent="" ,Insta Tv
+#
+#EXTVLCOPT:http-user-agent=Android
+https://live.rednet.rs/providus/instatv_hq/index.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="TVJadran.hr" tvg-logo="https://i.imgur.com/UWMHnOG.png" user-agent="" ,Jadran
+# (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Android
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-logo="" user-agent="" ,Krusevac
+#OK SLOW
+#EXTVLCOPT:http-user-agent=Android
+http://91.148.123.53:8888/ipvt_009
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="KurirTV.rs" tvg-logo="" user-agent="" ,Kurir
+#
+#EXTVLCOPT:http-user-agent=Android
+https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-logo="" user-agent="" ,Mars
+#
+#EXTVLCOPT:http-user-agent=Android
+http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="" tvg-logo="https://i.imgur.com/jozQP6Z.png" user-agent="" ,MNE
+#
+#EXTVLCOPT:http-user-agent=Android
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="RTVNoviPazar.rs" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTVNoviPazar.rs.png" user-agent="" ,Novi Pazar
+#
+#EXTVLCOPT:http-user-agent=Android
+https://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="" tvg-logo="" user-agent="" ,NTV 1C
+#
+#EXTVLCOPT:http-user-agent=Android
+http://ott.dobratv.net:25461/BoemTV/112233445566/6897
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="PiKanal.rs" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/PiKanal.rs.png" user-agent="" ,Pi Kanal
+#
+#EXTVLCOPT:http-user-agent=Android
+http://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="" tvg-logo="" user-agent="" ,PODRINJE
+#podrinje tv
+#EXTVLCOPT:http-user-agent=Android
+http://ott.dobratv.net:25461/BoemTV/112233445566/121
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="pink-2" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RedTV.rs.png" user-agent="" ,Red
+#5
+#EXTVLCOPT:http-user-agent=Android
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="rtl.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTLCroatia.hr.png" user-agent="" ,RTL
+#5
+#EXTVLCOPT:http-user-agent=Android
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="rtl2.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTL2Croatia.hr.png" user-agent="" ,RTL 2
+#5
+#EXTVLCOPT:http-user-agent=Android
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-country="HR" tvg-id="RTL Kockica" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/RTLKockica.hr.png" user-agent="" ,RTL Kockica
+#5
+#EXTVLCOPT:http-user-agent=Android
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts1.sr" tvg-logo="" user-agent="" ,RTS 1
+#geolocked hd
+#EXTVLCOPT:http-user-agent=Android
+http://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts2.sr" tvg-logo="" user-agent="" ,RTS 2
+#geolocked
+#EXTVLCOPT:http-user-agent=Android
+http://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="RTV 1" tvg-logo="" user-agent="" ,RTV 1
+#(576p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Android
+mmsh://212.200.255.151/rtv1
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="RTV 2" tvg-logo="" user-agent="" ,RTV 2
+#(576p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Android
+mmsh://212.200.255.151/rtv2
+#EXTINF:-1 group-title="MOV-YU" tvg-country="BA" tvg-id="SeharaOnline.ba" tvg-logo="" user-agent="" ,Sehara Online
+#5 mov?
+#EXTVLCOPT:http-user-agent=Android
+http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="SlavonskaTV.hr" tvg-logo="" user-agent="" ,Slavonska
+#
+#EXTVLCOPT:http-user-agent=Android
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="TVSlonExtra.ba" tvg-logo="" user-agent="" ,Slon Extra
+#
+#EXTVLCOPT:http-user-agent=Android
+http://31.47.0.130:8082/
+#EXTINF:-1 group-title="SPORT" tvg-country="BA'" tvg-id="" tvg-logo="" user-agent="" ,Sport1
+#
+#EXTVLCOPT:http-user-agent=Android
+http://94.250.2.6:7374/play/a02o/index.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="StudioB.rs" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/StudioB.rs.png" user-agent="" ,Studio B
+#
+#EXTVLCOPT:http-user-agent=Android
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="BA'" tvg-id="" tvg-logo="" user-agent="" ,VOGOSCA
+#
+#EXTVLCOPT:http-user-agent=Android
+http://ott.dobratv.net:25461/BoemTV/112233445566/13240
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="" tvg-logo="" user-agent="" ,Zapad
+#
+#EXTVLCOPT:http-user-agent=Android
+http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e_output_0.m3u8
+#EXTINF:-1 tvg-id="5ca525b650be2571e3943c63" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5ca525b650be2571e3943c63" tvg-chno="" ,80s Rewind (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15ca525b650be2571e3943c63-alt.m3u8
+#EXTINF:-1 tvg-id="5f4d83e0a382c00007bc02e7" tvg-logo="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5f4d83e0a382c00007bc02e7" tvg-chno="" ,90210 (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15f4d83e0a382c00007bc02e7-alt.m3u8
+#EXTINF:-1 tvg-id="5f4d86f519358a00072b978e" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5f4d86f519358a00072b978e" tvg-chno="" ,90s Throwback (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15f4d86f519358a00072b978e-alt.m3u8
+#EXTINF:-1 tvg-id="62ea4a07c07f2a00070e8d9a" tvg-logo="https://images.pluto.tv/channels/62ea4a07c07f2a00070e8d9a/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-62ea4a07c07f2a00070e8d9a" tvg-chno="" ,A Million Little Things (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162ea4a07c07f2a00070e8d9a-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Action (Rakuten)
+#OLD?
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Action (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Action (Rakuten)
+#
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-OLD" tvg-country="US" channel-id="" tvg-chno="" ,Action Hollywood Movies
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesUK.uk" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Action Movies UK (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericanClassics.us" tvg-logo="https://i.imgur.com/IkYZQ9S.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,American Classics (Redbox-FilmRise)
+#slow to show
+#EXTVLCOPT:http-user-agent=Android
+
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="617807a1a3a6160007f615e4" tvg-logo="https://images.pluto.tv/channels/617807a1a3a6160007f615e4/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-617807a1a3a6160007f615e4" tvg-chno="" ,Andromeda (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/1617807a1a3a6160007f615e4-alt.m3u8
+#EXTINF:-1 tvg-id="5e8db96bccae160007c71eec" tvg-logo="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-5e8db96bccae160007c71eec" tvg-chno="" ,Andromeda (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15e8db96bccae160007c71eec-alt.m3u8
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="SERIES" tvg-country="US" channel-id="" tvg-chno="" ,BBC America
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="62beb5903279cb000773500f" tvg-logo="https://images.pluto.tv/channels/62beb5903279cb000773500f/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-62beb5903279cb000773500f" tvg-chno="" ,Beverly Hills 90210 (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162beb5903279cb000773500f-alt.m3u8
+#EXTINF:-1 tvg-id="63565bdbb0d80d00078d3450" tvg-logo="https://images.pluto.tv/channels/63565bdbb0d80d00078d3450/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-63565bdbb0d80d00078d3450" tvg-chno="" ,Beverly Hills 90210 (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/163565bdbb0d80d00078d3450-alt.m3u8
+#EXTINF:-1 tvg-id="62beb2e62bb1570007c40012" tvg-logo="https://images.pluto.tv/channels/62beb2e62bb1570007c40012/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-62beb2e62bb1570007c40012" tvg-chno="" ,Beverly Hills 90210 (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162beb2e62bb1570007c40012-alt.m3u8
+#EXTINF:-1 tvg-id="58af4c093a41ca9d4ecabe96" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-58af4c093a41ca9d4ecabe96" tvg-chno="" ,Black Cinema (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/158af4c093a41ca9d4ecabe96-alt.m3u8
+#EXTINF:-1 tvg-id="60f870184865da00074210ee" tvg-logo="https://images.pluto.tv/channels/60f870184865da00074210ee/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-60f870184865da00074210ee" tvg-chno="" ,British Comedy (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/160f870184865da00074210ee-alt.m3u8
+#EXTINF:-1 tvg-id="5b68a18823ecb93393cba2f1" tvg-logo="https://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/colorLogoPNG-1630512286593.png" group-title="USA" tvg-country="" channel-id="pluto-5b68a18823ecb93393cba2f1" tvg-chno="" ,British Drama (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15b68a18823ecb93393cba2f1-alt.m3u8
+#EXTINF:-1 tvg-id="62bdb7f0db2eb30007376d4d" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-62bdb7f0db2eb30007376d4d" tvg-chno="" ,Cheers (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162bdb7f0db2eb30007376d4d-alt.m3u8
+#EXTINF:-1 tvg-id="63e389dcc111bc0008ee5b8c" tvg-logo="https://images.pluto.tv/channels/63e389dcc111bc0008ee5b8c/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-63e389dcc111bc0008ee5b8c" tvg-chno="" ,Cheers (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/163e389dcc111bc0008ee5b8c-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-BW" tvg-country="US" channel-id="" tvg-chno="" ,Classic Movies (30A TV)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-logo="https://i.imgur.com/st1xMsw.png" group-title="MOV-OLD" tvg-country="US" channel-id="" tvg-chno="" ,Classic Movies (TVS)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="561c5b0dada51f8004c4d855" tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-561c5b0dada51f8004c4d855" tvg-chno="" ,Classic Movies Channel (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/1561c5b0dada51f8004c4d855-alt.m3u8
+#EXTINF:-1 tvg-id="5d134a74ca91eedee1630faa" tvg-logo="https://images.pluto.tv/channels/5d134a74ca91eedee1630faa/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-5d134a74ca91eedee1630faa" tvg-chno="" ,Classic TV (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15d134a74ca91eedee1630faa-alt.m3u8
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-logo="https://i.imgur.com/dXpn7Xv.png" group-title="MOV-OLD" tvg-country="US" channel-id="" tvg-chno="" ,Classic TV (Redbox-FilmRise)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="5f15e3cccf49290007053c67" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5f15e3cccf49290007053c67" tvg-chno="" ,Classic TV Drama (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15f15e3cccf49290007053c67-alt.m3u8
+#EXTINF:-1 tvg-id="62e92178946c8000079a3160" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-62e92178946c8000079a3160" tvg-chno="" ,Comedy (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162e92178946c8000079a3160-alt.m3u8
+#EXTINF:-1 tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG-1630516100243.png" group-title="USA" tvg-country="" channel-id="pluto-5a4d3a00ad95e4718ae8d8db" tvg-chno="" ,Comedy (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15a4d3a00ad95e4718ae8d8db-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Comedy (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Comedy (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Comedy (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedboxComedy.us" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Comedy (Redbox)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5c363c2411c5ca053f198f97" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-5c363c2411c5ca053f198f97" tvg-chno="" ,Comedy Movies (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15c363c2411c5ca053f198f97-alt.m3u8
+#EXTINF:-1 tvg-id="62ea3d24b8e02600071fa296" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-62ea3d24b8e02600071fa296" tvg-chno="" ,Comedy Movies (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162ea3d24b8e02600071fa296-alt.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesUK.uk" tvg-logo="https://i.imgur.com/UrwA8Z3.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Comedy Movies UK (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5f4d8594eb979c0007706de7" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5f4d8594eb979c0007706de7" tvg-chno="" ,Crime Movies (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15f4d8594eb979c0007706de7-alt.m3u8
+#EXTINF:-1 tvg-id="63f4e0e63fde020007835cbe" tvg-logo="https://images.pluto.tv/channels/63f4e0e63fde020007835cbe/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-63f4e0e63fde020007835cbe" tvg-chno="" ,CSI: Miami (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/163f4e0e63fde020007835cbe-alt.m3u8
+#EXTINF:-1 tvg-id="62f54c11b3af68000702c304" tvg-logo="https://images.pluto.tv/channels/62f54c11b3af68000702c304/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-62f54c11b3af68000702c304" tvg-chno="" ,CSI: Miami (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162f54c11b3af68000702c304-alt.m3u8
+#EXTINF:-1 tvg-id="62da7819be7a97000878eb92" tvg-logo="https://images.pluto.tv/channels/62da7819be7a97000878eb92/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-62da7819be7a97000878eb92" tvg-chno="" ,CSI: Miami (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162da7819be7a97000878eb92-alt.m3u8
+#EXTINF:-1 tvg-id="63a19f5f0847960007542b12" tvg-logo="https://images.pluto.tv/channels/63a19f5f0847960007542b12/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-63a19f5f0847960007542b12" tvg-chno="" ,CSI: Miami (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/163a19f5f0847960007542b12-alt.m3u8
+#EXTINF:-1 tvg-id="62da778fad95670007f610c0" tvg-logo="https://images.pluto.tv/channels/62da778fad95670007f610c0/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-62da778fad95670007f610c0" tvg-chno="" ,CSI: New York (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162da778fad95670007f610c0-alt.m3u8
+#EXTINF:-1 tvg-id="63f4e11c7533d80008a1d5f0" tvg-logo="https://images.pluto.tv/channels/63f4e11c7533d80008a1d5f0/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-63f4e11c7533d80008a1d5f0" tvg-chno="" ,CSI: NY (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/163f4e11c7533d80008a1d5f0-alt.m3u8
+#EXTINF:-1 tvg-id="62f54c6439183b000769fb8f" tvg-logo="https://images.pluto.tv/channels/62f54c6439183b000769fb8f/colorLogoPNG-1662428890751.png" group-title="USA" tvg-country="" channel-id="pluto-62f54c6439183b000769fb8f" tvg-chno="" ,CSI: NY (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162f54c6439183b000769fb8f-alt.m3u8
+#EXTINF:-1 tvg-id="63a1a109d2583200073fc65e" tvg-logo="https://images.pluto.tv/channels/63a1a109d2583200073fc65e/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-63a1a109d2583200073fc65e" tvg-chno="" ,CSI: NY (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/163a1a109d2583200073fc65e-alt.m3u8
+#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="KIDS" tvg-country="US" channel-id="" tvg-chno="" ,DiscoverFilm
+#KIDS?
+#EXTVLCOPT:http-user-agent=Android
+
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5b329e0a7b9d8872aeb49ceb" tvg-chno="" ,Dogs 24/7 (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15b329e0a7b9d8872aeb49ceb-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Drama (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Drama (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Drama (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-drama-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://i.imgur.com/OR9APjb.png" group-title="MOV-OLD" tvg-country="US" channel-id="" tvg-chno="" ,Drive In Movie (TVS)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS" tvg-country="US" channel-id="" tvg-chno="" ,Family (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-family-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS" tvg-country="US" channel-id="" tvg-chno="" ,Family (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-family-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseFamily.us" tvg-logo="https://i.imgur.com/zbrqObp.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Family (Redbox-FilmRise)
+#sometimes slow
+#EXTVLCOPT:http-user-agent=Android
+
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="5f77939a630f530007dde654" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5f77939a630f530007dde654" tvg-chno="" ,Family Ties (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15f77939a630f530007dde654-alt.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesUK.uk" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="KIDS" tvg-country="US" channel-id="" tvg-chno="" ,Family UK (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5b64a245a202b3337f09e51d" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5b64a245a202b3337f09e51d" tvg-chno="" ,Fantastic (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15b64a245a202b3337f09e51d-alt.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="FASHION" tvg-country="US" channel-id="" tvg-chno="" ,Fashion TV
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseSciFiFinland.fi" tvg-logo="https://i.imgur.com/ZoOCSij.png" group-title="SERIES" tvg-country="US" channel-id="" tvg-chno="" ,FilmRise Sci-Fi Finland
+#ANDROMEDA ALWAYS?
+#EXTVLCOPT:http-user-agent=Android
+
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-BW" tvg-country="US" channel-id="" tvg-chno="" ,FilmStream Europe
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="62f4f90e39183b000769f12b" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-62f4f90e39183b000769f12b" tvg-chno="" ,Frasier (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162f4f90e39183b000769f12b-alt.m3u8
+#EXTINF:-1 tvg-id="6400c1913fde020007a0d8ea" tvg-logo="https://images.pluto.tv/channels/6400c1913fde020007a0d8ea/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-6400c1913fde020007a0d8ea" tvg-chno="" ,Frasier (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16400c1913fde020007a0d8ea-alt.m3u8
+#EXTINF:-1 tvg-id="6400c0697533d80008bf62a1" tvg-logo="https://images.pluto.tv/channels/6400c0697533d80008bf62a1/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-6400c0697533d80008bf62a1" tvg-chno="" ,Frasier (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16400c0697533d80008bf62a1-alt.m3u8
+#EXTINF:-1 tvg-id="6400c095498393000878a634" tvg-logo="https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png" group-title="Denmark" tvg-country="" channel-id="pluto-6400c095498393000878a634" tvg-chno="" ,Frasier (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16400c095498393000878a634-alt.m3u8
+#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Free Movies (Redbox-FilmRise)
+#
+#EXTVLCOPT:http-user-agent=Android
+
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-60faf9ddfcc1f200070a5932" tvg-chno="" ,Garfield and Friends (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/160faf9ddfcc1f200070a5932-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DAY" tvg-country="US" channel-id="" tvg-chno="" ,Guardian (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-guardian-1-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="628e685ba3811100070551a8" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-628e685ba3811100070551a8" tvg-chno="" ,Hallmark Movies & More (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/1628e685ba3811100070551a8-alt.m3u8
+#EXTINF:-1 tvg-id="62bdaf9cf1bdc500073a8bcb" tvg-logo="https://images.pluto.tv/channels/62bdaf9cf1bdc500073a8bcb/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-62bdaf9cf1bdc500073a8bcb" tvg-chno="" ,HistoryTime (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162bdaf9cf1bdc500073a8bcb-alt.m3u8
+#EXTINF:-1 tvg-id="5d765786aad587cf4d0e2bf6" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-5d765786aad587cf4d0e2bf6" tvg-chno="" ,Inspector Gadget (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15d765786aad587cf4d0e2bf6-alt.m3u8
+#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-60fb040d4795a6000762fe8f" tvg-chno="" ,Kartoon Channel! (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/160fb040d4795a6000762fe8f-alt.m3u8
+#EXTINF:-1 tvg-id="62f4f414c2ba130007f8b24e" tvg-logo="https://images.pluto.tv/channels/62f4f414c2ba130007f8b24e/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-62f4f414c2ba130007f8b24e" tvg-chno="" ,King of Queens (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162f4f414c2ba130007f8b24e-alt.m3u8
+#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/oDacp1F.png" group-title="NATURE" tvg-country="CA" channel-id="" tvg-chno="" ,Love Nature 4K
+#4k
+#EXTVLCOPT:http-user-agent=Android
+
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 tvg-id="5f15e181520cfa000771ce79" tvg-logo="https://images.pluto.tv/channels/5f15e181520cfa000771ce79/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5f15e181520cfa000771ce79" tvg-chno="" ,Love Stories (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15f15e181520cfa000771ce79-alt.m3u8
+#EXTINF:-1 tvg-id="6152d75abd229300079c7078" tvg-logo="https://images.pluto.tv/channels/6152d75abd229300079c7078/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-6152d75abd229300079c7078" tvg-chno="" ,Married with Children (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16152d75abd229300079c7078-alt.m3u8
+#EXTINF:-1 tvg-id="62a0b070d4566c0007a0d1bd" tvg-logo="https://images.pluto.tv/channels/62a0b070d4566c0007a0d1bd/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-62a0b070d4566c0007a0d1bd" tvg-chno="" ,Melrose Place (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162a0b070d4566c0007a0d1bd-alt.m3u8
+#EXTINF:-1 tvg-id="62a0ada2f1bdc5000738e020" tvg-logo="https://images.pluto.tv/channels/62a0ada2f1bdc5000738e020/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-62a0ada2f1bdc5000738e020" tvg-chno="" ,Melrose Place (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162a0ada2f1bdc5000738e020-alt.m3u8
+#EXTINF:-1 tvg-id="62a0ae0e4e47a30007fe21bb" tvg-logo="https://images.pluto.tv/channels/62a0ae0e4e47a30007fe21bb/colorLogoPNG.png" group-title="Denmark" tvg-country="" channel-id="pluto-62a0ae0e4e47a30007fe21bb" tvg-chno="" ,Melrose Place (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162a0ae0e4e47a30007fe21bb-alt.m3u8
+#EXTINF:-1 tvg-id="62e92447ea1e2a000735ed33" tvg-logo="https://images.pluto.tv/channels/62e92447ea1e2a000735ed33/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-62e92447ea1e2a000735ed33" tvg-chno="" ,Midsomer Murders (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162e92447ea1e2a000735ed33-alt.m3u8
+#EXTINF:-1 tvg-id="5cbf6a868a1bce4a3d52a5e9" tvg-logo="https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5cbf6a868a1bce4a3d52a5e9" tvg-chno="" ,Midsomer Murders (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15cbf6a868a1bce4a3d52a5e9-alt.m3u8
+#EXTINF:-1 tvg-id="60e44d0d659db600074cbb49" tvg-logo="https://images.pluto.tv/channels/60e44d0d659db600074cbb49/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-60e44d0d659db600074cbb49" tvg-chno="" ,Morphle (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/160e44d0d659db600074cbb49-alt.m3u8
+#EXTINF:-1 tvg-id="63335b193583440007c859fb" tvg-logo="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-63335b193583440007c859fb" tvg-chno="" ,Movie Favorites by Lifetime (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/163335b193583440007c859fb-alt.m3u8
+#EXTINF:-1 tvg-id="MovieKingdom.us" tvg-logo="https://i.imgur.com/9dQTwH5.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Movie Kingdom
+#SAME MOVIE ALWAYS?
+#EXTVLCOPT:http-user-agent=Android
+
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Movies (Gravitas)
+#not working?
+#EXTVLCOPT:http-user-agent=Android
+
+https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="5ad8d3a31b95267e225e4e09" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-5ad8d3a31b95267e225e4e09" tvg-chno="" ,Movies (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15ad8d3a31b95267e225e4e09-alt.m3u8
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Movies (Rebox-Gravitas)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,MovieSphere
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="GB" channel-id="" tvg-chno="" ,Moviesphere England
+#5
+#EXTVLCOPT:http-user-agent=Android
+
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Moviesphere Free
+#5
+#EXTVLCOPT:http-user-agent=Android
+
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-OLD" tvg-country="GB" channel-id="" tvg-chno="" ,Moviesphere Roku
+#
+#EXTVLCOPT:http-user-agent=Android
+
+https://moviesphere-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkBrazil.br" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,MyTime Movie Network Brazil
+#SERIES?
+#EXTVLCOPT:http-user-agent=Android
+
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6319dce543da1f0007492270" tvg-logo="https://images.pluto.tv/channels/6319dce543da1f0007492270/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-6319dce543da1f0007492270" tvg-chno="001081" ,NCIS (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16319dce543da1f0007492270-alt.m3u8
+#EXTINF:-1 tvg-id="6319dd88a7a76e00078a6bc4" tvg-logo="https://images.pluto.tv/channels/6319dd88a7a76e00078a6bc4/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-6319dd88a7a76e00078a6bc4" tvg-chno="001083" ,NCIS (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16319dd88a7a76e00078a6bc4-alt.m3u8
+#EXTINF:-1 tvg-id="62f4f5de1c100100075665ef" tvg-logo="https://images.pluto.tv/channels/62f4f5de1c100100075665ef/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-62f4f5de1c100100075665ef" tvg-chno="001084" ,NCIS (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162f4f5de1c100100075665ef-alt.m3u8
+#EXTINF:-1 tvg-id="6319ec31c62c3f00075c90b1" tvg-logo="https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png" group-title="Denmark" tvg-country="" channel-id="pluto-6319ec31c62c3f00075c90b1" tvg-chno="001079" ,NCIS (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16319ec31c62c3f00075c90b1-alt.m3u8
+#EXTINF:-1 tvg-id="62e949f0cec1e60007f03314" tvg-logo="https://images.pluto.tv/channels/62e949f0cec1e60007f03314/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-62e949f0cec1e60007f03314" tvg-chno="000917" ,NCIS: More NCIS (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162e949f0cec1e60007f03314-alt.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" tvg-logo="https://i.imgur.com/w4fxiKi.png" group-title="MOV-BW" tvg-country="US" channel-id="" tvg-chno="" ,Nostalgia Movies (TVS)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5cb0cae7a461406ffe3f5213" tvg-chno="" ,Paramount Movie Channel (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15cb0cae7a461406ffe3f5213-alt.m3u8
+#EXTINF:-1 tvg-id="5ff8c708653d080007361b14" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5ff8c708653d080007361b14" tvg-chno="" ,Paramount Plus Picks (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15ff8c708653d080007361b14-alt.m3u8
+#EXTINF:-1 tvg-id="634f307c7a068e00072c9982" tvg-logo="https://images.pluto.tv/channels/634f307c7a068e00072c9982/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-634f307c7a068e00072c9982" tvg-chno="" ,Rawhide (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/1634f307c7a068e00072c9982-alt.m3u8
+#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-5c5c2b9d8002db3c3e0b1c6d" tvg-chno="" ,Retro Toons (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15c5c2b9d8002db3c3e0b1c6d-alt.m3u8
+#EXTINF:-1 tvg-id="62beba5931c6de00079ed9cc" tvg-logo="https://images.pluto.tv/channels/62beba5931c6de00079ed9cc/colorLogoPNG.png" group-title="Denmark" tvg-country="" channel-id="pluto-62beba5931c6de00079ed9cc" tvg-chno="" ,Rules of Engagement (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162beba5931c6de00079ed9cc-alt.m3u8
+#EXTINF:-1 tvg-id="62beb3810c21270007219d80" tvg-logo="https://images.pluto.tv/channels/62beb3810c21270007219d80/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-62beb3810c21270007219d80" tvg-chno="" ,Rules of Engagement (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162beb3810c21270007219d80-alt.m3u8
+#EXTINF:-1 tvg-id="62beb5f4121a9500079dff78" tvg-logo="https://images.pluto.tv/channels/62beb5f4121a9500079dff78/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-62beb5f4121a9500079dff78" tvg-chno="" ,Rules of Engagement (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162beb5f4121a9500079dff78-alt.m3u8
+#EXTINF:-1 tvg-id="RedboxRush.us" tvg-logo="https://i.imgur.com/pA6g3iH.jpg" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Rush (Redbox)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="5d94a5451754e6a4298d1059" tvg-logo="https://images.pluto.tv/channels/5d94a5451754e6a4298d1059/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-5d94a5451754e6a4298d1059" tvg-chno="" ,Sabrina Teenage Witch (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15d94a5451754e6a4298d1059-alt.m3u8
+#EXTINF:-1 tvg-id="61f9597e78607000074f6c2a" tvg-logo="https://images.pluto.tv/channels/61f9597e78607000074f6c2a/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-61f9597e78607000074f6c2a" tvg-chno="" ,Sci-Fi (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/161f9597e78607000074f6c2a-alt.m3u8
+#EXTINF:-1 tvg-id="5dc02a44a9518600094273ac" tvg-logo="https://images.pluto.tv/channels/5dc02a44a9518600094273ac/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-5dc02a44a9518600094273ac" tvg-chno="" ,Sci-Fi (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15dc02a44a9518600094273ac-alt.m3u8
+#EXTINF:-1 tvg-id="61f9598588f86000078ee7d6" tvg-logo="https://images.pluto.tv/channels/61f9598588f86000078ee7d6/colorLogoPNG.png" group-title="Denmark" tvg-country="" channel-id="pluto-61f9598588f86000078ee7d6" tvg-chno="" ,Sci-Fi (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/161f9598588f86000078ee7d6-alt.m3u8
+#EXTINF:-1 tvg-id="5b4fc274694c027be6ed3eea" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5b4fc274694c027be6ed3eea" tvg-chno="" ,Sci-Fi (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15b4fc274694c027be6ed3eea-alt.m3u8
+#EXTINF:-1 tvg-id="61f957e051cca800076f2358" tvg-logo="https://images.pluto.tv/channels/61f957e051cca800076f2358/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-61f957e051cca800076f2358" tvg-chno="" ,Sci-Fi (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/161f957e051cca800076f2358-alt.m3u8
+#EXTINF:-1 tvg-id="619247c34a270700077c8415" tvg-logo="https://images.pluto.tv/channels/619247c34a270700077c8415/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-619247c34a270700077c8415" tvg-chno="" ,Sci-Fi Series (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/1619247c34a270700077c8415-alt.m3u8
+#EXTINF:-1 tvg-id="645e00d5d3fdde000829463a" tvg-logo="https://images.pluto.tv/channels/645e00d5d3fdde000829463a/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-645e00d5d3fdde000829463a" tvg-chno="" ,Sci-Fi: More Sci-Fi (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/1645e00d5d3fdde000829463a-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Shows UK (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="633354b63df9700007f6a1b7" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-633354b63df9700007f6a1b7" tvg-chno="" ,Sitcom Legends (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/1633354b63df9700007f6a1b7-alt.m3u8
+#EXTINF:-1 tvg-id="62f53dc6ee9a0400071dc22b" tvg-logo="https://images.pluto.tv/channels/62f53dc6ee9a0400071dc22b/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-62f53dc6ee9a0400071dc22b" tvg-chno="" ,Sitcoms (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162f53dc6ee9a0400071dc22b-alt.m3u8
+#EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5c2d64ffbdf11b71587184b8" tvg-chno="" ,Sitcoms Land (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15c2d64ffbdf11b71587184b8-alt.m3u8
+#EXTINF:-1 tvg-id="645e0092e94c380008133744" tvg-logo="https://images.pluto.tv/channels/645e0092e94c380008133744/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-645e0092e94c380008133744" tvg-chno="" ,Sitcoms: More Sitcoms (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/1645e0092e94c380008133744-alt.m3u8
+#EXTINF:-1 tvg-id="6132619f9ddaa50007e7dd86" tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-6132619f9ddaa50007e7dd86" tvg-chno="" ,Sitcoms: More Sitcoms (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16132619f9ddaa50007e7dd86-alt.m3u8
+#EXTINF:-1 tvg-id="63e38a974e83e70008990da9" tvg-logo="https://images.pluto.tv/channels/63e38a974e83e70008990da9/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-63e38a974e83e70008990da9" tvg-chno="" ,Spin City (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/163e38a974e83e70008990da9-alt.m3u8
+#EXTINF:-1 tvg-id="63e3b25bc111bc0008ef4b94" tvg-logo="https://images.pluto.tv/channels/63e3b25bc111bc0008ef4b94/colorLogoPNG.png" group-title="Denmark" tvg-country="" channel-id="pluto-63e3b25bc111bc0008ef4b94" tvg-chno="" ,Spin City (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/163e3b25bc111bc0008ef4b94-alt.m3u8
+#EXTINF:-1 tvg-id="63a1a0a20847960007542b15" tvg-logo="https://images.pluto.tv/channels/63a1a0a20847960007542b15/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-63a1a0a20847960007542b15" tvg-chno="" ,Spin City (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/163a1a0a20847960007542b15-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE COMPETITIONS" tvg-country="US" channel-id="" tvg-chno="" ,Spotlight (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-spotlight-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Spotlight (Redbox)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightUK.uk" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Spotlight UK (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="643ea768e0789d0008548886" tvg-logo="https://images.pluto.tv/channels/643ea768e0789d0008548886/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-643ea768e0789d0008548886" tvg-chno="" ,Star Trek (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/1643ea768e0789d0008548886-alt.m3u8
+#EXTINF:-1 tvg-id="61c1db0391ddd400073badc5" tvg-logo="https://images.pluto.tv/channels/61c1db0391ddd400073badc5/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-61c1db0391ddd400073badc5" tvg-chno="" ,Star Trek (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/161c1db0391ddd400073badc5-alt.m3u8
+#EXTINF:-1 tvg-id="6504bcc211054500084f318c" tvg-logo="https://images.pluto.tv/channels/6504bcc211054500084f318c/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-6504bcc211054500084f318c" tvg-chno="" ,Star Trek (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16504bcc211054500084f318c-alt.m3u8
+#EXTINF:-1 tvg-id="61c18c7610d254000727eeb0" tvg-logo="https://images.pluto.tv/channels/61c18c7610d254000727eeb0/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-61c18c7610d254000727eeb0" tvg-chno="" ,Star Trek (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/161c18c7610d254000727eeb0-alt.m3u8
+#EXTINF:-1 tvg-id="61c1979dfa307000070bbe4d" tvg-logo="https://images.pluto.tv/channels/61c1979dfa307000070bbe4d/colorLogoPNG.png" group-title="Denmark" tvg-country="" channel-id="pluto-61c1979dfa307000070bbe4d" tvg-chno="" ,Star Trek (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/161c1979dfa307000070bbe4d-alt.m3u8
+#EXTINF:-1 tvg-id="6400c228498393000878a9b7" tvg-logo="https://images.pluto.tv/channels/6400c228498393000878a9b7/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-6400c228498393000878a9b7" tvg-chno="" ,Star Trek Movies (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16400c228498393000878a9b7-alt.m3u8
+#EXTINF:-1 tvg-id="6400c281dff38e00083f59da" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" group-title="Denmark" tvg-country="" channel-id="pluto-6400c281dff38e00083f59da" tvg-chno="" ,Star Trek Movies (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16400c281dff38e00083f59da-alt.m3u8
+#EXTINF:-1 tvg-id="6400c2a6cb41a40008dbe5bc" tvg-logo="https://images.pluto.tv/channels/6400c2a6cb41a40008dbe5bc/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-6400c2a6cb41a40008dbe5bc" tvg-chno="" ,Star Trek Movies (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16400c2a6cb41a40008dbe5bc-alt.m3u8
+#EXTINF:-1 tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-634dacf51d90320007fcd5fa" tvg-chno="" ,Star Trek: More Star Trek (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/1634dacf51d90320007fcd5fa-alt.m3u8
+#EXTINF:-1 tvg-id="6504bf323a0d700008bffe95" tvg-logo="https://images.pluto.tv/channels/6504bf323a0d700008bffe95/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-6504bf323a0d700008bffe95" tvg-chno="" ,Stargate (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16504bf323a0d700008bffe95-alt.m3u8
+#EXTINF:-1 tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" group-title="USA" tvg-country="" channel-id="pluto-62f2ce24f328e00007e7f55a" tvg-chno="" ,Stories by AMC (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162f2ce24f328e00007e7f55a-alt.m3u8
+#EXTINF:-1 tvg-id="6464cba0f3f5b100087ec532" tvg-logo="https://images.pluto.tv/channels/6464cba0f3f5b100087ec532/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-6464cba0f3f5b100087ec532" tvg-chno="" ,Survivor (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16464cba0f3f5b100087ec532-alt.m3u8
+#EXTINF:-1 tvg-id="5f21e7b24744c60007c1f6fc" tvg-logo="https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5f21e7b24744c60007c1f6fc" tvg-chno="" ,Survivor (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15f21e7b24744c60007c1f6fc-alt.m3u8
+#EXTINF:-1 tvg-id="6464cc01e1979c000889570b" tvg-logo="https://images.pluto.tv/channels/6464cc01e1979c000889570b/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-6464cc01e1979c000889570b" tvg-chno="" ,Survivor (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16464cc01e1979c000889570b-alt.m3u8
+#EXTINF:-1 tvg-id="6464cb2d939a5900087c5aab" tvg-logo="https://images.pluto.tv/channels/6464cb2d939a5900087c5aab/colorLogoPNG.png" group-title="Denmark" tvg-country="" channel-id="pluto-6464cb2d939a5900087c5aab" tvg-chno="" ,Survivor (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16464cb2d939a5900087c5aab-alt.m3u8
+#EXTINF:-1 tvg-id="64b52df0bc3ab40008488f5c" tvg-logo="https://images.pluto.tv/channels/64b52df0bc3ab40008488f5c/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-64b52df0bc3ab40008488f5c" tvg-chno="" ,The Facts of Life (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/164b52df0bc3ab40008488f5c-alt.m3u8
+#EXTINF:-1 tvg-id="6391cef9edb23c0008598cee" tvg-logo="https://images.pluto.tv/channels/6391cef9edb23c0008598cee/colorLogoPNG.png" group-title="Denmark" tvg-country="" channel-id="pluto-6391cef9edb23c0008598cee" tvg-chno="" ,The Nanny (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16391cef9edb23c0008598cee-alt.m3u8
+#EXTINF:-1 tvg-id="6391df52d146a40007c265f3" tvg-logo="https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-6391df52d146a40007c265f3" tvg-chno="" ,The Nanny (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16391df52d146a40007c265f3-alt.m3u8
+#EXTINF:-1 tvg-id="6391d0500bf08a0007f1c72f" tvg-logo="https://images.pluto.tv/channels/6391d0500bf08a0007f1c72f/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-6391d0500bf08a0007f1c72f" tvg-chno="" ,The Nanny (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16391d0500bf08a0007f1c72f-alt.m3u8
+#EXTINF:-1 tvg-id="ThePetCollectiveSweden.se" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="PETS" tvg-country="US" channel-id="" tvg-chno="" ,The Pet Collective International
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonamiAftermathEast.us" tvg-logo="" group-title="KIDS" tvg-country="US" channel-id="" tvg-chno="" ,Toonami Aftermath East
+#5
+#EXTVLCOPT:http-user-agent=Android
+
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonamiAftermathMovies.us" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Toonami Aftermath Movies
+#5
+#EXTVLCOPT:http-user-agent=Android
+
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonamiAftermathWest.us" tvg-logo="" group-title="KIDS" tvg-country="US" channel-id="" tvg-chno="" ,Toonami Aftermath West
+#5
+#EXTVLCOPT:http-user-agent=Android
+
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,Top Free UK (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6450209d939a5900084dba1d" tvg-logo="https://images.pluto.tv/channels/6450209d939a5900084dba1d/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-6450209d939a5900084dba1d" tvg-chno="" ,Totally Teen (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16450209d939a5900084dba1d-alt.m3u8
+#EXTINF:-1 tvg-id="5ea816a44457070007ffabc7" tvg-logo="https://images.pluto.tv/channels/5ea816a44457070007ffabc7/colorLogoPNG.png" group-title="Germany" tvg-country="" channel-id="pluto-5ea816a44457070007ffabc7" tvg-chno="" ,Totally Turtles (OV) (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15ea816a44457070007ffabc7-alt.m3u8
+#EXTINF:-1 tvg-id="62e95265c9fd030007268fb9" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-62e95265c9fd030007268fb9" tvg-chno="" ,Totally Turtles (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162e95265c9fd030007268fb9-alt.m3u8
+#EXTINF:-1 tvg-id="5d0c16d686454ead733d08f8" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5d0c16d686454ead733d08f8" tvg-chno="" ,TOTALLY TURTLES (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15d0c16d686454ead733d08f8-alt.m3u8
+#EXTINF:-1 tvg-id="63da36dea995710008727d4d" tvg-logo="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-63da36dea995710008727d4d" tvg-chno="" ,Transformers (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/163da36dea995710008727d4d-alt.m3u8
+#EXTINF:-1 tvg-id="63d8ed19a9957100086f4d33" tvg-logo="https://images.pluto.tv/channels/63d8ed19a9957100086f4d33/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-63d8ed19a9957100086f4d33" tvg-chno="" ,Transformers (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/163d8ed19a9957100086f4d33-alt.m3u8
+#EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-60fb053712f22a0007ff14d2" tvg-chno="" ,Transformers TV (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/160fb053712f22a0007ff14d2-alt.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMoviesFinland.fi" tvg-logo="https://i.imgur.com/6zpHj1M.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,TV Draama (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMoviesFinland.fi" tvg-logo="https://i.imgur.com/HWugzhP.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,TV Huippuelokuvat (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFinland.fi" tvg-logo="https://i.imgur.com/2B2p8zv.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,TV Komedia (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesFinland.fi" tvg-logo="https://i.imgur.com/L0wyRLK.png" group-title="MOV" tvg-country="US" channel-id="" tvg-chno="" ,TV Toiminta (Rakuten)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-ASIAN" tvg-country="US" channel-id="" tvg-chno="" ,TV Viki Europe
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="64c0d6f34096290008132d6b" tvg-logo="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-64c0d6f34096290008132d6b" tvg-chno="" ,UKTV Play Laughs (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/164c0d6f34096290008132d6b-alt.m3u8
+#EXTINF:-1 tvg-id="62f64ec9eb1045000728cad6" tvg-logo="https://images.pluto.tv/channels/62f64ec9eb1045000728cad6/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-62f64ec9eb1045000728cad6" tvg-chno="" ,Viafree Movies (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162f64ec9eb1045000728cad6-alt.m3u8
+#EXTINF:-1 tvg-id="62beb44e3afd120007915d1b" tvg-logo="https://images.pluto.tv/channels/62beb44e3afd120007915d1b/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-62beb44e3afd120007915d1b" tvg-chno="" ,Viafree Movies (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162beb44e3afd120007915d1b-alt.m3u8
+#EXTINF:-1 tvg-id="62bebc3459624e00078209c3" tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png" group-title="Denmark" tvg-country="" channel-id="pluto-62bebc3459624e00078209c3" tvg-chno="" ,Viafree Movies (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162bebc3459624e00078209c3-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOV-ASIAN" tvg-country="US" channel-id="" tvg-chno="" ,Viki
+#fr?
+#EXTVLCOPT:http-user-agent=Android
+
+https://newidco-rakutenviki-2-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="62a0b114a1c8650007e93688" tvg-logo="https://images.pluto.tv/channels/62a0b114a1c8650007e93688/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-62a0b114a1c8650007e93688" tvg-chno="" ,Walker Texas Ranger (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162a0b114a1c8650007e93688-alt.m3u8
+#EXTINF:-1 tvg-id="62a0aefc7c5f9f00075b4e24" tvg-logo="https://images.pluto.tv/channels/62a0aefc7c5f9f00075b4e24/colorLogoPNG.png" group-title="Denmark" tvg-country="" channel-id="pluto-62a0aefc7c5f9f00075b4e24" tvg-chno="" ,Walker Texas Ranger (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162a0aefc7c5f9f00075b4e24-alt.m3u8
+#EXTINF:-1 tvg-id="635659445b4c4700076d2ad1" tvg-logo="https://images.pluto.tv/channels/635659445b4c4700076d2ad1/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-635659445b4c4700076d2ad1" tvg-chno="" ,Walker Texas Ranger (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/1635659445b4c4700076d2ad1-alt.m3u8
+#EXTINF:-1 tvg-id="62a0ae8b2241f500073e0925" tvg-logo="https://images.pluto.tv/channels/62a0ae8b2241f500073e0925/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-62a0ae8b2241f500073e0925" tvg-chno="" ,Walker Texas Ranger (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/162a0ae8b2241f500073e0925-alt.m3u8
+#EXTINF:-1 tvg-id="6089788de5c8410007808e26" tvg-logo="https://images.pluto.tv/channels/6089788de5c8410007808e26/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-6089788de5c8410007808e26" tvg-chno="" ,Wanted: Dead or Alive (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16089788de5c8410007808e26-alt.m3u8
+#EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-logo="https://i.imgur.com/dwr98qb.png" group-title="'MOV-WESTERN" tvg-country="US" channel-id="" tvg-chno="" ,Western Movie (TVS)
+#""
+#EXTVLCOPT:http-user-agent=Android
+
+https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-id="5e8df4bc16e34700077e77d3" tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5e8df4bc16e34700077e77d3" tvg-chno="" ,Western TV (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15e8df4bc16e34700077e77d3-alt.m3u8
+#EXTINF:-1 tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="USA" tvg-country="" channel-id="pluto-5b4e94282d4ec87bdcbb87cd" tvg-chno="" ,Westerns (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15b4e94282d4ec87bdcbb87cd-alt.m3u8
+#EXTINF:-1 tvg-id="5d4bdb635ce813b38639e6a3" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="Great Britain" tvg-country="" channel-id="pluto-5d4bdb635ce813b38639e6a3" tvg-chno="" ,Westerns (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/15d4bdb635ce813b38639e6a3-alt.m3u8
+#EXTINF:-1 tvg-id="64b52ec24ea4800008370651" tvg-logo="https://images.pluto.tv/channels/64b52ec24ea4800008370651/colorLogoPNG.png" group-title="Canada" tvg-country="" channel-id="pluto-64b52ec24ea4800008370651" tvg-chno="" ,Who's the Boss (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/164b52ec24ea4800008370651-alt.m3u8
+#EXTINF:-1 tvg-id="60817936fd2d70000763d2b2" tvg-logo="https://images.pluto.tv/channels/60817936fd2d70000763d2b2/colorLogoPNG.PNG" group-title="Great Britain" tvg-country="" channel-id="pluto-60817936fd2d70000763d2b2" tvg-chno="" ,Wild at Heart (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/160817936fd2d70000763d2b2-alt.m3u8
+#EXTINF:-1 tvg-id="6458e75f939a5900085f453f" tvg-logo="https://images.pluto.tv/channels/6458e75f939a5900085f453f/colorLogoPNG.png" group-title="Norway" tvg-country="" channel-id="pluto-6458e75f939a5900085f453f" tvg-chno="" ,Zoey 101 (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16458e75f939a5900085f453f-alt.m3u8
+#EXTINF:-1 tvg-id="6458e687f3f5b100085fdcb3" tvg-logo="https://images.pluto.tv/channels/6458e687f3f5b100085fdcb3/colorLogoPNG.png" group-title="Denmark" tvg-country="" channel-id="pluto-6458e687f3f5b100085fdcb3" tvg-chno="" ,Zoey 101 (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16458e687f3f5b100085fdcb3-alt.m3u8
+#EXTINF:-1 tvg-id="6458e7c32858cb0008e22e98" tvg-logo="https://images.pluto.tv/channels/6458e7c32858cb0008e22e98/colorLogoPNG.png" group-title="Sweden" tvg-country="" channel-id="pluto-6458e7c32858cb0008e22e98" tvg-chno="" ,Zoey 101 (Pluto TV)
+#
+https://i.mjh.nz/PlutoTV/16458e7c32858cb0008e22e98-alt.m3u8
