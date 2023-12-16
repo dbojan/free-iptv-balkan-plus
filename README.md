@@ -2,42 +2,19 @@
 <code><pre>
 ### What is it:
 It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking tv channels
-
 ### What to do with it / Installing:
-
-Enter address: https://cutt.ly/bppp
-in media player: [mpv](https://mpv.io/)/[vlc](https://www.videolan.org/vlc/)/[kodi](https://kodi.tv/), whichever program you want to use.
-You can also save shortcut, which is file that points to same address: 
-[download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u) right click, select 'Save Link As'.  
-
-On **android** click and hold on [download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u), and select 'Download link'
-If android renames bppp-shortcut.m3u to .txt file, download [bppp-st.txt](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-st.txt) and rename it to bppp-st.m3u
-If this fails, use [cx file explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) to create 'bppp-st.txt' file in root folder, 
-add https://cutt.ly/bppp to it, save it, rename it to 'bppp-st.m3u'.
-If it does not work, try adding whole long url: 
-https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
-Or type cutt.ly/bppp in web browser and copy long url to bppp-st.m3u
-Open shortcut file in media player, like [mpv](https://play.google.com/store/apps/details?id=is.xyz.mpv). 
-Put it in root folder, and in mpv click on 'file picker (legacy)'. if you use 'remember choice on next startup' 
-it will always start with 'file picker (legacy)'. Use 'back' on android to exit.
-See below in 'android' section for more detailed explanation.
-
-You can [download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u) and use it with ['VLC player'](https://www.videolan.org/vlc/).
-Or use it in ['Kodi'](https://kodi.tv/) multimedia player.
-
-To use in 'Kodi': settings, enter in the 'simple iptv plugin' URL:
-https://cutt.ly/bppp
-or the longer version:
+Note: https://cutt.ly/bppp is shortcut that leads to:
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
 
-If you are using this on Android TV, you can type it in using tv remote, or use ['Kodi Remote'](https://kodi.wiki/view/Official_Kodi_Remote) 
-android app, to send text to 'Kodi player'. or [download shortcut m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/other/bppp-shortcut.m3u).
+Enter address: https://cutt.ly/bppp in media player: [mpv](https://mpv.io/)/[vlc](https://www.videolan.org/vlc/)/[kodi](https://kodi.tv/), whichever program you want.
 
 If you wish to save static m3u file: [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', 
 and save the file somewhere.
 
 You can **edit** downloaded static .m3u playlist using [csvEdit_Esmeralda(beta)](https://github.com/dbojan/csvEdit_Esmeralda)
 
+Note that epg does not work, if you use cutt.ly shortcut, if you don't care about epg, you can ignore this. 
+Also probably nothing to do with cutt.ly.
 ###  EPG (Electronic Program Guide), tv schedule
 
 "Kodi simple iptv client" only supports one epg url at the time. Only one is enabled in the list.
@@ -154,19 +131,29 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 ![qrlong](qrlong.png)
 
 ### updates:
--20221219-1
-channels are mostly from web sites, or possibly apps.
+-2023-12-16
+edited page, updated pluto channels. (added 1 at the url start)
 
--20230805-1
-changed list of tv stations
-
--2023-08-18-1
- added instatv and some foreign channels like rakutenaction.
- 
 -2023-08-10-1
  added new xmltv epg sources,
  added new channels.
  removed non working lake channels
+
+-2023-08-18-1
+ added instatv and some foreign channels like rakutenaction.
+
+ -20230805-1
+changed list of tv stations
+
+-20221219-1
+channels are mostly from web sites, or possibly apps.
+
+
+
+ 
+
+
+ 
 
 
 
