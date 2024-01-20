@@ -131,6 +131,11 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 ![qrlong](qrlong.png)
 
 ### updates:
+-2024-01-20
+ -updated pluto
+ -added sams.
+ -renamed kids and nature channel names
+
 -2023-12-16
 edited page, updated pluto channels. (added 1 at the url start)
 
