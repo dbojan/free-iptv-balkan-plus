@@ -131,6 +131,9 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 ![qrlong](qrlong.png)
 
 ### updates:
+-2024-01-20-2
+ uploaded correct file
+
 -2024-01-20
  -updated pluto
  -added sams.
