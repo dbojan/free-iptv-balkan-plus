@@ -132,7 +132,8 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 
 ### updates:
 -2024-01-20-2
- uploaded correct file
+ -uploaded correct file
+ -apparently it takes about 10min for link (raw) to update ...
 
 -2024-01-20
  -updated pluto
