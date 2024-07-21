@@ -131,6 +131,9 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 ![qrlong](qrlong.png)
 
 ### updates:
+-2024-07-21-1
+updated links.
+
 -2024-02-27-1
  removed horr.
  renamed 90210
