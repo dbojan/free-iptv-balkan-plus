@@ -105,8 +105,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62ba60f059624e0007
 #EXTINF:-1 tvg-id="5f4d878d3d19b30007d2e782" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" tvg-country="" provider="pluto" group-title="USA" url_mh="https://jmp2.uk/PlutoTV/5f4d878d3d19b30007d2e782-alt.m3u8" ,70s Cinema (Pluto)
 #t
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 tvg-id="USAJ30000148W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20221214T015134SQUARE.png_20221214015135.png" tvg-country="United States" provider="samsung" group-title="MOV-OLD" url_mh="https://jmp2.uk/SamsungTVPlus/USAJ30000148W.m3u8" ,80s CINEVAULT (Samsung)
+#EXTINF:-1 tvg-id="USAJ30000148W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20221214T015134SQUARE.png_20221214015135.png" tvg-country="United States" provider="tubi" group-title="MOV-OLD" url_mh="" ,80s CINEVAULT (Tubi)
 #
+https://lnc-cinevault-80s.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="USAJ30000148W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20221214T015134SQUARE.png_20221214015135.png" tvg-country="United States" provider="samsung" group-title="MOV-OLD" url_mh="https://jmp2.uk/SamsungTVPlus/USAJ30000148W.m3u8" ,80s CINEVAULT (Samsung)
+#duplicate
 https://lnc-cinevault-80s.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="5ca525b650be2571e3943c63" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" tvg-country="USA" provider="pluto" group-title="MOV" url_mh="https://jmp2.uk/PlutoTV/5ca525b650be2571e3943c63-alt.m3u8" ,80s Rewind (Pluto)
 #
