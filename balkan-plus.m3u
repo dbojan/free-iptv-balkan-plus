@@ -1404,7 +1404,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6356584de76adf0007
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="5fb584b7613a31000789de5a" tvg-logo="https://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/PlutoTV/5fb584b7613a31000789de5a-alt.m3u8" status="ok:0 2024-09-01_18:33:53" ,zzKIDS: Ryan and Friends (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb584b7613a31000789de5a/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="Kids" tvg-country="FR" tvg-id="611e78c4954f250007ef7b84" tvg-logo="https://i.imgur.com/ggvEShB.png" provider="pluto" url_mh="" status="ok:0 2024-09-01_18:33:53" ,zzKIDS: Sabrina la série animée
+#EXTINF:-1 group-title="KIDS" tvg-country="FR" tvg-id="611e78c4954f250007ef7b84" tvg-logo="https://i.imgur.com/ggvEShB.png" provider="pluto" url_mh="" status="ok:0 2024-09-01_18:33:53" ,zzKIDS: Sabrina la série animée
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/611e78c4954f250007ef7b84/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="637e55347427a40007fac703" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/PlutoTV/637e55347427a40007fac703-alt.m3u8" status="ok:0 2024-09-01_18:33:57" ,zzKIDS: Sailor Moon (Pluto)
