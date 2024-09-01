@@ -131,14 +131,17 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 ![qrlong](qrlong.png)
 
 ### updates:
--2024-07-21-1
+2024-09-01-1
+links updated
+
+2024-07-21-1
 updated links.
 
--2024-02-27-1
+2024-02-27-1
  removed horr.
  renamed 90210
 
--2024-01-20-2
+2024-01-20-2
  -uploaded correct file
  -apparently it takes about 10min for link (raw) to update ...
 
