@@ -132,7 +132,7 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 
 ### updates:
 2024-09-07-1
-list updated
+list updated foreign
 
 2024-09-01-1
 list updated
