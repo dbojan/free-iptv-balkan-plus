@@ -131,6 +131,9 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 ![qrlong](qrlong.png)
 
 ### updates:
+2024-09-07-2
+list updated foreign
+
 2024-09-07-1
 list updated foreign
 
