@@ -1,108 +1,90 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz,http://cdn.iptvhr.net/tvdata/guide.xml"
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" tvg-logo="https://i.imgur.com/LIUtEgD.png" user-agent="" status="ok:0 2024-09-01_07:40:56" ,AS
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" tvg-logo="https://i.imgur.com/LIUtEgD.png" status="ok:0 2024-09-01_07:40:56" ,AS
 #2023-08-18-1
-#EXTVLCOPT:http-user-agent=Android
 https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac
-#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="BHRT.ba" tvg-logo="https://i.imgur.com/01bZ5rw.png" user-agent="" status="ok:0 2024-09-01_07:40:58" ,BHRT
+#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="BHRT.ba" tvg-logo="https://i.imgur.com/01bZ5rw.png" status="ok:0 2024-09-01_07:40:58" ,BHRT
 #4 hd
-#EXTVLCOPT:http-user-agent=Android
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="BNTV.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" user-agent="" status="ok:0 2024-09-01_07:41:00" ,BN
+#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="BNTV.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" status="ok:0 2024-09-01_07:41:00" ,BN
 #
 https://rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="TVCG1.me" tvg-logo="https://i.imgur.com/QORHrXu.png" user-agent="" status="ok:0 2024-09-01_07:41:01" ,CG 1
+#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="TVCG1.me" tvg-logo="https://i.imgur.com/QORHrXu.png" status="ok:0 2024-09-01_07:41:01" ,CG 1
 #4
-#EXTVLCOPT:http-user-agent=Android
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="TVCG2.me" tvg-logo="https://i.imgur.com/WECmUKH.png" user-agent="" status="ok:0 2024-09-01_07:41:03" ,CG 2
+#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="TVCG2.me" tvg-logo="https://i.imgur.com/WECmUKH.png" status="ok:0 2024-09-01_07:41:03" ,CG 2
 #4
-#EXTVLCOPT:http-user-agent=Android
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="TVCG3.me" tvg-logo="https://i.imgur.com/0ZT3Bc2.png" user-agent="" status="ok:0 2024-09-01_07:41:04" ,CG 3
+#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="TVCG3.me" tvg-logo="https://i.imgur.com/0ZT3Bc2.png" status="ok:0 2024-09-01_07:41:04" ,CG 3
 #
-#EXTVLCOPT:http-user-agent=Android
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="TVCGMNE.me" tvg-logo="https://i.imgur.com/pf8VEwf.png" user-agent="" status="ok:0 2024-09-01_07:41:05" ,CG MNE
+#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="TVCGMNE.me" tvg-logo="https://i.imgur.com/pf8VEwf.png" status="ok:0 2024-09-01_07:41:05" ,CG MNE
 #
-#EXTVLCOPT:http-user-agent=Android
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-logo="" user-agent="" status="" ,City UB
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-logo="" status="" ,City UB
 #
 http://109.72.57.12/hls/tvcityub.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="HRT1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" user-agent="Android" status="ok:0 2024-09-01_07:41:08" ,HRT 1
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="HRT1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" status="ok:0 2024-09-01_07:41:08" ,HRT 1
 #USER AGENT MANDATORY -- extnf-user-agent for vlc-android - exvlcopt for kodi-
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="HRT2.hr" tvg-logo="https://i.imgur.com/yyePcl1.png" user-agent="Android" status="ok:0 2024-09-01_07:41:10" ,HRT 2
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="HRT2.hr" tvg-logo="https://i.imgur.com/yyePcl1.png" status="ok:0 2024-09-01_07:41:10" ,HRT 2
 #USER AGENT MANDATORY
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" user-agent="Android" status="ok:0 2024-09-01_07:41:11" ,HRT 3
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" status="ok:0 2024-09-01_07:41:11" ,HRT 3
 #USER AGENT MANDATORY
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="HRT4.hr" tvg-logo="https://i.imgur.com/01bZ5rw.png" user-agent="Android" status="ok:0 2024-09-01_07:41:13" ,HRT 4
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="HRT4.hr" tvg-logo="https://i.imgur.com/01bZ5rw.png" status="ok:0 2024-09-01_07:41:13" ,HRT 4
 #USER AGENT MANDATORY
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="TVJadran.hr" tvg-logo="https://i.imgur.com/UWMHnOG.png" user-agent="" status="ok:0 2024-09-01_07:41:14" ,Jadran
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="TVJadran.hr" tvg-logo="https://i.imgur.com/UWMHnOG.png" status="ok:0 2024-09-01_07:41:14" ,Jadran
 # (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Android
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVPiKanal.rs" tvg-logo="https://i.imgur.com/8ugnFa3.png" user-agent="" status="ok:0 2024-09-01_07:41:15" ,Pi Kanal
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVPiKanal.rs" tvg-logo="https://i.imgur.com/8ugnFa3.png" status="ok:0 2024-09-01_07:41:15" ,Pi Kanal
 #
-#EXTVLCOPT:http-user-agent=Android
 http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="RedTV.rs" tvg-logo="https://i.imgur.com/cpN7NrL.png" user-agent="" status="ok:0 2024-09-01_07:41:17" ,Red
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="RedTV.rs" tvg-logo="https://i.imgur.com/cpN7NrL.png" status="ok:0 2024-09-01_07:41:17" ,Red
 #5
-#EXTVLCOPT:http-user-agent=Android
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTL.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png" user-agent="" status="ok:0 2024-09-01_07:41:18" ,RTL
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTL.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png" status="ok:0 2024-09-01_07:41:18" ,RTL
 #5
-#EXTVLCOPT:http-user-agent=Android
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTL2.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png" user-agent="" status="ok:0 2024-09-01_07:41:20" ,RTL 2
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTL2.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png" status="ok:0 2024-09-01_07:41:20" ,RTL 2
 #5
-#EXTVLCOPT:http-user-agent=Android
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTLKockica.hr" tvg-logo="https://i.imgur.com/C7H5bJs.png" user-agent="" status="ok:0 2024-09-01_07:41:21" ,RTL Kockica
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTLKockica.hr" tvg-logo="https://i.imgur.com/C7H5bJs.png" status="ok:0 2024-09-01_07:41:21" ,RTL Kockica
 #5
-#EXTVLCOPT:http-user-agent=Android
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="RTRSTV.ba" tvg-logo="https://i.imgur.com/2Sgs5gM.png" user-agent="" status="ok:0 2024-09-01_07:41:23" ,RTRS
+#EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="RTRSTV.ba" tvg-logo="https://i.imgur.com/2Sgs5gM.png" status="ok:0 2024-09-01_07:41:23" ,RTRS
 #
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
-#EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="RTRSplus.ba" tvg-logo="https://i.imgur.com/k06WvYl.png" user-agent="" status="no:1 2024-09-01_07:41:24" ,RTRS PLUS
+#EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="RTRSplus.ba" tvg-logo="https://i.imgur.com/k06WvYl.png" status="no:1 2024-09-01_07:41:24" ,RTRS PLUS
 #
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="RTS1.rs" tvg-logo="https://i.imgur.com/S1pKHSR.png" user-agent="" status="ok:0 2024-09-01_07:41:26" ,RTS 1
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="RTS1.rs" tvg-logo="https://i.imgur.com/S1pKHSR.png" status="ok:0 2024-09-01_07:41:26" ,RTS 1
 #geolocked hd
-#EXTVLCOPT:http-user-agent=Android
 http://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="RTS2.rs" tvg-logo="https://i.imgur.com/jltAf5h.png" user-agent="" status="ok:0 2024-09-01_07:41:28" ,RTS 2
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="RTS2.rs" tvg-logo="https://i.imgur.com/jltAf5h.png" status="ok:0 2024-09-01_07:41:28" ,RTS 2
 #geolocked
-#EXTVLCOPT:http-user-agent=Android
 http://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 group-title="MOV-YU" tvg-country="BA" tvg-id="TVSehara.si" tvg-logo="https://i.imgur.com/189FW4H.png" user-agent="" status="ok:0 2024-09-01_07:41:29" ,Sehara Online
+#EXTINF:-1 group-title="MOV-YU" tvg-country="BA" tvg-id="TVSehara.si" tvg-logo="https://i.imgur.com/189FW4H.png" status="ok:0 2024-09-01_07:41:29" ,Sehara Online
 #5 mov
-#EXTVLCOPT:http-user-agent=Android
 http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="SlavonskaTV.hr" tvg-logo="" user-agent="" status="ok:0 2024-09-01_07:41:30" ,Slavonska
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="SlavonskaTV.hr" tvg-logo="" status="ok:0 2024-09-01_07:41:30" ,Slavonska
 #
-#EXTVLCOPT:http-user-agent=Android
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="TVSlonExtra.ba" tvg-logo="https://i.imgur.com/AohYgH1.png" user-agent="" status="no:1 2024-09-01_07:41:37" ,Slon Extra
+#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="TVSlonExtra.ba" tvg-logo="https://i.imgur.com/AohYgH1.png" status="no:1 2024-09-01_07:41:37" ,Slon Extra
 #
-#EXTVLCOPT:http-user-agent=Android
 http://31.47.0.130:8082/
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="" tvg-logo="" user-agent="" status="" ,Star Channel
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="" tvg-logo="" status="" ,Star Channel
 #
 https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="StudioB.rs" tvg-logo="" user-agent="" status="ok:0 2024-09-01_07:41:38" ,Studio B
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="StudioB.rs" tvg-logo="" status="ok:0 2024-09-01_07:41:38" ,Studio B
 #
-#EXTVLCOPT:http-user-agent=Android
 http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-country="BA" tvg-id="" tvg-logo="" user-agent="" status="" ,Tropik TV
+#EXTINF:-1 group-title="KIDS" tvg-country="BA" tvg-id="" tvg-logo="" status="" ,Tropik TV
 #
 https://webtvstream.bhtelecom.ba/hls16/tropik_tv_1200.m3u8
 #EXTINF:-1 group-title="" tvg-country="USA" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62ba60f059624e000781c436-alt.m3u8" url_alt="" status="ok:0 2024-09-22_13:03:34" ,00s Replay (Pluto)
