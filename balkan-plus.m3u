@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz,http://cdn.iptvhr.net/tvdata/guide.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz"
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" tvg-logo="https://i.imgur.com/LIUtEgD.png" status="ok:0 2024-09-28_11:47:42" ,AS
 #2023-08-18-1
 https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac
