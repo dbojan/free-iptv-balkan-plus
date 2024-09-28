@@ -147,30 +147,22 @@ list updated
 updated links.
 
 2024-02-27-1
- removed horr.
- renamed 90210
+removed horr.
 
 2024-01-20-2
- -uploaded correct file
- -apparently it takes about 10min for link (raw) to update ...
+-uploaded correct file
+-apparently it takes about 10min for link (raw) to update ...
 
 -2024-01-20
- -updated pluto
- -added sams.
- -renamed kids and nature channel names
-
--2023-12-16
-edited page, updated pluto channels. (added 1 at the url start)
+update list
+renamed kids and nature channel names
 
 -2023-08-10-1
  added new xmltv epg sources,
  added new channels.
  removed non working lake channels
 
--2023-08-18-1
- added instatv and some foreign channels like rakutenaction.
-
- -20230805-1
+-20230805-1
 changed list of tv stations
 
 -20221219-1
