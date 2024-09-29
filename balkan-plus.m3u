@@ -1,105 +1,108 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz"
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" tvg-sfid="TV AS (SN)" tvg-logo="https://i.imgur.com/LIUtEgD.png" status="ok:0 2024-09-28_11:47:42" ,AS
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz,https://www.bevy.be/bevyfiles/croatia.xml.gz,https://www.bevy.be/bevyfiles/bosnia.xml.gz,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/montenegropremium.xml.gz"
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" tvg-beid="TV AS.rs" tvg-tvprofil-id="TVAS.rs" tvg-sfid="TV AS (SN)" tvg-logo="https://i.imgur.com/LIUtEgD.png" status="ok:0 2024-09-28_11:47:42" ,AS
 #
 https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac
-#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="bht1.ba" tvg-sfid="BHT" tvg-logo="https://i.imgur.com/01bZ5rw.png" status="ok:0 2024-09-28_11:47:43" ,BHRT
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TV Belle Amie SD/HD.rs" tvg-beid="TV Belle Amie SD/HD.rs" tvg-tvprofil-id="" tvg-sfid="" tvg-logo="https://i.imgur.com/tOlN5Rz.png" status="" ,Belle Amie
+#
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="bht1.ba" tvg-beid="BHT HD.ba" tvg-tvprofil-id="bht1.ba" tvg-sfid="BHT" tvg-logo="https://i.imgur.com/01bZ5rw.png" status="ok:0 2024-09-28_11:47:43" ,BHRT
 #4 hd
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="Blic.rs" tvg-sfid="Blic.rs" tvg-logo="" status="ok:0 2024-09-28_11:47:47" ,Blic
-#
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="Blic TV.ba" tvg-beid="Blic TV.ba" tvg-tvprofil-id="Blic.rs" tvg-sfid="Blic.rs" tvg-logo="" status="ok:0 2024-09-28_11:47:47" ,Blic
+#BE EPG
 https://53a7ed211fc32.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="bn.ba" tvg-sfid="BN TV" tvg-logo="https://i.imgur.com/DUBvfWb.png" status="ok:0 2024-09-28_11:47:48" ,BN
-#
+#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="BN.ba" tvg-beid="BN.ba" tvg-tvprofil-id="bn.ba" tvg-sfid="BN TV" tvg-logo="https://i.imgur.com/DUBvfWb.png" status="ok:0 2024-09-28_11:47:48" ,BN
+#BE EPG
 https://rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="tvcg1.cg" tvg-sfid="RTCG" tvg-logo="https://i.imgur.com/QORHrXu.png" status="ok:0 2024-09-28_11:47:49" ,CG 1
-#4
+#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="RTCG 1 HD" tvg-beid="RTCG 1 HD" tvg-tvprofil-id="tvcg1.cg" tvg-sfid="RTCG" tvg-logo="https://i.imgur.com/QORHrXu.png" status="ok:0 2024-09-28_11:47:49" ,CG 1
+#BE EPG
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="tvcg2.cg" tvg-sfid="tvcg2.cg" tvg-logo="https://i.imgur.com/WECmUKH.png" status="ok:0 2024-09-28_11:47:51" ,CG 2
-#4
+#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="RTCG 2 HD" tvg-beid="RTCG 2 HD" tvg-tvprofil-id="tvcg2.cg" tvg-sfid="tvcg2.cg" tvg-logo="https://i.imgur.com/WECmUKH.png" status="ok:0 2024-09-28_11:47:51" ,CG 2
+#BE EPG
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="tvcg3.cg" tvg-sfid="tvcg3.cg" tvg-logo="https://i.imgur.com/0ZT3Bc2.png" status="ok:0 2024-09-28_11:47:52" ,CG 3
+#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="" tvg-beid="" tvg-tvprofil-id="tvcg3.cg" tvg-sfid="tvcg3.cg" tvg-logo="https://i.imgur.com/0ZT3Bc2.png" status="ok:0 2024-09-28_11:47:52" ,CG 3
 #
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="tvcg-sat.cg" tvg-sfid="RTCG Sat" tvg-logo="https://i.imgur.com/pf8VEwf.png" status="ok:0 2024-09-28_11:47:53" ,CG MNE
+#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="tvcg-sat.cg" tvg-beid="TVCG MNE.hr" tvg-tvprofil-id="tvcg-sat.cg" tvg-sfid="RTCG Sat" tvg-logo="https://i.imgur.com/pf8VEwf.png" status="ok:0 2024-09-28_11:47:53" ,CG MNE
 #
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-sfid="" tvg-logo="" status="ok:0 2024-09-28_11:47:54" ,City UB
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" tvg-logo="" status="ok:0 2024-09-28_11:47:54" ,City UB
 #
 http://109.72.57.12/hls/tvcityub.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-sfid="TV GM Plus (SN)" tvg-logo="" status="ok:0 2024-09-28_11:47:55" ,Gm Plus
-#
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TV GM Plus.rs" tvg-beid="TV GM Plus.rs" tvg-tvprofil-id="" tvg-sfid="TV GM Plus (SN)" tvg-logo="" status="ok:0 2024-09-28_11:47:55" ,Gm Plus
+#BE EPG
 http://178.217.15.36/fineliving/index.m3u8?token=test
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv1.hr" tvg-sfid="HRT 1 (SN)" tvg-logo="https://i.imgur.com/lDSctzX.png" status="ok:0 2024-09-28_11:47:57" ,HRT 1
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv1.hr" tvg-beid="HRT 1.hr" tvg-tvprofil-id="htv1.hr" tvg-sfid="HRT 1 (SN)" tvg-logo="https://i.imgur.com/lDSctzX.png" status="ok:0 2024-09-28_11:47:57" ,HRT 1
 #USER AGENT MANDATORY -- extnf-user-agent for vlc-android - exvlcopt for kodi-
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv2.hr" tvg-sfid="HRT 2 (SN)" tvg-logo="https://i.imgur.com/yyePcl1.png" status="ok:0 2024-09-28_11:47:58" ,HRT 2
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv2.hr" tvg-beid="HRT 2.hr" tvg-tvprofil-id="htv2.hr" tvg-sfid="HRT 2 (SN)" tvg-logo="https://i.imgur.com/yyePcl1.png" status="ok:0 2024-09-28_11:47:58" ,HRT 2
 #USER AGENT MANDATORY
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv3.hr" tvg-sfid="HRT 3 HD(SN)" tvg-logo="https://i.imgur.com/4OrOJRx.png" status="ok:0 2024-09-28_11:47:59" ,HRT 3
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv3.hr" tvg-beid="HRT 3.hr" tvg-tvprofil-id="htv3.hr" tvg-sfid="HRT 3 HD(SN)" tvg-logo="https://i.imgur.com/4OrOJRx.png" status="ok:0 2024-09-28_11:47:59" ,HRT 3
 #USER AGENT MANDATORY
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv4.hr" tvg-sfid="HRT 4 HD(SN)" tvg-logo="https://i.imgur.com/01bZ5rw.png" status="ok:0 2024-09-28_11:48:01" ,HRT 4
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv4.hr" tvg-beid="HRT 4.hr" tvg-tvprofil-id="htv4.hr" tvg-sfid="HRT 4 HD(SN)" tvg-logo="https://i.imgur.com/01bZ5rw.png" status="ok:0 2024-09-28_11:48:01" ,HRT 4
 #USER AGENT MANDATORY
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="tv-jadran.hr" tvg-sfid="TV JADRAN" tvg-logo="https://i.imgur.com/UWMHnOG.png" status="ok:0 2024-09-28_11:48:02" ,Jadran
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="tv-jadran.hr" tvg-beid="TV Jadran.hr" tvg-tvprofil-id="tv-jadran.hr" tvg-sfid="TV JADRAN" tvg-logo="https://i.imgur.com/UWMHnOG.png" status="ok:0 2024-09-28_11:48:02" ,Jadran
 # (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-sfid="KURIR TV(SN)" tvg-logo="" status="ok:0 2024-09-28_11:48:04" ,Kurir
-#
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="Kurir TV.rs" tvg-beid="Kurir TV.rs" tvg-tvprofil-id="" tvg-sfid="KURIR TV(SN)" tvg-logo="" status="ok:0 2024-09-28_11:48:04" ,Kurir
+#BE EPG
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-sfid="" tvg-logo="" status="ok:0 2024-09-28_11:48:05" ,Narodna
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" tvg-logo="" status="ok:0 2024-09-28_11:48:05" ,Narodna
 #
 https://live.rednet.rs/providus/narodnatv_hq/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVPiKanal.rs" tvg-sfid="KANAL PI (SN)" tvg-logo="https://i.imgur.com/8ugnFa3.png" status="ok:0 2024-09-28_11:48:06" ,Pi Kanal
-#
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TV PI kanal.rs" tvg-beid="TV PI kanal.rs" tvg-tvprofil-id="TVPiKanal.rs" tvg-sfid="KANAL PI (SN)" tvg-logo="https://i.imgur.com/8ugnFa3.png" status="ok:0 2024-09-28_11:48:06" ,Pi Kanal
+#BE EPG
 http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="pink.sr" tvg-sfid="Pink" tvg-logo="" status="ok:0 2024-09-28_11:48:07" ,Pink 1
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="pink.sr" tvg-beid="TV Pink SD/HD.rs" tvg-tvprofil-id="pink.sr" tvg-sfid="Pink" tvg-logo="" status="ok:0 2024-09-28_11:48:07" ,Pink 1
 #
 https://live.rednet.rs/providus/pink1_hq/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="pink-2.movie" tvg-sfid="RED TV(SN)" tvg-logo="https://i.imgur.com/cpN7NrL.png" status="ok:0 2024-09-28_11:48:09" ,Red
-#5
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="Red TV.rs" tvg-beid="Red TV.rs" tvg-tvprofil-id="pink-2.movie" tvg-sfid="RED TV(SN)" tvg-logo="https://i.imgur.com/cpN7NrL.png" status="ok:0 2024-09-28_11:48:09" ,Red
+#BE EPG
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="rtl.hr" tvg-sfid="RTL HR (SN)" tvg-logo="https://i.imgur.com/rzB6Z6u.png" status="ok:0 2024-09-28_11:48:10" ,RTL
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="rtl.hr" tvg-beid="RTL.hr" tvg-tvprofil-id="rtl.hr" tvg-sfid="RTL HR (SN)" tvg-logo="https://i.imgur.com/rzB6Z6u.png" status="ok:0 2024-09-28_11:48:10" ,RTL
 #5
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="rtl2.hr" tvg-sfid="RTL 2" tvg-logo="https://i.imgur.com/rzB6Z6u.png" status="ok:0 2024-09-28_11:48:12" ,RTL 2
-#5
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTL 2.hr" tvg-beid="RTL 2.hr" tvg-tvprofil-id="rtl2.hr" tvg-sfid="RTL 2" tvg-logo="https://i.imgur.com/rzB6Z6u.png" status="ok:0 2024-09-28_11:48:12" ,RTL 2
+#BE EPG
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTL KOCKICA" tvg-sfid="RTL KOCKICA" tvg-logo="https://i.imgur.com/C7H5bJs.png" status="ok:0 2024-09-28_11:48:13" ,RTL Kockica
-#"rtl-kockica.hr"
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTL Kockica.hr" tvg-beid="RTL Kockica.hr" tvg-tvprofil-id="rtl-kockica.hr" tvg-sfid="RTL KOCKICA" tvg-logo="https://i.imgur.com/C7H5bJs.png" status="ok:0 2024-09-28_11:48:13" ,RTL Kockica
+#BE EPG
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="rtrs.ba" tvg-sfid="RTRS" tvg-logo="https://i.imgur.com/2Sgs5gM.png" status="ok:0 2024-09-28_11:48:15" ,RTRS
+#EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="rtrs.ba" tvg-beid="RTRS.ba" tvg-tvprofil-id="rtrs.ba" tvg-sfid="RTRS" tvg-logo="https://i.imgur.com/2Sgs5gM.png" status="ok:0 2024-09-28_11:48:15" ,RTRS
 #
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
-#EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="rtrs-plus.ba" tvg-sfid="RTRS Plus" tvg-logo="rtrs-plus.ba" status="ok:0 2024-09-28_11:48:16" ,RTRS PLUS
+#EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="rtrs-plus.ba" tvg-beid="" tvg-tvprofil-id="rtrs-plus.ba" tvg-sfid="RTRS Plus" tvg-logo="rtrs-plus.ba" status="ok:0 2024-09-28_11:48:16" ,RTRS PLUS
 #
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts1.sr" tvg-sfid="RTS 1 HD" tvg-logo="https://i.imgur.com/S1pKHSR.png" status="ok:0 2024-09-28_11:48:18" ,RTS 1
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts1.sr" tvg-beid="RTS 1 SD/HD.rs" tvg-tvprofil-id="rts1.sr" tvg-sfid="RTS 1 HD" tvg-logo="https://i.imgur.com/S1pKHSR.png" status="ok:0 2024-09-28_11:48:18" ,RTS 1
 #geolocked hd
 http://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts2.sr" tvg-sfid="RTS 2 HD" tvg-logo="https://i.imgur.com/jltAf5h.png" status="ok:0 2024-09-28_11:48:19" ,RTS 2
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts2.sr" tvg-beid="RTS 2 SD/HD.rs" tvg-tvprofil-id="rts2.sr" tvg-sfid="RTS 2 HD" tvg-logo="https://i.imgur.com/jltAf5h.png" status="ok:0 2024-09-28_11:48:19" ,RTS 2
 #geolocked
 http://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts-sat.sr" tvg-sfid="RTS Svet" tvg-logo="" status="ok:0 2024-09-28_11:48:21" ,RTS Svet
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts-sat.sr" tvg-beid="SAT TV.rs" tvg-tvprofil-id="rts-sat.sr" tvg-sfid="RTS Svet" tvg-logo="" status="ok:0 2024-09-28_11:48:21" ,RTS Svet
 #
 https://webtvstream.bhtelecom.ba/hls7/rts_svet_1200.m3u8
-#EXTINF:-1 group-title="MOV-YU" tvg-country="BA" tvg-id="TVSehara.si" tvg-sfid="TVSehara.si" tvg-logo="https://i.imgur.com/189FW4H.png" status="ok:0 2024-09-28_11:48:22" ,Sehara Online
+#EXTINF:-1 group-title="MOV-YU" tvg-country="BA" tvg-id="TVSehara.si" tvg-beid="" tvg-tvprofil-id="TVSehara.si" tvg-sfid="TVSehara.si" tvg-logo="https://i.imgur.com/189FW4H.png" status="ok:0 2024-09-28_11:48:22" ,Sehara Online
 #5 mov
 http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="slavonska-tv.hr" tvg-sfid="SLAVONSKA TV" tvg-logo="" status="ok:0 2024-09-28_11:48:23" ,Slavonska
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="slavonska-tv.hr" tvg-beid="Slavonska TV.hr" tvg-tvprofil-id="slavonska-tv.hr" tvg-sfid="SLAVONSKA TV" tvg-logo="" status="ok:0 2024-09-28_11:48:23" ,Slavonska
 #
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="fox.movie" tvg-sfid="STAR TV" tvg-logo="" status="ok:0 2024-09-28_11:48:31" ,Star
-#
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="STAR.hr" tvg-beid="STAR.hr" tvg-tvprofil-id="fox.movie" tvg-sfid="STAR TV" tvg-logo="" status="ok:0 2024-09-28_11:48:31" ,Star
+#BE EPG
 https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="studio-b-yu.sr" tvg-sfid="Studio B" tvg-logo="" status="ok:0 2024-09-28_11:48:32" ,Studio B
-#
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="studio-b-yu.sr" tvg-beid="Studio B.ba" tvg-tvprofil-id="studio-b-yu.sr" tvg-sfid="Studio B" tvg-logo="" status="ok:0 2024-09-28_11:48:32" ,Studio B
+#?epg
 http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-country="BA" tvg-id="tropik-tv.toons" tvg-sfid="tropik-tv.toons" tvg-logo="" status="ok:0 2024-09-28_11:48:34" ,Tropik
+#EXTINF:-1 group-title="KIDS" tvg-country="BA" tvg-id="tropik-tv.toons" tvg-beid="Tropik TV HD" tvg-tvprofil-id="tropik-tv.toons" tvg-sfid="tropik-tv.toons" tvg-logo="" status="ok:0 2024-09-28_11:48:34" ,Tropik
 #
 https://webtvstream.bhtelecom.ba/hls16/tropik_tv_1200.m3u8
 #EXTINF:-1 group-title="" tvg-country="USA" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62ba60f059624e000781c436-alt.m3u8" url_alt="" status="ok:0 2024-09-22_13:03:34" ,00s Replay (Pluto)
@@ -114,27 +117,27 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3
 #EXTINF:-1 group-title="MOV" tvg-country="USA" tvg-id="5f4d86f519358a00072b978e" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5f4d86f519358a00072b978e-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:21:06" ,90s Throwback (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="" tvg-country="USA" tvg-id="561d7d484dc7c8770484914a" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-561d7d484dc7c8770484914a-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:21:32" ,Action (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="Great Britain" tvg-id="5dbfeb961b411c00090b52b3" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5dbfeb961b411c00090b52b3-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:21:37" ,Action (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:21:45" ,Action (Rakuten)
-#OLD?
-https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:21:40" ,Action (Rakuten)
-#""
-https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-country="USA" tvg-id="561d7d484dc7c8770484914a" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-561d7d484dc7c8770484914a-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:21:32" ,Action (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:21:42" ,Action (Rakuten)
 #
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOV" tvg-country="Canada" tvg-id="CAAJ2700014EE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700014EE_20230509T224722SQUARE.png_20230509224723.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/CAAJ2700014EE.m3u8" url_alt="" status="ok:0 2024-09-21_17:22:05" ,Action FilmRise (Samsung)
-#
-https://jmp2.uk/sam-CAAJ2700014EE.m3u8
+#EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:21:40" ,Action (Rakuten)
+#""
+https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:21:45" ,Action (Rakuten)
+#OLD?
+https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOV" tvg-country="United States" tvg-id="USBB3200020ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200020ID_20221214T015102SQUARE.png_20221214015103.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBB3200020ID.m3u8" url_alt="" status="ok:0 2024-09-21_17:22:14" ,Action FilmRise (Samsung)
 #
 https://jmp2.uk/sam-USBB3200020ID.m3u8
+#EXTINF:-1 group-title="MOV" tvg-country="Canada" tvg-id="CAAJ2700014EE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700014EE_20230509T224722SQUARE.png_20230509224723.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/CAAJ2700014EE.m3u8" url_alt="" status="ok:0 2024-09-21_17:22:05" ,Action FilmRise (Samsung)
+#
+https://jmp2.uk/sam-CAAJ2700014EE.m3u8
 #EXTINF:-1 group-title="MOV-OLD" tvg-country="US" tvg-id="" tvg-logo="" provider="samsung" url_mh="" url_alt="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8" status="ok:0 2024-09-21_17:22:18" ,Action Hollywood Movies (samsung)
 #
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
@@ -183,12 +186,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718a
 #EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:23:40" ,Comedy (Rakuten)
 #""
 https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:23:37" ,Comedy (Rakuten)
-#""
-https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:23:35" ,Comedy (Rakuten)
 #""
 https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:23:37" ,Comedy (Rakuten)
+#""
+https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="RedboxComedy.us" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" provider="redbox" url_mh="" url_alt="" status="ok:0 2024-09-21_17:23:47" ,Comedy (Redbox)
 #""
 https://comedy-redbox.amagi.tv/playlist.m3u8
@@ -219,21 +222,21 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61c1e3a679a4390007
 #EXTINF:-1 group-title="MOV" tvg-country="USA" tvg-id="5f4d8594eb979c0007706de7" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5f4d8594eb979c0007706de7-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:24:26" ,Crime Movies (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="" tvg-country="USA" tvg-id="5c665db3e6c01b72c4977bc2" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:24:33" ,Cult Films (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="Great Britain" tvg-id="5c5c31f2f21b553c1f673fb0" tvg-logo="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:24:39" ,Cult Films (Pluto)
 #*
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c31f2f21b553c1f673fb0/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="" tvg-country="USA" tvg-id="5c665db3e6c01b72c4977bc2" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:24:33" ,Cult Films (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="Denmark" tvg-id="63dbe7ed51f5d000083e9499" tvg-logo="https://images.pluto.tv/channels/63dbe7ed51f5d000083e9499/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63dbe7ed51f5d000083e9499-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:24:50" ,Cultfilm: Kultfilm (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63dbe7ed51f5d000083e9499/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="" tvg-country="Sweden" tvg-id="63dbe8c8a9957100087798a3" tvg-logo="https://images.pluto.tv/channels/63dbe8c8a9957100087798a3/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63dbe8c8a9957100087798a3-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:25:08" ,Cultfilm: Kultfilmer (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63dbe8c8a9957100087798a3/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="Norway" tvg-id="63dbe80f60bc8f0008aa7c78" tvg-logo="https://images.pluto.tv/channels/63dbe80f60bc8f0008aa7c78/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:25:02" ,Cultfilm: Kultfilmer (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63dbe80f60bc8f0008aa7c78/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="" tvg-country="Sweden" tvg-id="63dbe8c8a9957100087798a3" tvg-logo="https://images.pluto.tv/channels/63dbe8c8a9957100087798a3/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63dbe8c8a9957100087798a3-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:25:08" ,Cultfilm: Kultfilmer (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63dbe8c8a9957100087798a3/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5b85a7582921777994caea63" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" provider="pluto" url_mh="https://jmp2.uk/plu-5b85a7582921777994caea63-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:25:15" ,Documentaries (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -249,15 +252,15 @@ https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5b4e92e4694c027be6ecece1" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5b4e92e4694c027be6ecece1-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:26:02" ,Drama (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:26:09" ,Drama (Rakuten)
+#""
+https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:26:07" ,Drama (Rakuten)
 #""
 https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:26:05" ,Drama (Rakuten)
 #""
 https://rakuten-drama-10-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:26:09" ,Drama (Rakuten)
-#""
-https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-country="Canada" tvg-id="62bdb0bcd707b9000739d2e5" tvg-logo="https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:26:14" ,Drama Movies (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bdb0bcd707b9000739d2e5/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -300,6 +303,9 @@ https://jmp2.uk/sam-GBAJ4900011Y4.m3u8
 #EXTINF:-1 group-title="" tvg-country="USA" tvg-id="58e55b14ad8e9c364d55f717" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-58e55b14ad8e9c364d55f717-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:27:27" ,Flicks of Fury (Pluto)
 #*
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="MOV" tvg-country="" tvg-id="FreebieTV.us" tvg-logo="https://i.imgur.com/KbmXdjm.png" provider="cloudfront" url_mh="" url_alt="" status="" ,Freebie TV (Cloudfront)
+#
+https://d26pp4b7ojtlyn.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-FreebieTV/187.m3u8
 #EXTINF:-1 group-title="DAY" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:27:32" ,Guardian (Rakuten)
 #""
 https://rakuten-guardian-1-fr.lg.wurl.tv/playlist.m3u8
@@ -312,15 +318,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa0007
 #EXTINF:-1 group-title="MOV" tvg-country="United States" tvg-id="USAJ3000007MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20221214T015127SQUARE.png_20221214015128.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USAJ3000007MT.m3u8" url_alt="" status="ok:0 2024-09-21_17:27:51" ,Maverick Black Cinema (Samsung)
 #
 https://jmp2.uk/sam-USAJ3000007MT.m3u8
-#EXTINF:-1 group-title="" tvg-country="Norway" tvg-id="63047bd6b0726b000795341d" tvg-logo="https://images.pluto.tv/channels/63047bd6b0726b000795341d/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63047bd6b0726b000795341d-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:27:59" ,Merry Christmas from Viafree (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63047bd6b0726b000795341d/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="" tvg-country="Denmark" tvg-id="63048147b09fd60007847a08" tvg-logo="https://images.pluto.tv/channels/63048147b09fd60007847a08/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63048147b09fd60007847a08-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:28:19" ,Merry Christmas from Viafree (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63048147b09fd60007847a08/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="Sweden" tvg-id="6304854ac6073d0007259fe1" tvg-logo="https://images.pluto.tv/channels/6304854ac6073d0007259fe1/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6304854ac6073d0007259fe1-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:28:08" ,Merry Christmas from Viafree (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6304854ac6073d0007259fe1/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="" tvg-country="Denmark" tvg-id="63048147b09fd60007847a08" tvg-logo="https://images.pluto.tv/channels/63048147b09fd60007847a08/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63048147b09fd60007847a08-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:28:19" ,Merry Christmas from Viafree (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63048147b09fd60007847a08/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="" tvg-country="Norway" tvg-id="63047bd6b0726b000795341d" tvg-logo="https://images.pluto.tv/channels/63047bd6b0726b000795341d/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63047bd6b0726b000795341d-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:27:59" ,Merry Christmas from Viafree (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63047bd6b0726b000795341d/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="MOV" tvg-country="Canada" tvg-id="CABC5200021HG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200021HG_20230523T231158SQUARE.png_20230523231159.png" provider="cineverse" url_mh="" url_alt="" status="ok:0 2024-09-21_17:28:31" ,Midnight Pulp (Cineverse)
 #
 https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
@@ -360,12 +366,12 @@ https://jmp2.uk/sam-GBAK3504504A.m3u8
 #EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="FilmRiseFreeMovies.us" tvg-logo="https://i.imgur.com/X7U7ikq.png" provider="redbox" url_mh="" url_alt="" status="ok:0 2024-09-21_17:29:27" ,Movies Free Filmrise (Redbox-FilmRise)
 #
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 group-title="MOV" tvg-country="United States" tvg-id="USAJ40000072X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ40000072X_20221214T015058SQUARE.png_20221214015059.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USAJ40000072X.m3u8" url_alt="" status="ok:0 2024-09-21_17:29:46" ,Movies Free FilmRise (Samsung)
-#
-https://jmp2.uk/sam-USAJ40000072X.m3u8
 #EXTINF:-1 group-title="MOV" tvg-country="Canada" tvg-id="CAAJ40000077N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ40000077N_20230809T005053SQUARE.png_20230809005054.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/CAAJ40000077N.m3u8" url_alt="" status="ok:0 2024-09-21_17:29:37" ,Movies Free FilmRise (Samsung)
 #
 https://jmp2.uk/sam-CAAJ40000077N.m3u8
+#EXTINF:-1 group-title="MOV" tvg-country="United States" tvg-id="USAJ40000072X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ40000072X_20221214T015058SQUARE.png_20221214015059.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USAJ40000072X.m3u8" url_alt="" status="ok:0 2024-09-21_17:29:46" ,Movies Free FilmRise (Samsung)
+#
+https://jmp2.uk/sam-USAJ40000072X.m3u8
 #EXTINF:-1 group-title="MOV" tvg-country="US" tvg-id="GravitasMovies.us" tvg-logo="https://i.imgur.com/H2hD4vT.png" provider="redbox" url_mh="" url_alt="" status="ok:0 2024-09-21_17:29:53" ,Movies Gravitas (Redbox)
 #""
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
@@ -387,27 +393,27 @@ https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 #EXTINF:-1 group-title="MOV" tvg-country="United Kingdom" tvg-id="GBAJ400042T1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ400042T1_20230222T011314SQUARE.png_20230222011314.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/GBAJ400042T1.m3u8" url_alt="" status="ok:0 2024-09-21_17:30:24" ,Movies Sparkle (Samsung)
 #
 https://jmp2.uk/sam-GBAJ400042T1.m3u8
-#EXTINF:-1 group-title="MOV" tvg-country="Norway" tvg-id="62beb44e3afd120007915d1b" tvg-logo="https://images.pluto.tv/channels/62beb44e3afd120007915d1b/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62beb44e3afd120007915d1b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:30:29" ,Movies Viafree (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62beb44e3afd120007915d1b/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="MOV" tvg-country="Denmark" tvg-id="62bebc3459624e00078209c3" tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62bebc3459624e00078209c3-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:30:40" ,Movies Viafree (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bebc3459624e00078209c3/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="MOV" tvg-country="Norway" tvg-id="62beb44e3afd120007915d1b" tvg-logo="https://images.pluto.tv/channels/62beb44e3afd120007915d1b/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62beb44e3afd120007915d1b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:30:29" ,Movies Viafree (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62beb44e3afd120007915d1b/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="MOV" tvg-country="Sweden" tvg-id="62f64ec9eb1045000728cad6" tvg-logo="https://images.pluto.tv/channels/62f64ec9eb1045000728cad6/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62f64ec9eb1045000728cad6-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:30:34" ,Movies Viafree (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62f64ec9eb1045000728cad6/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="MOV" tvg-country="United States" tvg-id="USBD17000117B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20230726T004507SQUARE.png_20230726004509.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBD17000117B.m3u8" url_alt="" status="ok:0 2024-09-21_17:30:52" ,MovieSphere (Samsung)
-#
-https://jmp2.uk/sam-USBD17000117B.m3u8
 #EXTINF:-1 group-title="MOV" tvg-country="United Kingdom" tvg-id="GBBA33000557H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000557H_20221201T014509SQUARE.png_20221201014510.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/GBBA33000557H.m3u8" url_alt="" status="ok:0 2024-09-21_17:30:47" ,MovieSphere (Samsung)
 #
 https://jmp2.uk/sam-GBBA33000557H.m3u8
-#EXTINF:-1 group-title="" tvg-country="Canada" tvg-id="64a3d96f060e830008af6745" tvg-logo="https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-64a3d96f060e830008af6745-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:30:58" ,MovieSphere by Lionsgate (Pluto)
+#EXTINF:-1 group-title="MOV" tvg-country="United States" tvg-id="USBD17000117B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20230726T004507SQUARE.png_20230726004509.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBD17000117B.m3u8" url_alt="" status="ok:0 2024-09-21_17:30:52" ,MovieSphere (Samsung)
 #
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+https://jmp2.uk/sam-USBD17000117B.m3u8
 #EXTINF:-1 group-title="" tvg-country="USA" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-645e7828e1979c00087b75b4-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:31:04" ,MovieSphere by Lionsgate (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="" tvg-country="Canada" tvg-id="64a3d96f060e830008af6745" tvg-logo="https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-64a3d96f060e830008af6745-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:30:58" ,MovieSphere by Lionsgate (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="MOV" tvg-country="GB" tvg-id="" tvg-logo="" provider="samsung" url_mh="" url_alt="https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8" status="ok:0 2024-09-21_17:31:09" ,Moviesphere England (samsung)
 #
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
@@ -426,12 +432,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62fb6cd97b90e60007
 #EXTINF:-1 group-title="MOV" tvg-country="United Kingdom" tvg-id="GBBA3300020DM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300020DM_20230322T075406SQUARE.png_20230322075406.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/GBBA3300020DM.m3u8" url_alt="" status="ok:0 2024-09-21_17:31:43" ,Romance Movies (Samsung)
 #
 https://jmp2.uk/sam-GBBA3300020DM.m3u8
-#EXTINF:-1 group-title="" tvg-country="Denmark" tvg-id="63a1c954d3897300079fcb12" tvg-logo="https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63a1c954d3897300079fcb12-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:32:00" ,Romantik (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63a1c954d3897300079fcb12/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="Sweden" tvg-id="63a19da6847a090007f230da" tvg-logo="https://images.pluto.tv/channels/63a19da6847a090007f230da/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63a19da6847a090007f230da-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:31:53" ,Romantik (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63a19da6847a090007f230da/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="" tvg-country="Denmark" tvg-id="63a1c954d3897300079fcb12" tvg-logo="https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63a1c954d3897300079fcb12-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:32:00" ,Romantik (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63a1c954d3897300079fcb12/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="Norway" tvg-id="63a19bb5e6914b000721b5c0" tvg-logo="https://images.pluto.tv/channels/63a19bb5e6914b000721b5c0/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63a19bb5e6914b000721b5c0-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:32:06" ,Romantikk (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63a19bb5e6914b000721b5c0/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -441,24 +447,21 @@ https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-country="United Kingdom" tvg-id="GBBA3300024F7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300024F7_20231115T012317SQUARE.png_20231115012317.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/GBBA3300024F7.m3u8" url_alt="" status="ok:0 2024-09-21_17:32:19" ,SERIES: 100% Christmas (Samsung)
 #
 https://jmp2.uk/sam-GBBA3300024F7.m3u8
-#EXTINF:-1 group-title="" tvg-country="Norway" tvg-id="61c1e270489a9c000874d209" tvg-logo="https://images.pluto.tv/channels/61c1e270489a9c000874d209/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61c1e270489a9c000874d209-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:21:18" ,SERIES: Action (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61c1e270489a9c000874d209/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="Sweden" tvg-id="61c0b0688a80a4000703fbcb" tvg-logo="https://images.pluto.tv/channels/61c0b0688a80a4000703fbcb/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61c0b0688a80a4000703fbcb-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:21:13" ,SERIES: Action (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61c0b0688a80a4000703fbcb/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="Denmark" tvg-id="61c095861782bd000780e0ba" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61c095861782bd000780e0ba-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:21:26" ,SERIES: Action (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61c095861782bd000780e0ba/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="" tvg-country="Norway" tvg-id="61c1e270489a9c000874d209" tvg-logo="https://images.pluto.tv/channels/61c1e270489a9c000874d209/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61c1e270489a9c000874d209-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:21:18" ,SERIES: Action (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61c1e270489a9c000874d209/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="United Kingdom" tvg-id="GBAK3504503A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504503A_20220713T010450SQUARE.png_20220713010452.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/GBAK3504503A.m3u8" url_alt="" status="ok:0 2024-09-21_17:21:50" ,SERIES: Action (Samsung) - Relic Hunter
 #
 https://jmp2.uk/sam-GBAK3504503A.m3u8
 #EXTINF:-1 group-title="" tvg-country="USA" tvg-id="65033c4b98020f0008547124" tvg-logo="https://images.pluto.tv/channels/65033c4b98020f0008547124/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-65033c4b98020f0008547124-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:21:55" ,SERIES: Action Drama (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65033c4b98020f0008547124/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="5e8db96bccae160007c71eec" tvg-logo="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5e8db96bccae160007c71eec-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:32:25" ,SERIES: Andromeda (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8db96bccae160007c71eec/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="6178156e54712100072d6b2b" tvg-logo="https://images.pluto.tv/channels/6178156e54712100072d6b2b/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6178156e54712100072d6b2b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:32:34" ,SERIES: Andromeda (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6178156e54712100072d6b2b/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -468,45 +471,48 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/617807a1a3a6160007
 #EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="6177fb39b68ef1000725e59e" tvg-logo="https://images.pluto.tv/channels/6177fb39b68ef1000725e59e/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6177fb39b68ef1000725e59e-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:32:49" ,SERIES: Andromeda (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6177fb39b68ef1000725e59e/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5d815eb889bca2ce7b746fdd" tvg-logo="https://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5d815eb889bca2ce7b746fdd-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:02" ,SERIES: Baywatch (Pluto)
+#EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="5e8db96bccae160007c71eec" tvg-logo="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5e8db96bccae160007c71eec-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:32:25" ,SERIES: Andromeda (Pluto)
 #
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8db96bccae160007c71eec/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="62bdae69a47b6c00076af298" tvg-logo="https://images.pluto.tv/channels/62bdae69a47b6c00076af298/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62bdae69a47b6c00076af298-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:32:58" ,SERIES: Baywatch (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bdae69a47b6c00076af298/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5d815eb889bca2ce7b746fdd" tvg-logo="https://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5d815eb889bca2ce7b746fdd-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:02" ,SERIES: Baywatch (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="611e672d4676bf00076a3837" tvg-logo="https://images.pluto.tv/channels/611e672d4676bf00076a3837/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-611e672d4676bf00076a3837-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:32:54" ,SERIES: Baywatch (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/611e672d4676bf00076a3837/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="CABA3700002ML" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700002ML_20240815T174834SQUARE.png" provider="samsung" url_mh="https://jmp2.uk/sam-CABA3700002ML.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:07" ,SERIES: Baywatch (Samsung)
 #
 https://jmp2.uk/sam-CABA3700002ML.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="GBBD600002XT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20230712T021143SQUARE.png_20230712021144.png" provider="samsung" url_mh="https://jmp2.uk/sam-GBBD600002XT.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:15" ,SERIES: Baywatch (Samsung)
-#
-https://jmp2.uk/sam-GBBD600002XT.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="USBA2000001BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2000001BR_20240812T182856SQUARE.png" provider="samsung" url_mh="https://jmp2.uk/sam-USBA2000001BR.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:12" ,SERIES: Baywatch (Samsung)
 #
 https://jmp2.uk/sam-USBA2000001BR.m3u8
-#EXTINF:-1 group-title="" tvg-country="Great Britain" tvg-id="604f8f8622166000071a929f" tvg-logo="https://images.pluto.tv/channels/604f8f8622166000071a929f/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-604f8f8622166000071a929f-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:25" ,SERIES: BET (Pluto)
+#EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="GBBD600002XT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20230712T021143SQUARE.png_20230712021144.png" provider="samsung" url_mh="https://jmp2.uk/sam-GBBD600002XT.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:15" ,SERIES: Baywatch (Samsung)
 #
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604f8f8622166000071a929f/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+https://jmp2.uk/sam-GBBD600002XT.m3u8
 #EXTINF:-1 group-title="" tvg-country="Norway" tvg-id="61dd5bf8db0b8e00080804ff" tvg-logo="https://images.pluto.tv/channels/61dd5bf8db0b8e00080804ff/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:37" ,SERIES: BET (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61dd5bf8db0b8e00080804ff/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="" tvg-country="Sweden" tvg-id="61c187ef1efe1b0007571711" tvg-logo="https://images.pluto.tv/channels/61c187ef1efe1b0007571711/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61c187ef1efe1b0007571711-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:32" ,SERIES: BET (Pluto)
+#EXTINF:-1 group-title="" tvg-country="Great Britain" tvg-id="604f8f8622166000071a929f" tvg-logo="https://images.pluto.tv/channels/604f8f8622166000071a929f/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-604f8f8622166000071a929f-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:25" ,SERIES: BET (Pluto)
 #
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61c187ef1efe1b0007571711/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604f8f8622166000071a929f/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="Denmark" tvg-id="61c1939b8929e40007ff6382" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61c1939b8929e40007ff6382-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:20" ,SERIES: BET (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61c1939b8929e40007ff6382/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="62beb2e62bb1570007c40012" tvg-logo="https://images.pluto.tv/channels/62beb2e62bb1570007c40012/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62beb2e62bb1570007c40012-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:34:00" ,SERIES: Beverly Hills 90210 (Pluto)
+#EXTINF:-1 group-title="" tvg-country="Sweden" tvg-id="61c187ef1efe1b0007571711" tvg-logo="https://images.pluto.tv/channels/61c187ef1efe1b0007571711/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61c187ef1efe1b0007571711-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:32" ,SERIES: BET (Pluto)
 #
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62beb2e62bb1570007c40012/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61c187ef1efe1b0007571711/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="62beb5903279cb000773500f" tvg-logo="https://images.pluto.tv/channels/62beb5903279cb000773500f/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62beb5903279cb000773500f-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:48" ,SERIES: Beverly Hills 90210 (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62beb5903279cb000773500f/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="63565bdbb0d80d00078d3450" tvg-logo="https://images.pluto.tv/channels/63565bdbb0d80d00078d3450/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63565bdbb0d80d00078d3450-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:33:55" ,SERIES: Beverly Hills 90210 (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63565bdbb0d80d00078d3450/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="62beb2e62bb1570007c40012" tvg-logo="https://images.pluto.tv/channels/62beb2e62bb1570007c40012/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62beb2e62bb1570007c40012-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:34:00" ,SERIES: Beverly Hills 90210 (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62beb2e62bb1570007c40012/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5f4d83e0a382c00007bc02e7" tvg-logo="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:34:08" ,SERIES: Beverly Hills 90210: 90210 (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -531,12 +537,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f870184865da0007
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5b68a18823ecb93393cba2f1" tvg-logo="https://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/colorLogoPNG-1630512286593.png" provider="pluto" url_mh="https://jmp2.uk/plu-5b68a18823ecb93393cba2f1-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:34:52" ,SERIES: British Drama (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="63e389dcc111bc0008ee5b8c" tvg-logo="https://images.pluto.tv/channels/63e389dcc111bc0008ee5b8c/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:35:06" ,SERIES: Cheers (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63e389dcc111bc0008ee5b8c/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="62bdb7f0db2eb30007376d4d" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:35:14" ,SERIES: Cheers (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bdb7f0db2eb30007376d4d/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="63e389dcc111bc0008ee5b8c" tvg-logo="https://images.pluto.tv/channels/63e389dcc111bc0008ee5b8c/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:35:06" ,SERIES: Cheers (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63e389dcc111bc0008ee5b8c/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="US" tvg-id="66ba495ffe11e5000881f049" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-66ba495ffe11e5000881f049-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:35:23" ,SERIES: Cheers and Frasier (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/66ba495ffe11e5000881f049/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -576,24 +582,24 @@ https://jmp2.uk/sam-CABD1700002R4.m3u8
 #EXTINF:-1 group-title="" tvg-country="USA" tvg-id="5f31fd1b4c510e00071c3103" tvg-logo="https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5f31fd1b4c510e00071c3103-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:24:22" ,SERIES: Crime Drama (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5efbd29e4aa26700076c0d06-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:36:41" ,SERIES: CSI (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="62e9224f41d5e100076db2b6" tvg-logo="https://images.pluto.tv/channels/62e9224f41d5e100076db2b6/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62e9224f41d5e100076db2b6-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:36:55" ,SERIES: CSI (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62e9224f41d5e100076db2b6/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5efbd29e4aa26700076c0d06-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:36:41" ,SERIES: CSI (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="6525419dc52b3600083db9c3" tvg-logo="https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6525419dc52b3600083db9c3-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:36:49" ,SERIES: CSI (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6525419dc52b3600083db9c3/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="62da7819be7a97000878eb92" tvg-logo="https://images.pluto.tv/channels/62da7819be7a97000878eb92/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62da7819be7a97000878eb92-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:37:07" ,SERIES: CSI: Miami (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62da7819be7a97000878eb92/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="63f4e0e63fde020007835cbe" tvg-logo="https://images.pluto.tv/channels/63f4e0e63fde020007835cbe/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63f4e0e63fde020007835cbe-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:37:03" ,SERIES: CSI: Miami (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63f4e0e63fde020007835cbe/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="62f54c11b3af68000702c304" tvg-logo="https://images.pluto.tv/channels/62f54c11b3af68000702c304/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62f54c11b3af68000702c304-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:37:13" ,SERIES: CSI: Miami (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62f54c11b3af68000702c304/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="62da7819be7a97000878eb92" tvg-logo="https://images.pluto.tv/channels/62da7819be7a97000878eb92/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62da7819be7a97000878eb92-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:37:07" ,SERIES: CSI: Miami (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62da7819be7a97000878eb92/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="62da778fad95670007f610c0" tvg-logo="https://images.pluto.tv/channels/62da778fad95670007f610c0/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62da778fad95670007f610c0-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:37:18" ,SERIES: CSI: New York (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62da778fad95670007f610c0/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -612,15 +618,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6eeb85c05dfc257e
 #EXTINF:-1 group-title="SERIES" tvg-country="United States" tvg-id="USBD700010XU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700010XU_20230523T230730SQUARE.png_20230523230731.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBD700010XU.m3u8" url_alt="" status="ok:0 2024-09-21_17:37:50" ,SERIES: Degrassi (Samsung)
 #
 https://jmp2.uk/sam-USBD700010XU.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="62e922f6675f71000736db3b" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62e922f6675f71000736db3b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:38:01" ,SERIES: Doc Martin (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62e922f6675f71000736db3b/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="62b1e5e77d15410007f798c6" tvg-logo="https://images.pluto.tv/channels/62b1e5e77d15410007f798c6/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62b1e5e77d15410007f798c6-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:38:05" ,SERIES: Doc Martin (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62b1e5e77d15410007f798c6/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="62724ae034f5190007b63424" tvg-logo="https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62724ae034f5190007b63424-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:37:55" ,SERIES: Doc Martin (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62724ae034f5190007b63424/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="62b1e5e77d15410007f798c6" tvg-logo="https://images.pluto.tv/channels/62b1e5e77d15410007f798c6/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62b1e5e77d15410007f798c6-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:38:05" ,SERIES: Doc Martin (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62b1e5e77d15410007f798c6/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="62e922f6675f71000736db3b" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62e922f6675f71000736db3b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:38:01" ,SERIES: Doc Martin (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62e922f6675f71000736db3b/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5b329e0a7b9d8872aeb49ceb-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:38:08" ,SERIES: Dogs 24--7 (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -651,39 +657,39 @@ https://jmp2.uk/sam-USBD2500012DH.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-country="United States" tvg-id="USBC6000225M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000225M_20230509T224426SQUARE.png_20230509224426.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBC6000225M.m3u8" url_alt="" status="ok:0 2024-09-21_17:26:32" ,SERIES: ElectricNOW (Samsung)
 #
 https://jmp2.uk/sam-USBC6000225M.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="620bb260821a860007b2d3df" tvg-logo="https://images.pluto.tv/channels/620bb260821a860007b2d3df/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-620bb260821a860007b2d3df-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:38:42" ,SERIES: Family Ties (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/620bb260821a860007b2d3df/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5f77939a630f530007dde654" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5f77939a630f530007dde654-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:38:57" ,SERIES: Family Ties (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="620bb260821a860007b2d3df" tvg-logo="https://images.pluto.tv/channels/620bb260821a860007b2d3df/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-620bb260821a860007b2d3df-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:38:42" ,SERIES: Family Ties (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/620bb260821a860007b2d3df/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="654a4f7bf9cc8200086877d5" tvg-logo="https://images.pluto.tv/channels/654a4f7bf9cc8200086877d5/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654a4f7bf9cc8200086877d5-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:38:50" ,SERIES: Family Ties (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654a4f7bf9cc8200086877d5/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="6400c095498393000878a634" tvg-logo="https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6400c095498393000878a634-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:39:01" ,SERIES: Frasier (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6400c095498393000878a634/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="62f4f90e39183b000769f12b" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62f4f90e39183b000769f12b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:39:09" ,SERIES: Frasier (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62f4f90e39183b000769f12b/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="6400c095498393000878a634" tvg-logo="https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6400c095498393000878a634-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:39:01" ,SERIES: Frasier (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6400c095498393000878a634/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="USA" tvg-id="60f75771dfc72a00071fd0e0" tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-60f75771dfc72a00071fd0e0-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:39:15" ,SERIES: Gunsmoke (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f75771dfc72a00071fd0e0/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="654a508d986ad20008a456a5" tvg-logo="https://images.pluto.tv/channels/654a508d986ad20008a456a5/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654a508d986ad20008a456a5-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:39:56" ,SERIES: Happy Days (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654a508d986ad20008a456a5/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5f7794162a4559000781fc12" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5f7794162a4559000781fc12-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:39:49" ,SERIES: Happy Days (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7794162a4559000781fc12/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="62e917b5e354cf0007b97a67" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62e917b5e354cf0007b97a67-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:39:26" ,SERIES: Happy Days (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62e917b5e354cf0007b97a67/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="654a52254d6d8f00084eacfc" tvg-logo="https://images.pluto.tv/channels/654a52254d6d8f00084eacfc/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654a52254d6d8f00084eacfc-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:39:42" ,SERIES: Happy Days (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654a52254d6d8f00084eacfc/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="654a4e29ab05240008a18625" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654a4e29ab05240008a18625-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:39:32" ,SERIES: Happy Days (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654a4e29ab05240008a18625/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5f7794162a4559000781fc12" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5f7794162a4559000781fc12-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:39:49" ,SERIES: Happy Days (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7794162a4559000781fc12/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="654a52254d6d8f00084eacfc" tvg-logo="https://images.pluto.tv/channels/654a52254d6d8f00084eacfc/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654a52254d6d8f00084eacfc-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:39:42" ,SERIES: Happy Days (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654a52254d6d8f00084eacfc/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="655f2977635c3c00085ce819" tvg-logo="https://images.pluto.tv/channels/655f2977635c3c00085ce819/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-655f2977635c3c00085ce819-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:40:03" ,SERIES: Hawaii Five-0 (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/655f2977635c3c00085ce819/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -693,7 +699,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61f07513227feb0007
 #EXTINF:-1 group-title="SERIES" tvg-country="United States" tvg-id="USBB2900003O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20230307T222236SQUARE.png_20230307222237.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBB2900003O3.m3u8" url_alt="" status="ok:0 2024-09-21_17:40:15" ,SERIES: Heartland (Samsung)
 #
 https://jmp2.uk/sam-USBB2900003O3.m3u8
-#EXTINF:-1 group-title="" tvg-country="Great Britain" tvg-id="6081738748d3200007afb24b" tvg-logo="https://images.pluto.tv/channels/6081738748d3200007afb24b/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6081738748d3200007afb24b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:40:22" ,SERIES: Highway to Heaven (Pluto)
+#EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="6081738748d3200007afb24b" tvg-logo="https://images.pluto.tv/channels/6081738748d3200007afb24b/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6081738748d3200007afb24b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:40:22" ,SERIES: Highway to Heaven (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081738748d3200007afb24b/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="United States" tvg-id="USBB19000017U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB19000017U_20230925T234647SQUARE.png_20230925234648.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBB19000017U.m3u8" url_alt="" status="ok:0 2024-09-21_17:40:27" ,SERIES: Highway to Heaven (Samsung)
@@ -708,15 +714,21 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bdaf9cf1bdc50007
 #EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="5c99f5810c95814ff92512f9" tvg-logo="https://images.pluto.tv/channels/5c99f5810c95814ff92512f9/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5c99f5810c95814ff92512f9-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:40:37" ,SERIES: Hunter (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="" tvg-country="USA" tvg-id="64b585f84ea480000838e446" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-64b585f84ea480000838e446-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:40:43" ,SERIES: Icons (Pluto)
+#EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="64b585f84ea480000838e446" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-64b585f84ea480000838e446-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:40:43" ,SERIES: Icons (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64b585f84ea480000838e446/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="" tvg-country="USA" tvg-id="65453f30085df200085883d8" tvg-logo="https://images.pluto.tv/channels/65453f30085df200085883d8/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-65453f30085df200085883d8-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:40:50" ,SERIES: ION (Pluto)
+#EXTINF:-1 group-title="SERIES" tvg-country="" tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" provider="cloudfront" url_mh="" url_alt="" status="" ,SERIES: ION (Cloudfront)
+#
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="65453f30085df200085883d8" tvg-logo="https://images.pluto.tv/channels/65453f30085df200085883d8/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-65453f30085df200085883d8-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:40:50" ,SERIES: ION (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="United States" tvg-id="USBD300002TU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300002TU_20230809T005359SQUARE.png_20230809005400.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBD300002TU.m3u8" url_alt="" status="ok:0 2024-09-21_17:40:54" ,SERIES: ION (Samsung)
 #
 https://jmp2.uk/sam-USBD300002TU.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-country="" tvg-id="IONPlusEast.us" tvg-logo="https://i.imgur.com/1dgCvNE.png" provider="cloudfront" url_mh="" url_alt="" status="" ,SERIES: ION Plus (Cloudfront)
+#
+https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-country="United States" tvg-id="USBD300003LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20230712T001640SQUARE.png_20230712001641.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBD300003LK.m3u8" url_alt="" status="ok:0 2024-09-21_17:41:00" ,SERIES: ION Plus (Samsung)
 #
 https://jmp2.uk/sam-USBD300003LK.m3u8
@@ -729,36 +741,36 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63e38ca4c111bc0008
 #EXTINF:-1 group-title="SERIES" tvg-country="United States" tvg-id="USBB2900001P9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900001P9_20230912T232451SQUARE.png_20230912232452.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBB2900001P9.m3u8" url_alt="" status="no:-1 2024-09-21_18:15:15" ,SERIES: K-Stories by CJ ENM (Samsung)
 #ok, test fails
 https://jmp2.uk/sam-USBB2900001P9.m3u8
-#EXTINF:-1 group-title="" tvg-country="Canada" tvg-id="62b97c5f0d8c8e0007cf48b9" tvg-logo="https://images.pluto.tv/channels/62b97c5f0d8c8e0007cf48b9/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62b97c5f0d8c8e0007cf48b9-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:41:22" ,SERIES: Life and Legend of Wyatt Earp (Pluto)
+#EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="62b97c5f0d8c8e0007cf48b9" tvg-logo="https://images.pluto.tv/channels/62b97c5f0d8c8e0007cf48b9/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62b97c5f0d8c8e0007cf48b9-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:41:22" ,SERIES: Life and Legend of Wyatt Earp (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62b97c5f0d8c8e0007cf48b9/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="" tvg-country="USA" tvg-id="654933ac986ad20008a1f406" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654933ac986ad20008a1f406-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:41:29" ,SERIES: Little House on the Prairie (Pluto)
+#EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="654933ac986ad20008a1f406" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654933ac986ad20008a1f406-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:41:29" ,SERIES: Little House on the Prairie (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654933ac986ad20008a1f406/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="654a4fe9056b9700088804a0" tvg-logo="https://images.pluto.tv/channels/654a4fe9056b9700088804a0/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654a4fe9056b9700088804a0-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:41:43" ,SERIES: Love Boat (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654a4fe9056b9700088804a0/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="654a517ff91d250008ac2d4a" tvg-logo="https://images.pluto.tv/channels/654a517ff91d250008ac2d4a/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654a517ff91d250008ac2d4a-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:41:36" ,SERIES: Love Boat (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654a517ff91d250008ac2d4a/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="654a4fe9056b9700088804a0" tvg-logo="https://images.pluto.tv/channels/654a4fe9056b9700088804a0/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654a4fe9056b9700088804a0-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:41:43" ,SERIES: Love Boat (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654a4fe9056b9700088804a0/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="66bb3212fe11e5000883ea6b" tvg-logo="" provider="pluto" url_mh="https://jmp2.uk/plu-66bb3212fe11e5000883ea6b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:41:47" ,SERIES: Married with Children (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/66bb3212fe11e5000883ea6b/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="63da365f60bc8f0008a50f44" tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63da365f60bc8f0008a50f44-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:41:52" ,SERIES: Matlock (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63da365f60bc8f0008a50f44/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="60f754f98185580007eb0754" tvg-logo="https://images.pluto.tv/channels/60f754f98185580007eb0754/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-60f754f98185580007eb0754-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:41:56" ,SERIES: Matlock (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f754f98185580007eb0754/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="63da365f60bc8f0008a50f44" tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63da365f60bc8f0008a50f44-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:41:52" ,SERIES: Matlock (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63da365f60bc8f0008a50f44/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="62a0ada2f1bdc5000738e020" tvg-logo="https://images.pluto.tv/channels/62a0ada2f1bdc5000738e020/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62a0ada2f1bdc5000738e020-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:16" ,SERIES: Melrose Place (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62a0ada2f1bdc5000738e020/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="62a0b070d4566c0007a0d1bd" tvg-logo="https://images.pluto.tv/channels/62a0b070d4566c0007a0d1bd/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62a0b070d4566c0007a0d1bd-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:01" ,SERIES: Melrose Place (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62a0b070d4566c0007a0d1bd/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="62a0ae0e4e47a30007fe21bb" tvg-logo="https://images.pluto.tv/channels/62a0ae0e4e47a30007fe21bb/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62a0ae0e4e47a30007fe21bb-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:07" ,SERIES: Melrose Place (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62a0ae0e4e47a30007fe21bb/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="62a0ada2f1bdc5000738e020" tvg-logo="https://images.pluto.tv/channels/62a0ada2f1bdc5000738e020/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62a0ada2f1bdc5000738e020-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:16" ,SERIES: Melrose Place (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62a0ada2f1bdc5000738e020/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="MOV" tvg-country="United States" tvg-id="USAJ22000130U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000130U_20221116T013413SQUARE.png_20221116013414.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USAJ22000130U.m3u8" url_alt="" status="ok:0 2024-09-21_17:28:24" ,SERIES: MHz Now (Samsung)
 #
 https://jmp2.uk/sam-USAJ22000130U.m3u8
@@ -768,21 +780,21 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d
 #EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="62e92447ea1e2a000735ed33" tvg-logo="https://images.pluto.tv/channels/62e92447ea1e2a000735ed33/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62e92447ea1e2a000735ed33-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:24" ,SERIES: Midsomer Murders (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62e92447ea1e2a000735ed33/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="6478a9e4f77b61000817034b" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6478a9e4f77b61000817034b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:38" ,SERIES: Mission Impossible (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6478a9e4f77b61000817034b/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="639b4eb4da3fda0008036f6e" tvg-logo="https://images.pluto.tv/channels/639b4eb4da3fda0008036f6e/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-639b4eb4da3fda0008036f6e-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:32" ,SERIES: Mission Impossible (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/639b4eb4da3fda0008036f6e/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="" tvg-country="Sweden" tvg-id="639b4f14be012600070fe1be" tvg-logo="https://images.pluto.tv/channels/639b4f14be012600070fe1be/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-639b4f14be012600070fe1be-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:43" ,SERIES: Mission Impossible (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/639b4f14be012600070fe1be/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="62ea43aa0c43540007f2db96" tvg-logo="https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62ea43aa0c43540007f2db96-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:49" ,SERIES: Mission Impossible (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62ea43aa0c43540007f2db96/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="6478a9e4f77b61000817034b" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6478a9e4f77b61000817034b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:38" ,SERIES: Mission Impossible (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6478a9e4f77b61000817034b/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5f77977bd924d80007eee60c" tvg-logo="https://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5f77977bd924d80007eee60c-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:35" ,SERIES: Mission Impossible (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77977bd924d80007eee60c/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="" tvg-country="Sweden" tvg-id="639b4f14be012600070fe1be" tvg-logo="https://images.pluto.tv/channels/639b4f14be012600070fe1be/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-639b4f14be012600070fe1be-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:43" ,SERIES: Mission Impossible (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/639b4f14be012600070fe1be/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="639b4eb4da3fda0008036f6e" tvg-logo="https://images.pluto.tv/channels/639b4eb4da3fda0008036f6e/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-639b4eb4da3fda0008036f6e-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:32" ,SERIES: Mission Impossible (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/639b4eb4da3fda0008036f6e/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="620f6c60b994540007ddd74b" tvg-logo="https://images.pluto.tv/channels/620f6c60b994540007ddd74b/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-620f6c60b994540007ddd74b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:42:59" ,SERIES: Moesha (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/620f6c60b994540007ddd74b/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -825,12 +837,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/630f1e6073bd180008
 #EXTINF:-1 group-title="SERIES" tvg-country="United States" tvg-id="USBA3800003VP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800003VP_20230125T022154SQUARE.png_20230125022155.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBA3800003VP.m3u8" url_alt="" status="ok:0 2024-09-21_17:44:38" ,SERIES: Revry (Samsung)
 #
 https://jmp2.uk/sam-USBA3800003VP.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="62beb5f4121a9500079dff78" tvg-logo="https://images.pluto.tv/channels/62beb5f4121a9500079dff78/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62beb5f4121a9500079dff78-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:44:47" ,SERIES: Rules of Engagement (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62beb5f4121a9500079dff78/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="62beba5931c6de00079ed9cc" tvg-logo="https://images.pluto.tv/channels/62beba5931c6de00079ed9cc/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62beba5931c6de00079ed9cc-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:44:58" ,SERIES: Rules of Engagement (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62beba5931c6de00079ed9cc/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="62beb5f4121a9500079dff78" tvg-logo="https://images.pluto.tv/channels/62beb5f4121a9500079dff78/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62beb5f4121a9500079dff78-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:44:47" ,SERIES: Rules of Engagement (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62beb5f4121a9500079dff78/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="62beb3810c21270007219d80" tvg-logo="https://images.pluto.tv/channels/62beb3810c21270007219d80/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62beb3810c21270007219d80-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:44:53" ,SERIES: Rules of Engagement (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62beb3810c21270007219d80/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -843,21 +855,21 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6512d72b473a540008
 #EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="6512ecf63a0d700008db506a" tvg-logo="https://images.pluto.tv/channels/6512ecf63a0d700008db506a/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6512ecf63a0d700008db506a-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:45:00" ,SERIES: Sabrina the Teenage Witch (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6512ecf63a0d700008db506a/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="61f9597e78607000074f6c2a" tvg-logo="https://images.pluto.tv/channels/61f9597e78607000074f6c2a/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61f9597e78607000074f6c2a-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:45:13" ,SERIES: Sci-Fi (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61f9597e78607000074f6c2a/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5b4fc274694c027be6ed3eea" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5b4fc274694c027be6ed3eea-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:45:26" ,SERIES: Sci-Fi (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="61f957e051cca800076f2358" tvg-logo="https://images.pluto.tv/channels/61f957e051cca800076f2358/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61f957e051cca800076f2358-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:45:24" ,SERIES: Sci-Fi (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61f957e051cca800076f2358/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="5dc02a44a9518600094273ac" tvg-logo="https://images.pluto.tv/channels/5dc02a44a9518600094273ac/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5dc02a44a9518600094273ac-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:45:38" ,SERIES: Sci-Fi (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc02a44a9518600094273ac/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="61f9598588f86000078ee7d6" tvg-logo="https://images.pluto.tv/channels/61f9598588f86000078ee7d6/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61f9598588f86000078ee7d6-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:45:34" ,SERIES: Sci-Fi (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61f9598588f86000078ee7d6/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="5dc02a44a9518600094273ac" tvg-logo="https://images.pluto.tv/channels/5dc02a44a9518600094273ac/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5dc02a44a9518600094273ac-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:45:38" ,SERIES: Sci-Fi (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc02a44a9518600094273ac/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="61f957e051cca800076f2358" tvg-logo="https://images.pluto.tv/channels/61f957e051cca800076f2358/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61f957e051cca800076f2358-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:45:24" ,SERIES: Sci-Fi (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61f957e051cca800076f2358/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="61f9597e78607000074f6c2a" tvg-logo="https://images.pluto.tv/channels/61f9597e78607000074f6c2a/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61f9597e78607000074f6c2a-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:45:13" ,SERIES: Sci-Fi (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61f9597e78607000074f6c2a/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="US" tvg-id="FilmRiseSciFiFinland.fi" tvg-logo="https://i.imgur.com/ZoOCSij.png" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:45:40" ,SERIES: Sci-Fi Finland (Rakuten)
 #ANDROMEDA ALWAYS?
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8
@@ -894,15 +906,18 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61b86c6ef30f5d0007
 #EXTINF:-1 group-title="" tvg-country="Denmark" tvg-id="61c0965bface1f0007c67206" tvg-logo="https://images.pluto.tv/channels/61c0965bface1f0007c67206/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61c0965bface1f0007c67206-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:46:31" ,SERIES: Spænding (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61c0965bface1f0007c67206/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="63a1a0a20847960007542b15" tvg-logo="https://images.pluto.tv/channels/63a1a0a20847960007542b15/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63a1a0a20847960007542b15-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:46:56" ,SERIES: Spin City (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63a1a0a20847960007542b15/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="63e3b25bc111bc0008ef4b94" tvg-logo="https://images.pluto.tv/channels/63e3b25bc111bc0008ef4b94/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63e3b25bc111bc0008ef4b94-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:46:50" ,SERIES: Spin City (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63e3b25bc111bc0008ef4b94/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="63e38a974e83e70008990da9" tvg-logo="https://images.pluto.tv/channels/63e38a974e83e70008990da9/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63e38a974e83e70008990da9-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:46:44" ,SERIES: Spin City (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63e38a974e83e70008990da9/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="63a1a0a20847960007542b15" tvg-logo="https://images.pluto.tv/channels/63a1a0a20847960007542b15/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63a1a0a20847960007542b15-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:46:56" ,SERIES: Spin City (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63a1a0a20847960007542b15/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="" tvg-id="" tvg-logo="" provider="tvkaista" url_mh="" url_alt="" status="" ,SERIES: STAR Finland (Tvkaista)
+#*
+https://live-fi.tvkaista.net/star-channel/live.m3u8?hd=true
 #EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="61c1979dfa307000070bbe4d" tvg-logo="https://images.pluto.tv/channels/61c1979dfa307000070bbe4d/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61c1979dfa307000070bbe4d-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:47:08" ,SERIES: Star Trek (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61c1979dfa307000070bbe4d/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -912,15 +927,18 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6504bcc21105450008
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5efbd39f8c4ce900075d7698" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5efbd39f8c4ce900075d7698-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:47:12" ,SERIES: Star Trek (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="" tvg-logo="" provider="pluto" url_mh="" url_alt="" status="" ,SERIES: Star Trek 2 (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77879983bec60007e2a196/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:0 group-title="SERIES" tvg-country="USA" tvg-id="65c69bbfd77d450008c7ffee" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-65c69bbfd77d450008c7ffee-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:47:17" ,SERIES: Star Trek Deep Space Nine (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:0 group-title="MOV" tvg-country="USA" tvg-id="6695a2e4fe11e50008341303" tvg-logo="https://images.pluto.tv/channels/6695a2e4fe11e50008341303/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6695a2e4fe11e50008341303-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:47:24" ,SERIES: Star Trek The Motion Pictures (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6695a2e4fe11e50008341303/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:0 group-title="MOV" tvg-country="USA" tvg-id="6675c88da1d7ad00084762cb" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6675c88da1d7ad00084762cb-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:47:21" ,SERIES: Star Trek The Motion Pictures (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6675c88da1d7ad00084762cb/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:0 group-title="MOV" tvg-country="USA" tvg-id="6695a2e4fe11e50008341303" tvg-logo="https://images.pluto.tv/channels/6695a2e4fe11e50008341303/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6695a2e4fe11e50008341303-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:47:24" ,SERIES: Star Trek The Motion Pictures (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6695a2e4fe11e50008341303/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:0 group-title="SERIES" tvg-country="Canada" tvg-id="66601d838ce3110008a9d7bf" tvg-logo="https://images.pluto.tv/channels/66601d838ce3110008a9d7bf/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-66601d838ce3110008a9d7bf-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:47:32" ,SERIES: Star Trek The Next Generation (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/66601d838ce3110008a9d7bf/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -930,12 +948,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/66601e338ea5560008
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-634dacf51d90320007fcd5fa-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:47:40" ,SERIES: Star Trek: Voyager (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="6504bf323a0d700008bffe95" tvg-logo="https://images.pluto.tv/channels/6504bf323a0d700008bffe95/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6504bf323a0d700008bffe95-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:47:51" ,SERIES: Stargate (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6504bf323a0d700008bffe95/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="USA" tvg-id="620bfa7df72827000703ddb1" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-620bfa7df72827000703ddb1-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:47:44" ,SERIES: Stargate (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="6504bf323a0d700008bffe95" tvg-logo="https://images.pluto.tv/channels/6504bf323a0d700008bffe95/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6504bf323a0d700008bffe95-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:47:51" ,SERIES: Stargate (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6504bf323a0d700008bffe95/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="USA" tvg-id="5f21e7b24744c60007c1f6fc" tvg-logo="https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:51:56" ,SERIES: Survivor (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -951,12 +969,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6391cef9edb23c0008
 #EXTINF:-1 group-title="" tvg-country="Sweden" tvg-id="62bd9b1eeaa5620007ded504" tvg-logo="https://images.pluto.tv/channels/62bd9b1eeaa5620007ded504/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62bd9b1eeaa5620007ded504-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:48:16" ,SERIES: The Only Way is Essex (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bd9b1eeaa5620007ded504/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="62bd98ab36f6be00077921c7" tvg-logo="https://images.pluto.tv/channels/62bd98ab36f6be00077921c7/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62bd98ab36f6be00077921c7-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:48:23" ,SERIES: The Only Way is Essex (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bd98ab36f6be00077921c7/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="Denmark" tvg-id="62bd9ade70f09a000714a16b" tvg-logo="https://images.pluto.tv/channels/62bd9ade70f09a000714a16b/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62bd9ade70f09a000714a16b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:48:28" ,SERIES: The Only Way is Essex (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bd9ade70f09a000714a16b/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="62bd98ab36f6be00077921c7" tvg-logo="https://images.pluto.tv/channels/62bd98ab36f6be00077921c7/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62bd98ab36f6be00077921c7-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:48:23" ,SERIES: The Only Way is Essex (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bd98ab36f6be00077921c7/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="USA" tvg-id="5e825550e758c700077b0aef" tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5e825550e758c700077b0aef-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:48:35" ,SERIES: The Rifleman (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e825550e758c700077b0aef/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -984,12 +1002,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64c0d6f34096290008
 #EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="62a0ae8b2241f500073e0925" tvg-logo="https://images.pluto.tv/channels/62a0ae8b2241f500073e0925/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62a0ae8b2241f500073e0925-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:49:31" ,SERIES: Walker Texas Ranger (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62a0ae8b2241f500073e0925/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="62a0aefc7c5f9f00075b4e24" tvg-logo="https://images.pluto.tv/channels/62a0aefc7c5f9f00075b4e24/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62a0aefc7c5f9f00075b4e24-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:49:36" ,SERIES: Walker Texas Ranger (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62a0aefc7c5f9f00075b4e24/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="62a0b114a1c8650007e93688" tvg-logo="https://images.pluto.tv/channels/62a0b114a1c8650007e93688/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62a0b114a1c8650007e93688-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:49:19" ,SERIES: Walker Texas Ranger (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62a0b114a1c8650007e93688/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="62a0aefc7c5f9f00075b4e24" tvg-logo="https://images.pluto.tv/channels/62a0aefc7c5f9f00075b4e24/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62a0aefc7c5f9f00075b4e24-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:49:36" ,SERIES: Walker Texas Ranger (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62a0aefc7c5f9f00075b4e24/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Canada" tvg-id="635659445b4c4700076d2ad1" tvg-logo="https://images.pluto.tv/channels/635659445b4c4700076d2ad1/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-635659445b4c4700076d2ad1-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:49:11" ,SERIES: Walker Texas Ranger (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/635659445b4c4700076d2ad1/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -1014,33 +1032,33 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64b52ec24ea4800008
 #EXTINF:-1 group-title="SERIES" tvg-country="Great Britain" tvg-id="60817936fd2d70000763d2b2" tvg-logo="https://images.pluto.tv/channels/60817936fd2d70000763d2b2/colorLogoPNG.PNG" provider="pluto" url_mh="https://jmp2.uk/plu-60817936fd2d70000763d2b2-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:54:11" ,SERIES: Wild at Heart (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817936fd2d70000763d2b2/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="654a51d32c1d3300086591a9" tvg-logo="https://images.pluto.tv/channels/654a51d32c1d3300086591a9/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654a51d32c1d3300086591a9-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:49:53" ,SERIES: Wings (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654a51d32c1d3300086591a9/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="654a4d76f9cc820008686a5a" tvg-logo="https://images.pluto.tv/channels/654a4d76f9cc820008686a5a/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654a4d76f9cc820008686a5a-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:49:47" ,SERIES: Wings (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654a4d76f9cc820008686a5a/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="654a51d32c1d3300086591a9" tvg-logo="https://images.pluto.tv/channels/654a51d32c1d3300086591a9/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654a51d32c1d3300086591a9-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:49:53" ,SERIES: Wings (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654a51d32c1d3300086591a9/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="654a5034346f420008d6a5ac" tvg-logo="https://images.pluto.tv/channels/654a5034346f420008d6a5ac/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654a5034346f420008d6a5ac-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:49:41" ,SERIES: Wings (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654a5034346f420008d6a5ac/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="" tvg-country="Denmark" tvg-id="6440f8ba939a5900082bddc8" tvg-logo="https://images.pluto.tv/channels/6440f8ba939a5900082bddc8/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6440f8ba939a5900082bddc8-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:50:03" ,SERIES: World of Love Island (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6440f8ba939a5900082bddc8/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="Sweden" tvg-id="6440f73ee94c380008ccddc8" tvg-logo="https://images.pluto.tv/channels/6440f73ee94c380008ccddc8/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6440f73ee94c380008ccddc8-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:50:19" ,SERIES: World of Love Island (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6440f73ee94c380008ccddc8/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="Norway" tvg-id="6440f6e25a0cd500083b1ca4" tvg-logo="https://images.pluto.tv/channels/6440f6e25a0cd500083b1ca4/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6440f6e25a0cd500083b1ca4-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:50:12" ,SERIES: World of Love Island (Pluto)
 #*
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6440f6e25a0cd500083b1ca4/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="6458e687f3f5b100085fdcb3" tvg-logo="https://images.pluto.tv/channels/6458e687f3f5b100085fdcb3/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6458e687f3f5b100085fdcb3-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:50:47" ,SERIES: Zoey 101 (Pluto)
+#EXTINF:-1 group-title="" tvg-country="Denmark" tvg-id="6440f8ba939a5900082bddc8" tvg-logo="https://images.pluto.tv/channels/6440f8ba939a5900082bddc8/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6440f8ba939a5900082bddc8-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:50:03" ,SERIES: World of Love Island (Pluto)
 #
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6458e687f3f5b100085fdcb3/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6440f8ba939a5900082bddc8/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Norway" tvg-id="6458e75f939a5900085f453f" tvg-logo="https://images.pluto.tv/channels/6458e75f939a5900085f453f/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6458e75f939a5900085f453f-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:50:27" ,SERIES: Zoey 101 (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6458e75f939a5900085f453f/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="SERIES" tvg-country="Sweden" tvg-id="6458e7c32858cb0008e22e98" tvg-logo="https://images.pluto.tv/channels/6458e7c32858cb0008e22e98/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6458e7c32858cb0008e22e98-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:50:37" ,SERIES: Zoey 101 (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6458e7c32858cb0008e22e98/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="SERIES" tvg-country="Denmark" tvg-id="6458e687f3f5b100085fdcb3" tvg-logo="https://images.pluto.tv/channels/6458e687f3f5b100085fdcb3/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6458e687f3f5b100085fdcb3-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:50:47" ,SERIES: Zoey 101 (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6458e687f3f5b100085fdcb3/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="" tvg-country="USA" tvg-id="6176fddda3a6160007f60433" tvg-logo="https://images.pluto.tv/channels/6176fddda3a6160007f60433/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6176fddda3a6160007f60433-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:50:52" ,Shades of Black (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6176fddda3a6160007f60433/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -1068,6 +1086,9 @@ https://spotlight-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-country="USA" tvg-id="5f4d863b98b41000076cd061" tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5f4d863b98b41000076cd061-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:51:51" ,Staff Picks (Pluto)
 #*
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="MOV" tvg-country="Japan" tvg-id="StarChannel1.jp" tvg-logo="https://i.imgur.com/PSVgw99.png" provider="primehome" url_mh="" url_alt="" status="" ,Star 1 (Primehome)
+#
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 #EXTINF:-1 group-title="" tvg-country="USA" tvg-id="5f15e281b0b8840007324b55" tvg-logo="https://images.pluto.tv/channels/5f15e281b0b8840007324b55/colorLogoPNG-1667318541117.png" provider="pluto" url_mh="https://jmp2.uk/plu-5f15e281b0b8840007324b55-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:52:06" ,Suspense (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e281b0b8840007324b55/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -1122,12 +1143,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d
 #EXTINF:-1 group-title="KIDS" tvg-country="United States" tvg-id="USAJ3504502A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504502A_20230125T022445SQUARE.png_20230125022445.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USAJ3504502A.m3u8" url_alt="" status="ok:0 2024-09-21_17:54:38" ,zzKIDS: Anime All day (Samsung)
 #
 https://jmp2.uk/sam-USAJ3504502A.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-country="Great Britain" tvg-id="62556bfa3261a300076b0baa" tvg-logo="https://images.pluto.tv/channels/62556bfa3261a300076b0baa/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62556bfa3261a300076b0baa-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:54:49" ,zzKIDS: Arthur (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62556bfa3261a300076b0baa/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="6482f27c17f5e10008c10ff0" tvg-logo="https://images.pluto.tv/channels/6482f27c17f5e10008c10ff0/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-6482f27c17f5e10008c10ff0-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:54:44" ,zzKIDS: Arthur (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6482f27c17f5e10008c10ff0/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="KIDS" tvg-country="Great Britain" tvg-id="62556bfa3261a300076b0baa" tvg-logo="https://images.pluto.tv/channels/62556bfa3261a300076b0baa/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62556bfa3261a300076b0baa-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:54:49" ,zzKIDS: Arthur (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62556bfa3261a300076b0baa/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-60faffc3fbbc120007fc4376-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:54:54" ,zzKIDS: Baby Shark TV (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -1149,33 +1170,33 @@ https://jmp2.uk/sam-GBBD1100011V3.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="US" tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" provider="samsung" url_mh="" url_alt="https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8" status="ok:0 2024-09-21_17:55:21" ,zzKIDS: DiscoverFilm (samsung)
 #
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="62e951258a26d40007b3034c" tvg-logo="https://images.pluto.tv/channels/62e951258a26d40007b3034c/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62e951258a26d40007b3034c-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:55:32" ,zzKIDS: Dora TV (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62e951258a26d40007b3034c/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:55:39" ,zzKIDS: Dora TV (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="62e951258a26d40007b3034c" tvg-logo="https://images.pluto.tv/channels/62e951258a26d40007b3034c/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62e951258a26d40007b3034c-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:55:32" ,zzKIDS: Dora TV (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62e951258a26d40007b3034c/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="62bdb9baa9dddb0007f39e41" tvg-logo="https://images.pluto.tv/channels/62bdb9baa9dddb0007f39e41/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62bdb9baa9dddb0007f39e41-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:55:45" ,zzKIDS: Dora TV en Français (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bdb9baa9dddb0007f39e41/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="KIDS" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:55:48" ,zzKIDS: Family (Rakuten)
-#
-https://rakuten-family-10-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:55:50" ,zzKIDS: Family (Rakuten)
 #""
 https://rakuten-family-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-country="US" tvg-id="" tvg-logo="" provider="rakuten" url_mh="" url_alt="" status="ok:0 2024-09-21_17:55:48" ,zzKIDS: Family (Rakuten)
+#
+https://rakuten-family-10-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="60faf9368c7ad900082bc9a8" tvg-logo="https://images.pluto.tv/channels/60faf9368c7ad900082bc9a8/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-60faf9368c7ad900082bc9a8-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:55:57" ,zzKIDS: Find Out Why (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60faf9368c7ad900082bc9a8/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-56171fafada51f8004c4b40f-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:56:05" ,zzKIDS: Forever Kids (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="KIDS" tvg-country="Great Britain" tvg-id="62a069bfd88ef000073f6775" tvg-logo="https://images.pluto.tv/channels/62a069bfd88ef000073f6775/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62a069bfd88ef000073f6775-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:56:21" ,zzKIDS: Garfield and Friends (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62a069bfd88ef000073f6775/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-60faf9ddfcc1f200070a5932-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:56:12" ,zzKIDS: Garfield and Friends (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="KIDS" tvg-country="Great Britain" tvg-id="62a069bfd88ef000073f6775" tvg-logo="https://images.pluto.tv/channels/62a069bfd88ef000073f6775/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62a069bfd88ef000073f6775-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:56:21" ,zzKIDS: Garfield and Friends (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62a069bfd88ef000073f6775/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="60fafef7c2440500071266e0" tvg-logo="https://images.pluto.tv/channels/60fafef7c2440500071266e0/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-60fafef7c2440500071266e0-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:56:31" ,zzKIDS: Grande-ish (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fafef7c2440500071266e0/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -1197,15 +1218,15 @@ https://jmp2.uk/sam-GBBB2000004BQ.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="62fa6b4eb5e661000741e424" tvg-logo="https://images.pluto.tv/channels/62fa6b4eb5e661000741e424/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62fa6b4eb5e661000741e424-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:57:16" ,zzKIDS: Kid Squad (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62fa6b4eb5e661000741e424/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="KIDS" tvg-country="United States" tvg-id="USAK3508716A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20230627T214924SQUARE.png_20230627214925.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USAK3508716A.m3u8" url_alt="" status="ok:0 2024-09-21_17:57:20" ,zzKIDS: Kidoodle.TV (Samsung)
+#
+https://jmp2.uk/sam-USAK3508716A.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="United Kingdom" tvg-id="GBAJ49000164E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000164E_20230619T082505SQUARE.png_20230619082506.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/GBAJ49000164E.m3u8" url_alt="" status="ok:0 2024-09-21_17:57:25" ,zzKIDS: Kidoodle.TV (Samsung)
 #
 https://jmp2.uk/sam-GBAJ49000164E.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="CAAJ34000122Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ34000122Z_20230627T214809SQUARE.png_20230627214810.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/CAAJ34000122Z.m3u8" url_alt="" status="ok:0 2024-09-21_17:57:31" ,zzKIDS: Kidoodle.TV (Samsung)
 #
 https://jmp2.uk/sam-CAAJ34000122Z.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-country="United States" tvg-id="USAK3508716A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20230627T214924SQUARE.png_20230627214925.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USAK3508716A.m3u8" url_alt="" status="ok:0 2024-09-21_17:57:20" ,zzKIDS: Kidoodle.TV (Samsung)
-#
-https://jmp2.uk/sam-USAK3508716A.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="Great Britain" tvg-id="5ad8d54be738977e2c310940" tvg-logo="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5ad8d54be738977e2c310940-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:57:38" ,zzKIDS: Kids (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d54be738977e2c310940/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -1230,36 +1251,45 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f74ba51c82ac0007
 #EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="62fb6a4feb32e8000708f4d0" tvg-logo="https://images.pluto.tv/channels/62fb6a4feb32e8000708f4d0/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62fb6a4feb32e8000708f4d0-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:58:25" ,zzKIDS: Max and Ruby (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62fb6a4feb32e8000708f4d0/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="CABA3700003NA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700003NA_20231229T002807SQUARE.png_20231229002808.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/CABA3700003NA.m3u8" url_alt="" status="ok:0 2024-09-21_17:58:36" ,zzKIDS: Moonbug (Samsung)
-#
-https://jmp2.uk/sam-CABA3700003NA.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="United States" tvg-id="USBB11000015Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20231229T003206SQUARE.png_20231229003207.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBB11000015Q.m3u8" url_alt="" status="ok:0 2024-09-21_17:58:30" ,zzKIDS: Moonbug (Samsung)
 #
 https://jmp2.uk/sam-USBB11000015Q.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5da0c85bd2c9c10009370984-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:58:46" ,zzKIDS: Naruto (Pluto)
+#EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="CABA3700003NA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700003NA_20231229T002807SQUARE.png_20231229002808.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/CABA3700003NA.m3u8" url_alt="" status="ok:0 2024-09-21_17:58:36" ,zzKIDS: Moonbug (Samsung)
 #
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+https://jmp2.uk/sam-CABA3700003NA.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="642be2939189ce0008916c21" tvg-logo="https://images.pluto.tv/channels/642be2939189ce0008916c21/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-642be2939189ce0008916c21-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:58:41" ,zzKIDS: Naruto (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/642be2939189ce0008916c21/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5da0c85bd2c9c10009370984-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:58:46" ,zzKIDS: Naruto (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="62bdb6a83c6e37000726823b" tvg-logo="https://images.pluto.tv/channels/62bdb6a83c6e37000726823b/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62bdb6a83c6e37000726823b-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:58:50" ,zzKIDS: Nick (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bdb6a83c6e37000726823b/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="62bdb75c3afd1200079146a6" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62bdb75c3afd1200079146a6-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:59:04" ,zzKIDS: Nick Jr. (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bdb75c3afd1200079146a6/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5ca6748a37b88b269472dad9-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:58:59" ,zzKIDS: Nick Jr. (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="62bdb75c3afd1200079146a6" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62bdb75c3afd1200079146a6-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:59:04" ,zzKIDS: Nick Jr. (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bdb75c3afd1200079146a6/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="KIDS" tvg-country="United Kingdom" tvg-id="NickJr.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" provider="cloudfront" url_mh="" url_alt="" status="" ,zzKIDS: Nick Jr. UK (Cloudfront)
+#
+https://d20opqftbkv2z0.cloudfront.net/live13/nickjr/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:59:09" ,zzKIDS: Nickelodeon (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:59:18" ,zzKIDS: Nickelodeon en español (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="KIDS" tvg-country="United Kingdom" tvg-id="Nickelodeon.uk" tvg-logo="https://i.imgur.com/E84jnP8.png" provider="cloudfront" url_mh="" url_alt="" status="" ,zzKIDS: Nickelodeon UK (Cloudfront)
+#
+https://d20opqftbkv2z0.cloudfront.net/live12/nickelodeon/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="654ca7f92c1d3300086b608c" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-654ca7f92c1d3300086b608c-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:59:24" ,zzKIDS: NickToons (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="KIDS" tvg-country="United Kingdom" tvg-id="Nicktoons.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" provider="cloudfront" url_mh="" url_alt="" status="" ,zzKIDS: NickToons UK (Cloudfront)
+#
+https://d20opqftbkv2z0.cloudfront.net/live13/nicktoons/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="5db0ae5af8797b00095c0794" tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5db0ae5af8797b00095c0794-alt.m3u8" url_alt="" status="ok:0 2024-09-21_17:59:28" ,zzKIDS: No Parents Allowed (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -1314,12 +1344,12 @@ https://jmp2.uk/sam-USBD3300013KV.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="United Kingdom" tvg-id="GBBD1300001WA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1300001WA_20230913T031536SQUARE.png_20230913031537.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/GBBD1300001WA.m3u8" url_alt="" status="ok:0 2024-09-21_18:01:19" ,zzKIDS: Smurf TV (Samsung)
 #
 https://jmp2.uk/sam-GBBD1300001WA.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-country="United States" tvg-id="USBC4400012QS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400012QS_20230912T232631SQUARE.png_20230912232633.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBC4400012QS.m3u8" url_alt="" status="ok:0 2024-09-21_18:01:32" ,zzKIDS: Strawberry Shortcake (Samsung)
-#
-https://jmp2.uk/sam-USBC4400012QS.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="CABC5200004AI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200004AI_20230912T232722SQUARE.png_20230912232723.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/CABC5200004AI.m3u8" url_alt="" status="ok:0 2024-09-21_18:01:26" ,zzKIDS: Strawberry Shortcake (Samsung)
 #
 https://jmp2.uk/sam-CABC5200004AI.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-country="United States" tvg-id="USBC4400012QS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400012QS_20230912T232631SQUARE.png_20230912232633.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBC4400012QS.m3u8" url_alt="" status="ok:0 2024-09-21_18:01:32" ,zzKIDS: Strawberry Shortcake (Samsung)
+#
+https://jmp2.uk/sam-USBC4400012QS.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="United Kingdom" tvg-id="GBBD1100010UB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20230712T021203SQUARE.png_20230712021204.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/GBBD1100010UB.m3u8" url_alt="" status="ok:0 2024-09-21_18:01:39" ,zzKIDS: Super Anime (Samsung)
 #
 https://jmp2.uk/sam-GBBD1100010UB.m3u8
@@ -1347,12 +1377,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62e95265c9fd030007
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="5d0c16d686454ead733d08f8" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-5d0c16d686454ead733d08f8-alt.m3u8" url_alt="" status="ok:0 2024-09-21_18:02:23" ,zzKIDS: TOTALLY TURTLES (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
-#EXTINF:-1 group-title="KIDS" tvg-country="Great Britain" tvg-id="63d8ed19a9957100086f4d33" tvg-logo="https://images.pluto.tv/channels/63d8ed19a9957100086f4d33/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63d8ed19a9957100086f4d33-alt.m3u8" url_alt="" status="ok:0 2024-09-21_18:02:31" ,zzKIDS: Transformers (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63d8ed19a9957100086f4d33/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="KIDS" tvg-country="Canada" tvg-id="63da36dea995710008727d4d" tvg-logo="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63da36dea995710008727d4d-alt.m3u8" url_alt="" status="ok:0 2024-09-21_18:02:39" ,zzKIDS: Transformers (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63da36dea995710008727d4d/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="KIDS" tvg-country="Great Britain" tvg-id="63d8ed19a9957100086f4d33" tvg-logo="https://images.pluto.tv/channels/63d8ed19a9957100086f4d33/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-63d8ed19a9957100086f4d33-alt.m3u8" url_alt="" status="ok:0 2024-09-21_18:02:31" ,zzKIDS: Transformers (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63d8ed19a9957100086f4d33/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="KIDS" tvg-country="USA" tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-60fb053712f22a0007ff14d2-alt.m3u8" url_alt="" status="ok:0 2024-09-21_18:02:46" ,zzKIDS: Transformers TV (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -1401,12 +1431,12 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="NATURE" tvg-country="United States" tvg-id="USBA3400003IP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20230131T052034SQUARE.png_20230131052035.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBA3400003IP.m3u8" url_alt="" status="ok:0 2024-09-21_18:03:57" ,zzNATURE: Love Nature 4K (Samsung)
 #
 https://jmp2.uk/sam-USBA3400003IP.m3u8
-#EXTINF:-1 group-title="NATURE" tvg-country="Denmark" tvg-id="61eeb4a701020c00075676ef" tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61eeb4a701020c00075676ef-alt.m3u8" url_alt="" status="ok:0 2024-09-21_18:04:06" ,zzNATURE: Nature Time (Pluto)
-#
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61eeb4a701020c00075676ef/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="NATURE" tvg-country="Sweden" tvg-id="61eeb69097a55200074ad04a" tvg-logo="https://images.pluto.tv/channels/61eeb69097a55200074ad04a/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61eeb69097a55200074ad04a-alt.m3u8" url_alt="" status="ok:0 2024-09-21_18:04:03" ,zzNATURE: Nature Time (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61eeb69097a55200074ad04a/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
+#EXTINF:-1 group-title="NATURE" tvg-country="Denmark" tvg-id="61eeb4a701020c00075676ef" tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61eeb4a701020c00075676ef-alt.m3u8" url_alt="" status="ok:0 2024-09-21_18:04:06" ,zzNATURE: Nature Time (Pluto)
+#
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61eeb4a701020c00075676ef/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
 #EXTINF:-1 group-title="NATURE" tvg-country="Norway" tvg-id="61eeb5c3d740670007da3abb" tvg-logo="https://images.pluto.tv/channels/61eeb5c3d740670007da3abb/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-61eeb5c3d740670007da3abb-alt.m3u8" url_alt="" status="ok:0 2024-09-21_18:04:11" ,zzNATURE: Nature Time (Pluto)
 #
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61eeb5c3d740670007da3abb/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=1&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=01
@@ -1428,21 +1458,21 @@ https://jmp2.uk/sam-USBD3500038R6.m3u8
 #EXTINF:-1 group-title="NATURE" tvg-country="" tvg-id="StingrayNaturescape.ca" tvg-logo="https://i.imgur.com/882kd90.png" provider="samsung" url_mh="" url_alt="https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8" status="ok:0 2024-09-21_18:04:57" ,zzNATURE: Stingray Naturescape (samsung)
 #
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="NATURE" tvg-country="Canada" tvg-id="CAAJ3400003T7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400003T7_20220712T041515SQUARE.png_20220712041516.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/CAAJ3400003T7.m3u8" url_alt="" status="ok:0 2024-09-21_18:05:10" ,zzNATURE: Stingray Naturescape (Samsung)
-#
-https://jmp2.uk/sam-CAAJ3400003T7.m3u8
 #EXTINF:-1 group-title="NATURE" tvg-country="United States" tvg-id="USAK3508705A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20230125T022716SQUARE.png_20230125022717.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USAK3508705A.m3u8" url_alt="" status="ok:0 2024-09-21_18:05:03" ,zzNATURE: Stingray Naturescape (Samsung)
 #
 https://jmp2.uk/sam-USAK3508705A.m3u8
+#EXTINF:-1 group-title="NATURE" tvg-country="Canada" tvg-id="CAAJ3400003T7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400003T7_20220712T041515SQUARE.png_20220712041516.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/CAAJ3400003T7.m3u8" url_alt="" status="ok:0 2024-09-21_18:05:10" ,zzNATURE: Stingray Naturescape (Samsung)
+#
+https://jmp2.uk/sam-CAAJ3400003T7.m3u8
 #EXTINF:-1 group-title="NATURE" tvg-country="United States" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20231024T231827SQUARE.png_20231024231828.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBD3500013DG.m3u8" url_alt="" status="ok:0 2024-09-21_18:05:13" ,zzNATURE: Stingray Spa (Samsung)
 #
 https://jmp2.uk/sam-USBD3500013DG.m3u8
-#EXTINF:-1 group-title="NATURE" tvg-country="Canada" tvg-id="CABC2300001X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300001X9_20230426T031131SQUARE.png_20230426031132.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/CABC2300001X9.m3u8" url_alt="" status="ok:0 2024-09-21_18:05:19" ,zzNATURE: The Jack Hanna Channel (Samsung)
-#
-https://jmp2.uk/sam-CABC2300001X9.m3u8
 #EXTINF:-1 group-title="NATURE" tvg-country="United States" tvg-id="USBC2100009GT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100009GT_20230125T022546SQUARE.png_20230125022547.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBC2100009GT.m3u8" url_alt="" status="ok:0 2024-09-21_18:05:24" ,zzNATURE: The Jack Hanna Channel (Samsung)
 #
 https://jmp2.uk/sam-USBC2100009GT.m3u8
+#EXTINF:-1 group-title="NATURE" tvg-country="Canada" tvg-id="CABC2300001X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300001X9_20230426T031131SQUARE.png_20230426031132.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/CABC2300001X9.m3u8" url_alt="" status="ok:0 2024-09-21_18:05:19" ,zzNATURE: The Jack Hanna Channel (Samsung)
+#
+https://jmp2.uk/sam-CABC2300001X9.m3u8
 #EXTINF:-1 group-title="NATURE" tvg-country="US" tvg-id="ThePetCollectiveSweden.se" tvg-logo="https://i.imgur.com/Mk28uUy.png" provider="samsung" url_mh="" url_alt="https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8" status="ok:0 2024-09-21_18:05:28" ,zzNATURE: The Pet Collective International (samsung)
 #
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
@@ -1461,12 +1491,12 @@ https://jmp2.uk/sam-GBBB5000002PL.m3u8
 #EXTINF:-1 group-title="NATURE" tvg-country="United Kingdom" tvg-id="GBBC4300002RW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4300002RW_20230125T022354SQUARE.png_20230125022354.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/GBBC4300002RW.m3u8" url_alt="" status="ok:0 2024-09-21_18:05:56" ,zzNATURE: WildEarth (Samsung)
 #
 https://jmp2.uk/sam-GBBC4300002RW.m3u8
-#EXTINF:-1 group-title="NATURE" tvg-country="Canada" tvg-id="CABC2300002VB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300002VB_20221026T005042SQUARE.png_20221026005043.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/CABC2300002VB.m3u8" url_alt="" status="ok:0 2024-09-21_18:06:01" ,zzNATURE: Xplore (Samsung)
-#
-https://jmp2.uk/sam-CABC2300002VB.m3u8
 #EXTINF:-1 group-title="NATURE" tvg-country="United States" tvg-id="USBC2100008DP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100008DP_20230125T022549SQUARE.png_20230125022550.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBC2100008DP.m3u8" url_alt="" status="ok:0 2024-09-21_18:06:07" ,zzNATURE: Xplore (Samsung)
 #
 https://jmp2.uk/sam-USBC2100008DP.m3u8
+#EXTINF:-1 group-title="NATURE" tvg-country="Canada" tvg-id="CABC2300002VB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300002VB_20221026T005042SQUARE.png_20221026005043.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/CABC2300002VB.m3u8" url_alt="" status="ok:0 2024-09-21_18:06:01" ,zzNATURE: Xplore (Samsung)
+#
+https://jmp2.uk/sam-CABC2300002VB.m3u8
 #EXTINF:-1 group-title="NATURE" tvg-country="United States" tvg-id="USBD3500027DS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20231024T231926SQUARE.png_20231024231927.png" provider="samsung" url_mh="https://jmp2.uk/SamsungTVPlus/USBD3500027DS.m3u8" url_alt="" status="ok:0 2024-09-21_18:06:13" ,zzNATURE: ZenLIFE by Stingray (Samsung)
 #
 https://jmp2.uk/sam-USBD3500027DS.m3u8
