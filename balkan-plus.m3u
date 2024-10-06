@@ -32,6 +32,10 @@ http://109.72.57.12/hls/tvcityub.m3u8
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TV GM Plus.rs" tvg-beid="TV GM Plus.rs" tvg-tvprofil-id="" tvg-sfid="TV GM Plus (SN)" tvg-logo="" status="ok:0 2024-09-28_11:47:55" ,Gm Plus
 #BE EPG
 http://178.217.15.36/fineliving/index.m3u8?token=test
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" tvg-logo="" status="" ,Happy
+#referrerr MANDATORY -- extnf-user-agent for vlc-android - exvlcopt for kodi-
+#EXTVLCOPT:http-referrer=https://www.tvbalkanuzivo.com
+https://live3.cdn-canlitv.com/happytv.m3u8?anahtar=Ah9f1V3enOWk1qTMo0tXtQ&sure=1728229073
 #EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv1.hr" tvg-beid="HRT 1.hr" tvg-tvprofil-id="htv1.hr" tvg-sfid="HRT 1 (SN)" tvg-logo="https://i.imgur.com/lDSctzX.png" status="ok:0 2024-09-28_11:47:57" ,HRT 1
 #USER AGENT MANDATORY -- extnf-user-agent for vlc-android - exvlcopt for kodi-
 #EXTVLCOPT:http-user-agent=Android
