@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz,https://www.bevy.be/bevyfiles/croatia.xml.gz,https://www.bevy.be/bevyfiles/bosnia.xml.gz,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/montenegropremium.xml.gz"
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" tvg-beid="TV AS.rs" tvg-tvprofil-id="TVAS.rs" tvg-logo="https://i.imgur.com/LIUtEgD.png" status="ok:0 2024-09-28_11:47:42" ,AS
 #does not work in kodi
-#EXTVLCOPT:http-referrer=https://srv1.adriatelekom.com/
 https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TV Belle Amie SD/HD.rs" tvg-beid="TV Belle Amie SD/HD.rs" tvg-tvprofil-id="" tvg-logo="https://i.imgur.com/tOlN5Rz.png" status="" ,Belle Amie
 #
