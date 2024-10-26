@@ -46,7 +46,7 @@ http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
 #USER AGENT MANDATORY
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv4.hr" tvg-beid="HRT 4.hr" tvg-tvprofil-id="htv4.hr" tvg-logo="https://i.imgur.com/01bZ5rw.png" status="ok:0 2024-09-28_11:48:01" ,HRT 4
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv4.hr" tvg-beid="HRT 4.hr" tvg-tvprofil-id="htv4.hr" tvg-logo="https://i.imgur.com/dowXTcf.png" status="ok:0 2024-09-28_11:48:01" ,HRT 4
 #USER AGENT MANDATORY
 #EXTVLCOPT:http-user-agent=Android
 http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
