@@ -77,9 +77,11 @@ https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="rtrs.ba" tvg-beid="RTRS.ba" tvg-tvprofil-id="rtrs.ba" tvg-logo="https://i.imgur.com/2Sgs5gM.png" status="ok:0 2024-09-28_11:48:15" ,RTRS
 #
+#EXTVLCOPT:http-referrer=https://www.rtrs.tv/
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 #EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="rtrs-plus.ba" tvg-beid="" tvg-tvprofil-id="rtrs-plus.ba" tvg-logo="rtrs-plus.ba" status="ok:0 2024-09-28_11:48:16" ,RTRS PLUS
 #
+#EXTVLCOPT:http-referrer=https://www.rtrs.tv/
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts1.sr" tvg-beid="RTS 1 SD/HD.rs" tvg-tvprofil-id="rts1.sr" tvg-logo="https://i.imgur.com/S1pKHSR.png" status="ok:0 2024-09-28_11:48:18" ,RTS 1
 #geolocked hd
