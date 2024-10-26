@@ -84,15 +84,15 @@ http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts1.sr" tvg-beid="RTS 1 SD/HD.rs" tvg-tvprofil-id="rts1.sr" tvg-logo="https://i.imgur.com/S1pKHSR.png" status="ok:0 2024-09-28_11:48:18" ,RTS 1
 #geolocked hd
-#EXTVLCOPT:http-referrer=https://www.rts.rs/
+#EXTVLCOPT:http-user-agent=Android
 http://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts2.sr" tvg-beid="RTS 2 SD/HD.rs" tvg-tvprofil-id="rts2.sr" tvg-logo="https://i.imgur.com/jltAf5h.png" status="ok:0 2024-09-28_11:48:19" ,RTS 2
 #geolocked
-#EXTVLCOPT:http-referrer=https://www.rts.rs/
+#EXTVLCOPT:http-user-agent=Android
 http://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts-sat.sr" tvg-beid="SAT TV.rs" tvg-tvprofil-id="rts-sat.sr" tvg-logo="" status="ok:0 2024-09-28_11:48:21" ,RTS Svet
 #
-#EXTVLCOPT:http-referrer=https://www.rts.rs/
+#EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hls7/rts_svet_1200.m3u8
 #EXTINF:-1 group-title="MOV-YU" tvg-country="BA" tvg-id="TVSehara.si" tvg-beid="" tvg-tvprofil-id="TVSehara.si" tvg-logo="https://i.imgur.com/189FW4H.png" status="ok:0 2024-09-28_11:48:22" ,Sehara Online
 #5 mov
@@ -102,14 +102,13 @@ http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="STAR.hr" tvg-beid="STAR.hr" tvg-tvprofil-id="fox.movie" tvg-logo="" status="ok:0 2024-09-28_11:48:31" ,Star
 #BE EPG
-#EXTVLCOPT:http-referrer=http://webtvstream.bhtelecom.ba
 https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="studio-b-yu.sr" tvg-beid="Studio B.ba" tvg-tvprofil-id="studio-b-yu.sr" tvg-logo="" status="ok:0 2024-09-28_11:48:32" ,Studio B
 #?epg
 http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-country="BA" tvg-id="tropik-tv.toons" tvg-beid="Tropik TV HD" tvg-tvprofil-id="tropik-tv.toons" tvg-logo="" status="ok:0 2024-09-28_11:48:34" ,Tropik
 #
-#EXTVLCOPT:http-referrer=http://webtvstream.bhtelecom.ba
+#EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hls16/tropik_tv_1200.m3u8
 #EXTINF:-1 group-title="" tvg-country="USA" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62ba60f059624e000781c436-alt.m3u8" url_alt="" status="ok:0 2024-09-22_13:03:34" ,00s Replay (Pluto)
 #time delay?
