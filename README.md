@@ -66,9 +66,9 @@ for example mpv ). epg support server-enabled only.
 -[progtv player](https://www.progdvb.com/index/progtv/progtv-win) (shareware), win, android, ios
 
 #### android players:
--vlc
--kodi
 -progtv
+-kodi
+-vlc
 
 -[mpv](https://play.google.com/store/apps/details?id=is.xyz.mpv)
 -see above for how to add shortcut
@@ -81,7 +81,11 @@ for example mpv ). epg support server-enabled only.
  user-agent=mpv
 -Click on save.
 
-
+#### android Tv players:
+-progtv
+-kodi
+-vlc
+-mpv is currently not recommended for android tv, since it lacks remote tv functionality
 
 ###  Channel list sources:
 
