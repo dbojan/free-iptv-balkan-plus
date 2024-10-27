@@ -54,7 +54,8 @@ more info [here](https://github.com/iptv-org/epg)
 -does not support epg
 
 -[ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer) supports epg, windows only, freeware
-to set user agent in windows add to 'IpTvPlayer.User.ini' file, under [Settings] : setvlcvars="http-user-agent=Android"
+ to set user agent in windows add to 'IpTvPlayer.User.ini' file, under [Settings] add: 
+ setvlcvars="http-user-agent=Android"
 
 -[kodi](https://kodi.tv/), supports epg, kinda complicated to setup, and to navigate, supports epg
 
