@@ -137,6 +137,9 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 ![qrlong](qrlong.png)
 
 ### updates:
+2024-10-30-1
+fixed pl
+
 2024-10-20-1
 update list: sort series, remove some 'stream ended' channels
 
