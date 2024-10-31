@@ -8,16 +8,17 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 
 Enter address: https://cutt.ly/bppp in media player: [mpv](https://mpv.io/)/[vlc](https://www.videolan.org/vlc/)/[kodi](https://kodi.tv/), whichever program you want.
 
-If you wish to save static m3u file right click on [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', 
-and save the file somewhere.
-
-or add this to text file list.m3u in notepad, and start it later in any player: 
+To have fresh list, create new text file in notepad, add the line below to it, and save it as test.m3u: 
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
+Note that epg does not work, if you use test.m3u or cutt.ly shortcut, if you don't care about epg, you can ignore this. 
+Also nothing to do with cutt.ly.
+
+Or of you wish to save static m3u file right click on [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', 
+and save the file somewhere. epg works.
 
 You can **edit** downloaded static .m3u playlist using [csvEdit_Esmeralda(beta)](https://github.com/dbojan/csvEdit_Esmeralda)
 
-Note that epg does not work, if you use cutt.ly shortcut, if you don't care about epg, you can ignore this. 
-Also probably nothing to do with cutt.ly.
+
 ###  EPG (Electronic Program Guide), tv schedule
 
 "Kodi simple iptv client" only supports one epg url at the time. Only one is enabled in the list.
