@@ -85,7 +85,7 @@ for example mpv ). epg support server-enabled only.
 
 -download m3u file to use, see top of this document. 
 -to use remote file, enter cutt.ly/bppp in firefox browser on android, it will resolve to raw.github..
- using [cx explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) create new file, add raw.github line and save it as test.txt
+ using [cx explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) create new file, add raw.github line (copy, paste) and save it as test.txt
  after closing file, rename it to test.m3u, start mpv and open it. it will use remote file, fresh.
 
 #### android Tv players:
