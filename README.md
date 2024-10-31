@@ -142,6 +142,10 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 ![qrlong](qrlong.png)
 
 ### updates:
+
+2024-10-31-1
+fixed hr
+
 2024-10-30-1
 fixed pl
 
