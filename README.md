@@ -51,7 +51,8 @@ more info [here](https://github.com/iptv-org/epg)
 -If you use command line, you can use it like this: mpv --user-agent=android file_or_url_address
  or add to mpv/mpv.conf this line: user-agent=mpv.
  this is needed for some channels only.
- you can create local file.m3u and add this line to it: https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
+ you can create local file.m3u and add this line to it: 
+ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
  later open it in mpv.
 -If you want menu for playlist in mpv-windows, download .zip and .conf from 
  https://github.com/tomasklaen/uosc.-Put unzipped files and .conf in d:\apps\mpv\mpv
