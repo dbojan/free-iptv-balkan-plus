@@ -11,6 +11,9 @@ Enter address: https://cutt.ly/bppp in media player: [mpv](https://mpv.io/)/[vlc
 If you wish to save static m3u file right click on [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', 
 and save the file somewhere.
 
+or add this to text file list.m3u in notepad, and start it later in any player: 
+https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
+
 You can **edit** downloaded static .m3u playlist using [csvEdit_Esmeralda(beta)](https://github.com/dbojan/csvEdit_Esmeralda)
 
 Note that epg does not work, if you use cutt.ly shortcut, if you don't care about epg, you can ignore this. 
@@ -42,15 +45,15 @@ more info [here](https://github.com/iptv-org/epg)
 
 -[mpc-hc version by clsid2](https://github.com/clsid2/mpc-hc/), file, quick open file. user agent is not supported. label is not supported., epg is not supported
 
--[mpv](https://mpv.io/). create mpv.conf in mpv subfolder. add --user-agent=android in mpv.conf, 
- More info on using mpv player:
--If you want playlist in mpv-windows, download .zip and .conf from 
- https://github.com/tomasklaen/uosc . 
--Put unzipped files and .conf in d:\apps\mpv\mpv, if you have installed mpv in d:\apps\mpv .
+-[mpv](https://mpv.io/). 
+
 -If you use command line, you can use it like this: mpv --user-agent=android file_or_url_address
- or add to mpv/mpv.conf this line:
- user-agent=mpv
+ or add to mpv/mpv.conf this line: user-agent=mpv.
  this is needed for some channels only.
+ you can create local file.m3u and add this line to it: https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
+ later open it in mpv.
+-If you want menu for playlist in mpv-windows, download .zip and .conf from 
+ https://github.com/tomasklaen/uosc.-Put unzipped files and .conf in d:\apps\mpv\mpv
 -does not support epg
 
 -[ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer) supports epg, windows only, freeware
@@ -73,7 +76,7 @@ for example mpv ). epg support server-enabled only.
 -vlc
 
 -[mpv](https://play.google.com/store/apps/details?id=is.xyz.mpv)
--see above for how to add shortcut
+-save balkan-plus.m3u to use local version, or see below how to user remote fresh version
 -While viewing content, click on screen once, then click and hold on  |< or >| at the bottom,
 -to show playlist, or click once on |< or >| to go back/forward on list.
  
@@ -83,7 +86,6 @@ for example mpv ). epg support server-enabled only.
  user-agent=mpv
 -Click on save.
 
--download m3u file to use, see top of this document. 
 -to use remote file, enter cutt.ly/bppp in firefox browser on android, it will resolve to raw.github..
  using [cx explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) create new file, add raw.github line (copy, paste) and save it as test.txt
  after closing file, rename it to test.m3u, start mpv and open it. it will use remote file, fresh.
