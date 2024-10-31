@@ -100,7 +100,6 @@ for example mpv ). epg support server-enabled only.
 use this as remote url address (kodi, vlc, progtv): https://cutt.ly/bppp 
 
 ###  Channel list sources:
-
 list of free iptv channels: 
 https://github.com/iptv-org/iptv
 https://github.com/Free-TV/IPTV
