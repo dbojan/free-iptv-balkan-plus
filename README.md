@@ -97,6 +97,7 @@ for example mpv ). epg support server-enabled only.
 -kodi
 -vlc
 -mpv is currently not recommended for android tv, since it lacks remote tv functionality
+use this as remote url address (kodi, vlc, progtv):  https://cutt.ly/bppp 
 
 ###  Channel list sources:
 
