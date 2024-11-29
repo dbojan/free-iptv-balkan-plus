@@ -74,7 +74,7 @@ https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="rtrs.ba" tvg-beid="RTRS.ba" tvg-tvprofil-id="rtrs.ba" tvg-logo="https://i.imgur.com/2Sgs5gM.png" status="ok:0 2024-09-28_11:48:15" ,RTRS
 #
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
-#EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="rtrs-plus.ba" tvg-beid="" tvg-tvprofil-id="rtrs-plus.ba" tvg-logo="rtrs-plus.ba" status="ok:0 2024-09-28_11:48:16" ,RTRS PLUS
+#EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="rtrs-plus.ba" tvg-beid="" tvg-tvprofil-id="rtrs-plus.ba" tvg-logo="" status="ok:0 2024-09-28_11:48:16" ,RTRS PLUS
 #
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts1.sr" tvg-beid="RTS 1 SD/HD.rs" tvg-tvprofil-id="rts1.sr" tvg-logo="https://i.imgur.com/S1pKHSR.png" status="ok:0 2024-09-28_11:48:18" ,RTS 1
@@ -103,51 +103,45 @@ http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
 #
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hls16/tropik_tv_1200.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-country="BA" rownumber="000016" tvg-id="AlJazeeraBalkans.qa" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/AlJazeeraBalkans.qa.png" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_11:54:55" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,Al Jazeera Balkans
+#EXTINF:-1 group-title="NEWS" tvg-country="BA" tvg-id="AlJazeeraBalkans.qa" status="ok:0 2024-09-28_11:54:55" ,Al Jazeera Balkans
 #
-#EXTVLCOPT:http-user-agent=Android
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 group-title="MUSNEW" tvg-country="HR" rownumber="000020" tvg-id="CMCTV.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/CMCTV.hr.png" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_12:08:18" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,CMC TV
+#EXTINF:-1 group-title="MUSNEW" tvg-country="HR" tvg-id="CMCTV.hr" status="ok:0 2024-09-28_12:08:18" ,CMC TV
 #MUSIC
-#EXTVLCOPT:http-user-agent=Android
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 group-title="" tvg-country="" rownumber="002271" tvg-id="MuzzikTVSerbia.rs" tvg-logo="" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_12:36:22" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,Muzzik
+#EXTINF:-1 group-title="" tvg-country="" tvg-id="MuzzikTVSerbia.rs" status="ok:0 2024-09-28_12:36:22" ,Muzzik
 #MUSIC
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 group-title="MUS" tvg-country="RS" rownumber="000041" tvg-id="MuzzikFlashbackSerbia.rs" tvg-logo="" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_12:36:27" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,Muzzik Flashback
+#EXTINF:-1 group-title="MUS" tvg-country="RS" tvg-id="MuzzikFlashbackSerbia.rs" status="ok:0 2024-09-28_12:36:27" ,Muzzik Flashback
 #MUSIC
-#EXTVLCOPT:http-user-agent=Android
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 group-title="MUSNEW" tvg-country="" rownumber="002264" tvg-id="MuzzikHipHopSerbia.rs" tvg-logo="" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_12:36:30" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,Muzzik HipHop Serbia (720p) [Geo-blocked]
+#EXTINF:-1 group-title="MUSNEW" tvg-country="" tvg-id="MuzzikHipHopSerbia.rs" status="ok:0 2024-09-28_12:36:30" ,Muzzik HipHop Serbia (720p) [Geo-blocked]
 #MUSIC
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-country="" rownumber="002265" tvg-id="MuzzikJekaSerbia.rs" tvg-logo="" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_12:36:32" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,Muzzik Jeka Serbia (720p) [Geo-blocked]
+#EXTINF:-1 group-title="" tvg-country="" tvg-id="MuzzikJekaSerbia.rs" status="ok:0 2024-09-28_12:36:32" ,Muzzik Jeka Serbia (720p) [Geo-blocked]
 #MUSIC
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 group-title="MUSNEW" tvg-country="" rownumber="002266" tvg-id="MuzzikMediteraneoSerbia.rs" tvg-logo="" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_12:36:35" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,Muzzik Mediteraneo Serbia (720p) [Geo-blocked]
+#EXTINF:-1 group-title="MUSNEW" tvg-country="" tvg-id="MuzzikMediteraneoSerbia.rs" status="ok:0 2024-09-28_12:36:35" ,Muzzik Mediteraneo Serbia (720p) [Geo-blocked]
 #MUSIC
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-country="" rownumber="002267" tvg-id="MuzzikOKKSerbia.rs" tvg-logo="" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_12:36:37" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,Muzzik Moba
+#EXTINF:-1 group-title="" tvg-country="" tvg-id="MuzzikOKKSerbia.rs" status="ok:0 2024-09-28_12:36:37" ,Muzzik Moba
 #MUSIC
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 group-title="MUSNEW" tvg-country="" rownumber="002263" tvg-id="MuzzikCafeClubSerbia.rs" tvg-logo="" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_12:36:38" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,Muzzik Popstar
+#EXTINF:-1 group-title="MUSNEW" tvg-country="" tvg-id="MuzzikCafeClubSerbia.rs" status="ok:0 2024-09-28_12:36:38" ,Muzzik Popstar
 #MUSIC
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-country="" rownumber="002269" tvg-id="MuzzikRockRollSerbia.rs" tvg-logo="" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_12:36:43" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,Muzzik Rock&Roll Serbia (720p) [Geo-blocked]
+#EXTINF:-1 group-title="" tvg-country="" tvg-id="MuzzikRockRollSerbia.rs" status="ok:0 2024-09-28_12:36:43" ,Muzzik Rock&Roll Serbia (720p) [Geo-blocked]
 #MUSIC
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-country="" rownumber="002272" tvg-id="MuzzikWorldwideSerbia.rs" tvg-logo="" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_12:36:48" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,Muzzik WWM
+#EXTINF:-1 group-title="" tvg-country="" tvg-id="MuzzikWorldwideSerbia.rs" status="ok:0 2024-09-28_12:36:48" ,Muzzik WWM
 #MUSIC
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-country="BA" rownumber="000051" tvg-id="N1BosniaHerzegovina.ba" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/N1BosniaHerzegovina.ba.png" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_12:36:52" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,N1 BIH
+#EXTINF:-1 group-title="NEWS" tvg-country="BA" tvg-id="N1BosniaHerzegovina.ba" status="ok:0 2024-09-28_12:36:52" ,N1 BIH
 #
-#EXTVLCOPT:http-user-agent=Android
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 group-title="NEWS" tvg-country="HR" rownumber="000052" tvg-id="N1Croatia.hr" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/N1Croatia.hr.png" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_12:37:00" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,N1 HRV
+#EXTINF:-1 group-title="NEWS" tvg-country="HR" tvg-id="N1Croatia.hr" status="ok:0 2024-09-28_12:37:00" ,N1 HRV
 #
-#EXTVLCOPT:http-user-agent=Android
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 group-title="NEWS" tvg-country="RS" rownumber="000053" tvg-id="N1Serbia.rs" tvg-logo="https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/tvg-logo/N1Serbia.rs.png" tvg-name="" tvg-language="" user-agent="" tvg-url="" status="ok:0 2024-09-28_12:37:05" tvg-beid="" tvg-tvprofil-id="" tvg-sfid="" ,N1 SRB
+#EXTINF:-1 group-title="NEWS" tvg-country="RS" tvg-id="N1Serbia.rs" status="ok:0 2024-09-28_12:37:05" ,N1 SRB
 #
-#EXTVLCOPT:http-user-agent=Android
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
