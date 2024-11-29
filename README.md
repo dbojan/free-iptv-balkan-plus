@@ -6,6 +6,9 @@ It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking tv 
 Note: https://cutt.ly/bppp is shortcut that leads to:
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
 
+Note: https://cutt.ly/bddd is shortcut that leads to (just local regional files/samo domaci kanali):
+https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/balkan-plus-samo-domaci.m3u
+
 Enter address: https://cutt.ly/bppp in media player: [mpv](https://mpv.io/)/[vlc](https://www.videolan.org/vlc/)/[kodi](https://kodi.tv/), whichever program you want.
 
 To have fresh list, create new text file in notepad, add the line below to it, and save it as test.m3u: 
