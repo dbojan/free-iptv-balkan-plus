@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="TVAS.rs" tvg-beid="TV AS.rs" tvg-tvprofil-id="TVAS.rs" tvg-logo="https://i.imgur.com/LIUtEgD.png" status="ok:0 2024-09-28_11:47:42" ,AS
-#
+#Sabac
 #EXTVLCOPT:http-user-agent=Android
 https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac
 #EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="TV Belle Amie SD/HD.rs" tvg-beid="TV Belle Amie SD/HD.rs" tvg-tvprofil-id="" tvg-logo="https://i.imgur.com/tOlN5Rz.png" status="" ,Belle Amie
-#
+#Maybe
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="BA" tvg-id="bht1.ba" tvg-beid="BHT HD.ba" tvg-tvprofil-id="bht1.ba" tvg-logo="https://i.imgur.com/01bZ5rw.png" status="ok:0 2024-09-28_11:47:43" ,BHRT
-#4 hd
+#geolocked
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
-#EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="Blic TV.ba" tvg-beid="Blic TV.ba" tvg-tvprofil-id="Blic.rs" tvg-logo="" status="ok:0 2024-09-28_11:47:47" ,Blic
+#EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="Blic TV.ba" tvg-beid="Blic TV.ba" tvg-tvprofil-id="Blic.rs" tvg-logo="https://i.imgur.com/XM5Qz1i.png" status="ok:0 2024-09-28_11:47:47" ,Blic
 #BE EPG
 https://53a7ed211fc32.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="BA" tvg-id="BN.ba" tvg-beid="BN.ba" tvg-tvprofil-id="bn.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" status="ok:0 2024-09-28_11:47:48" ,BN
@@ -51,13 +51,13 @@ https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="Kurir TV.rs" tvg-beid="Kurir TV.rs" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_11:48:04" ,Kurir
 #BE EPG
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
-#EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_11:48:05" ,Narodna
+#EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="" tvg-beid="" tvg-tvprofil-id="" tvg-logo="https://i.imgur.com/dua57HD.png" status="ok:0 2024-09-28_11:48:05" ,Narodna
 #
 https://live.rednet.rs/providus/narodnatv_hq/index.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="TV PI kanal.rs" tvg-beid="TV PI kanal.rs" tvg-tvprofil-id="TVPiKanal.rs" tvg-logo="https://i.imgur.com/8ugnFa3.png" status="ok:0 2024-09-28_11:48:06" ,Pi Kanal
-#BE EPG
+#BE EPG Pirot
 http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="pink.sr" tvg-beid="TV Pink SD/HD.rs" tvg-tvprofil-id="pink.sr" tvg-logo="" status="ok:0 2024-09-28_11:48:07" ,Pink 1
+#EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="pink.sr" tvg-beid="TV Pink SD/HD.rs" tvg-tvprofil-id="pink.sr" tvg-logo="https://i.imgur.com/66wHb7E.png" status="ok:0 2024-09-28_11:48:07" ,Pink
 #
 https://live.rednet.rs/providus/pink1_hq/index.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="Red TV.rs" tvg-beid="Red TV.rs" tvg-tvprofil-id="pink-2.movie" tvg-logo="https://i.imgur.com/cpN7NrL.png" status="ok:0 2024-09-28_11:48:09" ,Red
@@ -73,10 +73,10 @@ https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 #BE EPG
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:0 gt="DAY" tvg-country="BA'" tvg-id="rtrs.ba" tvg-beid="RTRS.ba" tvg-tvprofil-id="rtrs.ba" tvg-logo="https://i.imgur.com/2Sgs5gM.png" status="ok:0 2024-09-28_11:48:15" ,RTRS
-#movies are off
+#geolocked
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 #EXTINF:0 gt="DAY" tvg-country="BA'" tvg-id="rtrs-plus.ba" tvg-beid="" tvg-tvprofil-id="rtrs-plus.ba" tvg-logo="" status="ok:0 2024-09-28_11:48:16" ,RTRS PLUS
-#
+#geolocked
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="rts1.sr" tvg-beid="RTS 1 SD/HD.rs" tvg-tvprofil-id="rts1.sr" tvg-logo="https://i.imgur.com/S1pKHSR.png" status="ok:0 2024-09-28_11:48:18" ,RTS 1
 #geolocked hd
@@ -87,18 +87,18 @@ http://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTVLCOPT:http-user-agent=Android
 http://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="rts-sat.sr" tvg-beid="SAT TV.rs" tvg-tvprofil-id="rts-sat.sr" tvg-logo="" status="ok:0 2024-09-28_11:48:21" ,RTS Svet
-#
+#geolocked
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hls7/rts_svet_1200.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="slavonska-tv.hr" tvg-beid="Slavonska TV.hr" tvg-tvprofil-id="slavonska-tv.hr" tvg-logo="" status="ok:0 2024-09-28_11:48:23" ,Slavonska
 #
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="STAR.hr" tvg-beid="STAR.hr" tvg-tvprofil-id="fox.movie" tvg-logo="" status="ok:0 2024-09-28_11:48:31" ,Star
+#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="STAR.hr" tvg-beid="STAR.hr" tvg-tvprofil-id="fox.movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" status="ok:0 2024-09-28_11:48:31" ,Star
 #does not work in kodi
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="studio-b-yu.sr" tvg-beid="Studio B.ba" tvg-tvprofil-id="studio-b-yu.sr" tvg-logo="" status="ok:0 2024-09-28_11:48:32" ,Studio B
-#?epg
+#maybe
 http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
 #EXTINF:-1 gt="KIDS" tvg-country="BA" tvg-id="tropik-tv.toons" tvg-beid="Tropik TV HD" tvg-tvprofil-id="tropik-tv.toons" tvg-logo="" status="ok:0 2024-09-28_11:48:34" ,Tropik
 #
@@ -107,13 +107,13 @@ https://webtvstream.bhtelecom.ba/hls16/tropik_tv_1200.m3u8
 #EXTINF:-1 gt="NEWS" tvg-country="BA" tvg-id="AlJazeeraBalkans.qa" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_11:54:55" ,ZZI: Al Jazeera Balkans
 #
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 gt="NEWS" tvg-country="BA" tvg-id="N1BosniaHerzegovina.ba" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_12:36:52" ,ZZI: N1 BIH
+#EXTINF:-1 gt="NEWS" tvg-country="BA" tvg-id="N1BosniaHerzegovina.ba" tvg-beid="" tvg-tvprofil-id="" tvg-logo="https://i.imgur.com/72oMSWz.png" status="ok:0 2024-09-28_12:36:52" ,ZZI: N1 BIH
 #
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 gt="NEWS" tvg-country="HR" tvg-id="N1Croatia.hr" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_12:37:00" ,ZZI: N1 HRV
+#EXTINF:-1 gt="NEWS" tvg-country="HR" tvg-id="N1Croatia.hr" tvg-beid="" tvg-tvprofil-id="" tvg-logo="https://i.imgur.com/72oMSWz.png" status="ok:0 2024-09-28_12:37:00" ,ZZI: N1 HRV
 #
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 gt="NEWS" tvg-country="RS" tvg-id="N1Serbia.rs" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_12:37:05" ,ZZI: N1 SRB
+#EXTINF:-1 gt="NEWS" tvg-country="RS" tvg-id="N1Serbia.rs" tvg-beid="" tvg-tvprofil-id="" tvg-logo="https://i.imgur.com/72oMSWz.png" status="ok:0 2024-09-28_12:37:05" ,ZZI: N1 SRB
 #
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 gt="MUSNEW" tvg-country="HR" tvg-id="CMCTV.hr" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_12:08:18" ,ZZM: CMC TV
