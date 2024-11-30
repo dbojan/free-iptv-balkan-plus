@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1 gt="DAY" tvg-country="BA" tvg-id="bht1.ba" tvg-beid="BHT HD.ba" tvg-tvprofil-id="bht1.ba" tvg-logo="https://i.imgur.com/01bZ5rw.png" status="ok:0 2024-11-30_10:24:03" ,BHRT
+#4 hd
+https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
+#EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="Blic TV.ba" tvg-beid="Blic TV.ba" tvg-tvprofil-id="Blic.rs" tvg-logo="" status="ok:0 2024-11-30_10:24:06" ,Blic
+#BE EPG
+https://53a7ed211fc32.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
+#EXTINF:-1 gt="DAY" tvg-country="BA" tvg-id="BN.ba" tvg-beid="BN.ba" tvg-tvprofil-id="bn.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" status="ok:0 2024-11-30_10:24:08" ,BN
+#BE EPG
+https://rtvbn.tv:8080/live/index.m3u8
+#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="htv1.hr" tvg-beid="HRT 1.hr" tvg-tvprofil-id="htv1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" status="ok:0 2024-11-30_10:24:10" ,HRT 1
+#
+#EXTVLCOPT:http-user-agent=Android
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="htv2.hr" tvg-beid="HRT 2.hr" tvg-tvprofil-id="htv2.hr" tvg-logo="https://i.imgur.com/yyePcl1.png" status="ok:0 2024-11-30_10:24:12" ,HRT 2
+#
+#EXTVLCOPT:http-user-agent=Android
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="htv3.hr" tvg-beid="HRT 3.hr" tvg-tvprofil-id="htv3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" status="ok:0 2024-11-30_10:24:14" ,HRT 3
+#
+#EXTVLCOPT:http-user-agent=Android
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 gt="NEWS" tvg-country="BA" tvg-id="N1BosniaHerzegovina.ba" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-11-30_10:24:16" ,N1 BIH
+#
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 gt="NEWS" tvg-country="HR" tvg-id="N1Croatia.hr" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-11-30_10:24:18" ,N1 HRV
+#
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 gt="NEWS" tvg-country="RS" tvg-id="N1Serbia.rs" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-11-30_10:24:20" ,N1 SRB
+#
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-11-30_10:24:21" ,Narodna
+#
+https://live.rednet.rs/providus/narodnatv_hq/index.m3u8
+#EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="pink.sr" tvg-beid="TV Pink SD/HD.rs" tvg-tvprofil-id="pink.sr" tvg-logo="" status="ok:0 2024-11-30_10:24:22" ,Pink
+#
+https://live.rednet.rs/providus/pink1_hq/index.m3u8
+#EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="Red TV.rs" tvg-beid="Red TV.rs" tvg-tvprofil-id="pink-2.movie" tvg-logo="https://i.imgur.com/cpN7NrL.png" status="ok:0 2024-11-30_10:24:23" ,Red
+#BE EPG
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="rtl.hr" tvg-beid="RTL.hr" tvg-tvprofil-id="rtl.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png" status="ok:0 2024-11-30_10:24:25" ,RTL
+#5
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="RTL 2.hr" tvg-beid="RTL 2.hr" tvg-tvprofil-id="rtl2.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png" status="ok:0 2024-11-30_10:24:26" ,RTL 2
+#BE EPG
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="RTL Kockica.hr" tvg-beid="RTL Kockica.hr" tvg-tvprofil-id="rtl-kockica.hr" tvg-logo="https://i.imgur.com/C7H5bJs.png" status="ok:0 2024-11-30_10:24:28" ,RTL Kockica
+#BE EPG
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:0 gt="DAY" tvg-country="BA'" tvg-id="rtrs-plus.ba" tvg-beid="" tvg-tvprofil-id="rtrs-plus.ba" tvg-logo="" status="ok:0 2024-11-30_10:24:31" ,RTRS PLUS
+#
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="STAR.hr" tvg-beid="STAR.hr" tvg-tvprofil-id="fox.movie" tvg-logo="" status="ok:0 2024-11-30_10:24:32" ,Star
+#does not work in kodi
+#EXTVLCOPT:http-user-agent=Android
+https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
