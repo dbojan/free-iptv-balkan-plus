@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 gt="DAY" tvg-country="BA" tvg-id="bht1.ba" tvg-beid="BHT HD.ba" tvg-tvprofil-id="bht1.ba" tvg-logo="https://i.imgur.com/01bZ5rw.png" status="ok:0 2024-11-30_10:24:03" ,BHRT
-#4 hd
-https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="Blic TV.ba" tvg-beid="Blic TV.ba" tvg-tvprofil-id="Blic.rs" tvg-logo="" status="ok:0 2024-11-30_10:24:06" ,Blic
 #BE EPG
 https://53a7ed211fc32.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="BA" tvg-id="BN.ba" tvg-beid="BN.ba" tvg-tvprofil-id="bn.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" status="ok:0 2024-11-30_10:24:08" ,BN
 #BE EPG
 https://rtvbn.tv:8080/live/index.m3u8
+#EXTINF:-1 gt="DAY" tvg-country="ME" tvg-id="RTCG 1 HD" tvg-beid="RTCG 1 HD" tvg-tvprofil-id="tvcg1.cg" tvg-logo="https://i.imgur.com/QORHrXu.png" status="ok:0 2024-09-28_11:47:49" ,CG 1
+#BE EPG
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="htv1.hr" tvg-beid="HRT 1.hr" tvg-tvprofil-id="htv1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" status="ok:0 2024-11-30_10:24:10" ,HRT 1
 #
 #EXTVLCOPT:http-user-agent=Android
