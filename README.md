@@ -10,6 +10,8 @@ Note: https://cutt.ly/bddd is shortcut that leads to (just regional files/samo d
 ukljucujuci i news i muziku koji su uglavnom dosadni, tako da ih gore nema):
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/balkan-plus-samo-domaci.m3u
 
+domaci mini: https://cutt.ly/bddm https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/balkan-plus-domaci-mini.m3u
+
 Enter address: https://cutt.ly/bppp in media player: [mpv](https://mpv.io/)/[vlc](https://www.videolan.org/vlc/)/[kodi](https://kodi.tv/), whichever program you want.
 
 To have fresh list, create new text file in notepad, add the line below to it, and save it as test.m3u: 
