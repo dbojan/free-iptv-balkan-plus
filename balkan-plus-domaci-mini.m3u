@@ -47,9 +47,6 @@ https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="RTL Kockica.hr" tvg-beid="RTL Kockica.hr" tvg-tvprofil-id="rtl-kockica.hr" tvg-logo="https://i.imgur.com/C7H5bJs.png" status="ok:0 2024-11-30_10:24:28" ,RTL Kockica
 #BE EPG
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:0 gt="DAY" tvg-country="BA'" tvg-id="rtrs-plus.ba" tvg-beid="" tvg-tvprofil-id="rtrs-plus.ba" tvg-logo="" status="ok:0 2024-11-30_10:24:31" ,RTRS PLUS
-#
-http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="STAR.hr" tvg-beid="STAR.hr" tvg-tvprofil-id="fox.movie" tvg-logo="" status="ok:0 2024-11-30_10:24:32" ,Star
 #does not work in kodi
 #EXTVLCOPT:http-user-agent=Android
