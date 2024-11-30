@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 gt="DAY" tvg-country="BA" tvg-id="bht1.ba" tvg-beid="BHT HD.ba" tvg-tvprofil-id="bht1.ba" tvg-logo="https://i.imgur.com/01bZ5rw.png" status="ok:0 2024-11-30_10:24:03" ,BHRT
 #4 hd
-https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="Blic TV.ba" tvg-beid="Blic TV.ba" tvg-tvprofil-id="Blic.rs" tvg-logo="" status="ok:0 2024-11-30_10:24:06" ,Blic
 #BE EPG
 https://53a7ed211fc32.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
