@@ -1,147 +1,147 @@
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" tvg-beid="TV AS.rs" tvg-tvprofil-id="TVAS.rs" tvg-logo="https://i.imgur.com/LIUtEgD.png" status="ok:0 2024-09-28_11:47:42" ,AS
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="TVAS.rs" tvg-beid="TV AS.rs" tvg-tvprofil-id="TVAS.rs" tvg-logo="https://i.imgur.com/LIUtEgD.png" status="ok:0 2024-09-28_11:47:42" ,AS
 #
 #EXTVLCOPT:http-user-agent=Android
 https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TV Belle Amie SD/HD.rs" tvg-beid="TV Belle Amie SD/HD.rs" tvg-tvprofil-id="" tvg-logo="https://i.imgur.com/tOlN5Rz.png" status="" ,Belle Amie
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="TV Belle Amie SD/HD.rs" tvg-beid="TV Belle Amie SD/HD.rs" tvg-tvprofil-id="" tvg-logo="https://i.imgur.com/tOlN5Rz.png" status="" ,Belle Amie
 #
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="bht1.ba" tvg-beid="BHT HD.ba" tvg-tvprofil-id="bht1.ba" tvg-logo="https://i.imgur.com/01bZ5rw.png" status="ok:0 2024-09-28_11:47:43" ,BHRT
+#EXTINF:-1 1group-title="DAY" tvg-country="BA" tvg-id="bht1.ba" tvg-beid="BHT HD.ba" tvg-tvprofil-id="bht1.ba" tvg-logo="https://i.imgur.com/01bZ5rw.png" status="ok:0 2024-09-28_11:47:43" ,BHRT
 #4 hd
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="Blic TV.ba" tvg-beid="Blic TV.ba" tvg-tvprofil-id="Blic.rs" tvg-logo="" status="ok:0 2024-09-28_11:47:47" ,Blic
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="Blic TV.ba" tvg-beid="Blic TV.ba" tvg-tvprofil-id="Blic.rs" tvg-logo="" status="ok:0 2024-09-28_11:47:47" ,Blic
 #BE EPG
 https://53a7ed211fc32.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="BA" tvg-id="BN.ba" tvg-beid="BN.ba" tvg-tvprofil-id="bn.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" status="ok:0 2024-09-28_11:47:48" ,BN
+#EXTINF:-1 1group-title="DAY" tvg-country="BA" tvg-id="BN.ba" tvg-beid="BN.ba" tvg-tvprofil-id="bn.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" status="ok:0 2024-09-28_11:47:48" ,BN
 #BE EPG
 https://rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="RTCG 1 HD" tvg-beid="RTCG 1 HD" tvg-tvprofil-id="tvcg1.cg" tvg-logo="https://i.imgur.com/QORHrXu.png" status="ok:0 2024-09-28_11:47:49" ,CG 1
+#EXTINF:-1 1group-title="DAY" tvg-country="ME" tvg-id="RTCG 1 HD" tvg-beid="RTCG 1 HD" tvg-tvprofil-id="tvcg1.cg" tvg-logo="https://i.imgur.com/QORHrXu.png" status="ok:0 2024-09-28_11:47:49" ,CG 1
 #BE EPG
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="RTCG 2 HD" tvg-beid="RTCG 2 HD" tvg-tvprofil-id="tvcg2.cg" tvg-logo="https://i.imgur.com/WECmUKH.png" status="ok:0 2024-09-28_11:47:51" ,CG 2
+#EXTINF:-1 1group-title="DAY" tvg-country="ME" tvg-id="RTCG 2 HD" tvg-beid="RTCG 2 HD" tvg-tvprofil-id="tvcg2.cg" tvg-logo="https://i.imgur.com/WECmUKH.png" status="ok:0 2024-09-28_11:47:51" ,CG 2
 #BE EPG
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="" tvg-beid="" tvg-tvprofil-id="tvcg3.cg" tvg-logo="https://i.imgur.com/0ZT3Bc2.png" status="ok:0 2024-09-28_11:47:52" ,CG 3
+#EXTINF:-1 1group-title="DAY" tvg-country="ME" tvg-id="" tvg-beid="" tvg-tvprofil-id="tvcg3.cg" tvg-logo="https://i.imgur.com/0ZT3Bc2.png" status="ok:0 2024-09-28_11:47:52" ,CG 3
 #
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="tvcg-sat.cg" tvg-beid="TVCG MNE.hr" tvg-tvprofil-id="tvcg-sat.cg" tvg-logo="https://i.imgur.com/pf8VEwf.png" status="ok:0 2024-09-28_11:47:53" ,CG MNE
+#EXTINF:-1 1group-title="DAY" tvg-country="ME" tvg-id="tvcg-sat.cg" tvg-beid="TVCG MNE.hr" tvg-tvprofil-id="tvcg-sat.cg" tvg-logo="https://i.imgur.com/pf8VEwf.png" status="ok:0 2024-09-28_11:47:53" ,CG MNE
 #
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_11:47:54" ,City UB
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_11:47:54" ,City UB
 #
 http://109.72.57.12/hls/tvcityub.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TV GM Plus.rs" tvg-beid="TV GM Plus.rs" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_11:47:55" ,Gm Plus
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="TV GM Plus.rs" tvg-beid="TV GM Plus.rs" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_11:47:55" ,Gm Plus
 #BE EPG
 http://178.217.15.36/fineliving/index.m3u8?token=test
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv1.hr" tvg-beid="HRT 1.hr" tvg-tvprofil-id="htv1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" status="ok:0 2024-09-28_11:47:57" ,HRT 1
+#EXTINF:-1 1group-title="DAY" tvg-country="HR" tvg-id="htv1.hr" tvg-beid="HRT 1.hr" tvg-tvprofil-id="htv1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" status="ok:0 2024-09-28_11:47:57" ,HRT 1
 #
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv2.hr" tvg-beid="HRT 2.hr" tvg-tvprofil-id="htv2.hr" tvg-logo="https://i.imgur.com/yyePcl1.png" status="ok:0 2024-10-06_21:16:11" ,HRT 2
+#EXTINF:-1 1group-title="DAY" tvg-country="HR" tvg-id="htv2.hr" tvg-beid="HRT 2.hr" tvg-tvprofil-id="htv2.hr" tvg-logo="https://i.imgur.com/yyePcl1.png" status="ok:0 2024-10-06_21:16:11" ,HRT 2
 #
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hrt2.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="htv3.hr" tvg-beid="HRT 3.hr" tvg-tvprofil-id="htv3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" status="ok:0 2024-09-28_11:47:59" ,HRT 3
+#EXTINF:-1 1group-title="DAY" tvg-country="HR" tvg-id="htv3.hr" tvg-beid="HRT 3.hr" tvg-tvprofil-id="htv3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" status="ok:0 2024-09-28_11:47:59" ,HRT 3
 #
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="tv-jadran.hr" tvg-beid="TV Jadran.hr" tvg-tvprofil-id="tv-jadran.hr" tvg-logo="https://i.imgur.com/UWMHnOG.png" status="ok:0 2024-09-28_11:48:02" ,Jadran
+#EXTINF:-1 1group-title="DAY" tvg-country="HR" tvg-id="tv-jadran.hr" tvg-beid="TV Jadran.hr" tvg-tvprofil-id="tv-jadran.hr" tvg-logo="https://i.imgur.com/UWMHnOG.png" status="ok:0 2024-09-28_11:48:02" ,Jadran
 # (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="Kurir TV.rs" tvg-beid="Kurir TV.rs" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_11:48:04" ,Kurir
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="Kurir TV.rs" tvg-beid="Kurir TV.rs" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_11:48:04" ,Kurir
 #BE EPG
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_11:48:05" ,Narodna
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="" tvg-beid="" tvg-tvprofil-id="" tvg-logo="" status="ok:0 2024-09-28_11:48:05" ,Narodna
 #
 https://live.rednet.rs/providus/narodnatv_hq/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="TV PI kanal.rs" tvg-beid="TV PI kanal.rs" tvg-tvprofil-id="TVPiKanal.rs" tvg-logo="https://i.imgur.com/8ugnFa3.png" status="ok:0 2024-09-28_11:48:06" ,Pi Kanal
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="TV PI kanal.rs" tvg-beid="TV PI kanal.rs" tvg-tvprofil-id="TVPiKanal.rs" tvg-logo="https://i.imgur.com/8ugnFa3.png" status="ok:0 2024-09-28_11:48:06" ,Pi Kanal
 #BE EPG
 http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="pink.sr" tvg-beid="TV Pink SD/HD.rs" tvg-tvprofil-id="pink.sr" tvg-logo="" status="ok:0 2024-09-28_11:48:07" ,Pink 1
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="pink.sr" tvg-beid="TV Pink SD/HD.rs" tvg-tvprofil-id="pink.sr" tvg-logo="" status="ok:0 2024-09-28_11:48:07" ,Pink 1
 #
 https://live.rednet.rs/providus/pink1_hq/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="Red TV.rs" tvg-beid="Red TV.rs" tvg-tvprofil-id="pink-2.movie" tvg-logo="https://i.imgur.com/cpN7NrL.png" status="ok:0 2024-09-28_11:48:09" ,Red
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="Red TV.rs" tvg-beid="Red TV.rs" tvg-tvprofil-id="pink-2.movie" tvg-logo="https://i.imgur.com/cpN7NrL.png" status="ok:0 2024-09-28_11:48:09" ,Red
 #BE EPG
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="rtl.hr" tvg-beid="RTL.hr" tvg-tvprofil-id="rtl.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png" status="ok:0 2024-09-28_11:48:10" ,RTL
+#EXTINF:-1 1group-title="DAY" tvg-country="HR" tvg-id="rtl.hr" tvg-beid="RTL.hr" tvg-tvprofil-id="rtl.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png" status="ok:0 2024-09-28_11:48:10" ,RTL
 #5
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTL 2.hr" tvg-beid="RTL 2.hr" tvg-tvprofil-id="rtl2.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png" status="ok:0 2024-09-28_11:48:12" ,RTL 2
+#EXTINF:-1 1group-title="DAY" tvg-country="HR" tvg-id="RTL 2.hr" tvg-beid="RTL 2.hr" tvg-tvprofil-id="rtl2.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png" status="ok:0 2024-09-28_11:48:12" ,RTL 2
 #BE EPG
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTL Kockica.hr" tvg-beid="RTL Kockica.hr" tvg-tvprofil-id="rtl-kockica.hr" tvg-logo="https://i.imgur.com/C7H5bJs.png" status="ok:0 2024-09-28_11:48:13" ,RTL Kockica
+#EXTINF:-1 1group-title="DAY" tvg-country="HR" tvg-id="RTL Kockica.hr" tvg-beid="RTL Kockica.hr" tvg-tvprofil-id="rtl-kockica.hr" tvg-logo="https://i.imgur.com/C7H5bJs.png" status="ok:0 2024-09-28_11:48:13" ,RTL Kockica
 #BE EPG
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="rtrs.ba" tvg-beid="RTRS.ba" tvg-tvprofil-id="rtrs.ba" tvg-logo="https://i.imgur.com/2Sgs5gM.png" status="ok:0 2024-09-28_11:48:15" ,RTRS
+#EXTINF:0 1group-title="DAY" tvg-country="BA'" tvg-id="rtrs.ba" tvg-beid="RTRS.ba" tvg-tvprofil-id="rtrs.ba" tvg-logo="https://i.imgur.com/2Sgs5gM.png" status="ok:0 2024-09-28_11:48:15" ,RTRS
 #
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
-#EXTINF:0 group-title="DAY" tvg-country="BA'" tvg-id="rtrs-plus.ba" tvg-beid="" tvg-tvprofil-id="rtrs-plus.ba" tvg-logo="" status="ok:0 2024-09-28_11:48:16" ,RTRS PLUS
+#EXTINF:0 1group-title="DAY" tvg-country="BA'" tvg-id="rtrs-plus.ba" tvg-beid="" tvg-tvprofil-id="rtrs-plus.ba" tvg-logo="" status="ok:0 2024-09-28_11:48:16" ,RTRS PLUS
 #
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts1.sr" tvg-beid="RTS 1 SD/HD.rs" tvg-tvprofil-id="rts1.sr" tvg-logo="https://i.imgur.com/S1pKHSR.png" status="ok:0 2024-09-28_11:48:18" ,RTS 1
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="rts1.sr" tvg-beid="RTS 1 SD/HD.rs" tvg-tvprofil-id="rts1.sr" tvg-logo="https://i.imgur.com/S1pKHSR.png" status="ok:0 2024-09-28_11:48:18" ,RTS 1
 #geolocked hd
 #EXTVLCOPT:http-user-agent=Android
 http://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts2.sr" tvg-beid="RTS 2 SD/HD.rs" tvg-tvprofil-id="rts2.sr" tvg-logo="https://i.imgur.com/jltAf5h.png" status="ok:0 2024-09-28_11:48:19" ,RTS 2
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="rts2.sr" tvg-beid="RTS 2 SD/HD.rs" tvg-tvprofil-id="rts2.sr" tvg-logo="https://i.imgur.com/jltAf5h.png" status="ok:0 2024-09-28_11:48:19" ,RTS 2
 #geolocked
 #EXTVLCOPT:http-user-agent=Android
 http://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="rts-sat.sr" tvg-beid="SAT TV.rs" tvg-tvprofil-id="rts-sat.sr" tvg-logo="" status="ok:0 2024-09-28_11:48:21" ,RTS Svet
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="rts-sat.sr" tvg-beid="SAT TV.rs" tvg-tvprofil-id="rts-sat.sr" tvg-logo="" status="ok:0 2024-09-28_11:48:21" ,RTS Svet
 #
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hls7/rts_svet_1200.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="slavonska-tv.hr" tvg-beid="Slavonska TV.hr" tvg-tvprofil-id="slavonska-tv.hr" tvg-logo="" status="ok:0 2024-09-28_11:48:23" ,Slavonska
+#EXTINF:-1 1group-title="DAY" tvg-country="HR" tvg-id="slavonska-tv.hr" tvg-beid="Slavonska TV.hr" tvg-tvprofil-id="slavonska-tv.hr" tvg-logo="" status="ok:0 2024-09-28_11:48:23" ,Slavonska
 #
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="STAR.hr" tvg-beid="STAR.hr" tvg-tvprofil-id="fox.movie" tvg-logo="" status="ok:0 2024-09-28_11:48:31" ,Star
+#EXTINF:-1 1group-title="DAY" tvg-country="HR" tvg-id="STAR.hr" tvg-beid="STAR.hr" tvg-tvprofil-id="fox.movie" tvg-logo="" status="ok:0 2024-09-28_11:48:31" ,Star
 #does not work in kodi
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
-#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="studio-b-yu.sr" tvg-beid="Studio B.ba" tvg-tvprofil-id="studio-b-yu.sr" tvg-logo="" status="ok:0 2024-09-28_11:48:32" ,Studio B
+#EXTINF:-1 1group-title="DAY" tvg-country="RS" tvg-id="studio-b-yu.sr" tvg-beid="Studio B.ba" tvg-tvprofil-id="studio-b-yu.sr" tvg-logo="" status="ok:0 2024-09-28_11:48:32" ,Studio B
 #?epg
 http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-country="BA" tvg-id="tropik-tv.toons" tvg-beid="Tropik TV HD" tvg-tvprofil-id="tropik-tv.toons" tvg-logo="" status="ok:0 2024-09-28_11:48:34" ,Tropik
+#EXTINF:-1 1group-title="KIDS" tvg-country="BA" tvg-id="tropik-tv.toons" tvg-beid="Tropik TV HD" tvg-tvprofil-id="tropik-tv.toons" tvg-logo="" status="ok:0 2024-09-28_11:48:34" ,Tropik
 #
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hls16/tropik_tv_1200.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-country="BA" tvg-id="AlJazeeraBalkans.qa" status="ok:0 2024-09-28_11:54:55" ,Al Jazeera Balkans
+#EXTINF:-1 1group-title="NEWS" tvg-country="BA" tvg-id="AlJazeeraBalkans.qa" status="ok:0 2024-09-28_11:54:55" ,Al Jazeera Balkans
 #
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 group-title="MUSNEW" tvg-country="HR" tvg-id="CMCTV.hr" status="ok:0 2024-09-28_12:08:18" ,CMC TV
+#EXTINF:-1 1group-title="MUSNEW" tvg-country="HR" tvg-id="CMCTV.hr" status="ok:0 2024-09-28_12:08:18" ,CMC TV
 #MUSIC
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 group-title="" tvg-country="" tvg-id="MuzzikTVSerbia.rs" status="ok:0 2024-09-28_12:36:22" ,Muzzik
+#EXTINF:-1 1group-title="" tvg-country="" tvg-id="MuzzikTVSerbia.rs" status="ok:0 2024-09-28_12:36:22" ,Muzzik
 #MUSIC
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 group-title="MUS" tvg-country="RS" tvg-id="MuzzikFlashbackSerbia.rs" status="ok:0 2024-09-28_12:36:27" ,Muzzik Flashback
+#EXTINF:-1 1group-title="MUS" tvg-country="RS" tvg-id="MuzzikFlashbackSerbia.rs" status="ok:0 2024-09-28_12:36:27" ,Muzzik Flashback
 #MUSIC
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 group-title="MUSNEW" tvg-country="" tvg-id="MuzzikHipHopSerbia.rs" status="ok:0 2024-09-28_12:36:30" ,Muzzik HipHop Serbia (720p) [Geo-blocked]
+#EXTINF:-1 1group-title="MUSNEW" tvg-country="" tvg-id="MuzzikHipHopSerbia.rs" status="ok:0 2024-09-28_12:36:30" ,Muzzik HipHop Serbia (720p) [Geo-blocked]
 #MUSIC
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-country="" tvg-id="MuzzikJekaSerbia.rs" status="ok:0 2024-09-28_12:36:32" ,Muzzik Jeka Serbia (720p) [Geo-blocked]
+#EXTINF:-1 1group-title="" tvg-country="" tvg-id="MuzzikJekaSerbia.rs" status="ok:0 2024-09-28_12:36:32" ,Muzzik Jeka Serbia (720p) [Geo-blocked]
 #MUSIC
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 group-title="MUSNEW" tvg-country="" tvg-id="MuzzikMediteraneoSerbia.rs" status="ok:0 2024-09-28_12:36:35" ,Muzzik Mediteraneo Serbia (720p) [Geo-blocked]
+#EXTINF:-1 1group-title="MUSNEW" tvg-country="" tvg-id="MuzzikMediteraneoSerbia.rs" status="ok:0 2024-09-28_12:36:35" ,Muzzik Mediteraneo Serbia (720p) [Geo-blocked]
 #MUSIC
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-country="" tvg-id="MuzzikOKKSerbia.rs" status="ok:0 2024-09-28_12:36:37" ,Muzzik Moba
+#EXTINF:-1 1group-title="" tvg-country="" tvg-id="MuzzikOKKSerbia.rs" status="ok:0 2024-09-28_12:36:37" ,Muzzik Moba
 #MUSIC
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 group-title="MUSNEW" tvg-country="" tvg-id="MuzzikCafeClubSerbia.rs" status="ok:0 2024-09-28_12:36:38" ,Muzzik Popstar
+#EXTINF:-1 1group-title="MUSNEW" tvg-country="" tvg-id="MuzzikCafeClubSerbia.rs" status="ok:0 2024-09-28_12:36:38" ,Muzzik Popstar
 #MUSIC
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-country="" tvg-id="MuzzikRockRollSerbia.rs" status="ok:0 2024-09-28_12:36:43" ,Muzzik Rock&Roll Serbia (720p) [Geo-blocked]
+#EXTINF:-1 1group-title="" tvg-country="" tvg-id="MuzzikRockRollSerbia.rs" status="ok:0 2024-09-28_12:36:43" ,Muzzik Rock&Roll Serbia (720p) [Geo-blocked]
 #MUSIC
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-country="" tvg-id="MuzzikWorldwideSerbia.rs" status="ok:0 2024-09-28_12:36:48" ,Muzzik WWM
+#EXTINF:-1 1group-title="" tvg-country="" tvg-id="MuzzikWorldwideSerbia.rs" status="ok:0 2024-09-28_12:36:48" ,Muzzik WWM
 #MUSIC
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-country="BA" tvg-id="N1BosniaHerzegovina.ba" status="ok:0 2024-09-28_12:36:52" ,N1 BIH
+#EXTINF:-1 1group-title="NEWS" tvg-country="BA" tvg-id="N1BosniaHerzegovina.ba" status="ok:0 2024-09-28_12:36:52" ,N1 BIH
 #
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 group-title="NEWS" tvg-country="HR" tvg-id="N1Croatia.hr" status="ok:0 2024-09-28_12:37:00" ,N1 HRV
+#EXTINF:-1 1group-title="NEWS" tvg-country="HR" tvg-id="N1Croatia.hr" status="ok:0 2024-09-28_12:37:00" ,N1 HRV
 #
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 group-title="NEWS" tvg-country="RS" tvg-id="N1Serbia.rs" status="ok:0 2024-09-28_12:37:05" ,N1 SRB
+#EXTINF:-1 1group-title="NEWS" tvg-country="RS" tvg-id="N1Serbia.rs" status="ok:0 2024-09-28_12:37:05" ,N1 SRB
 #
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
