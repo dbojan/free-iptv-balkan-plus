@@ -63,3 +63,6 @@ https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #does not work in kodi
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
+#EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="studio-b-yu.sr" tvg-beid="Studio B.ba" tvg-tvprofil-id="studio-b-yu.sr" tvg-logo="https://i.imgur.com/k875WTc.png" status="ok:0 2024-09-28_11:48:32" ,Studio B
+#
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
