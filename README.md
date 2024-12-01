@@ -49,39 +49,38 @@ List of usable media players:
 - [progtv player](https://www.progdvb.com/index/progtv/progtv-win) recommended, will show short loading screen on start:
   - add sources: https://cutt.ly/bddm (mini list) or some other list.
   - use **arrow up** or **arrow down** on the remote to move through channels
-  - if there is no channel after wake from sleep mode, press **ok** on remote few times, or go up/down channel while wifi is restored
+  - if there is no channel after wake from sleep mode, press **ok** on remote a couple of times, or go up/down channel while wifi is restored
    - Recommended settings: **User interface**/more options/show confirmation on exit=off
-    - show information after open channel list=on
+    - show information after selecting channel from the list=on
    - **Controls** / Start program after boot=on
     - close list after selecting channel=on
-    - cyclic=on (start channel 1, when press key down on the Last channel)
-    - next channel by up key=off (up goes up list, down goes down list)
+    - cyclic=on (on the Last channel, when you press down key, program will go back to channel 1)
+    - next channel by up key=off (use up key goes up, down key to go down list on the list of channels)
    - **Channel list**/History=off (this is for the list)
     - show channel numbers=off
    - **in list property**/update every = 2hr (this is optional, default is 10 hrs)
-
+ 
 
  - [orion tv android app](https://play.google.com/store/apps/details?id=rs.maketv.orionott), rotating list of free regional channels
-   - after starting the app, press ok on the remote, use **channel+** and **channel-** to move through channels
-   - recommend to use as a guest, you get more channels?
-    - install [DNS66](https://github.com/julian-klode/dns66), to block adds
-     - set dns66 to autostart, add [adguard](https://adguard-dns.io/kb/general/dns-providers/) dns ip: 94.140.14.14, or 94.140.14.15 (optional?)
+   - install [DNS66](https://github.com/julian-klode/dns66), to block adds
+   - set dns66 to autostart, add [adguard](https://adguard-dns.io/kb/general/dns-providers/) dns ip: 94.140.14.14, or 94.140.14.15 (optional?)
+   - recommend to use orion app as a guest, you get more channels?
+   - after starting orion app, press ok on the remote, use **channel+** and **channel-** to move through channels
 
 - tivimate: untested
 
 ### Android phone/tablet
 
 
-- install [mpv player](https://play.google.com/store/apps/details?id=is.xyz.mpv), browser: [firefox ](https://play.google.com/store/apps/details?id=org.mozilla.firefox) or chrome, and file manager: [cx explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) or [mx explorer](https://mixplorer.com/)
-- open cutt.ly/bppp, or whichever list you want on firefox android browser. It will expland to raw.github... adrress. Copy expanded address to device memory (click on it/select all/copy)
-- use  to create list.txt file.
+- (do this once:) install [mpv player](https://play.google.com/store/apps/details?id=is.xyz.mpv), browser: [firefox ](https://play.google.com/store/apps/details?id=org.mozilla.firefox) or chrome, and file manager: [cx explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) or [mx explorer](https://mixplorer.com/)
+- open cutt.ly/bppp, or whichever list you want in the firefox android browser. It will expland to raw.github... adrress. Copy expanded address to device memory (click on it/select all/copy)
+- use cx or mx explorer to create list.txt file.
 - add raw.github... addres to list.txt file
 - rename list.txt to list.m3u using cx or mx explorer. (right click, select rename)
 - in the future, start mpv, and open list.m3u
   - additional mpv settings, optional:
   - Settings/user interface/screen orientation, select device.
-  - Settings/advanced/edit mpv.conf, add (this is needed for some channels): 
-  - user-agent=mpv
+  - Settings/advanced/edit mpv.conf, add (this is needed for some channels): user-agent=mpv
   - Click on save.
 
 progtv, vlc and kodi are also available for android/androidtv
