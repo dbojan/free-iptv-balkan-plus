@@ -55,8 +55,8 @@ List of usable media players:
    - **Controls** / Start program after boot=on
     - close list after selecting channel=on
     - cyclic=on (on the Last channel, when you press down key, program will go back to channel 1)
-    - next channel by up key=off (use up key goes up, down key to go down list on the list of channels)
-   - **Channel list**/History=off (this is for the list)
+    - next channel by up key=off (use up key to go up the list, down key to go down the list, on the list of channels)
+   - Optional: **Channel list**/History=off (this is for the list)
     - show channel numbers=off
    - **in list property**/update every = 2hr (this is optional, default is 10 hrs)
  
@@ -82,8 +82,11 @@ List of usable media players:
   - Settings/user interface/screen orientation, select device.
   - Settings/advanced/edit mpv.conf, add (this is needed for some channels): user-agent=mpv
   - Click on save.
+  - to change channel, click anywhere, and then click on > at the bottom
+  - to show playlist press and hold on > at the bottom
 
-progtv, vlc and kodi are also available for android/androidtv
+- progtv - use in landscape mode; click, or click and hold for list/functions. Also, can swipe left/right, up/down to change channel.
+- vlc and kodi are also available for android/androidtv
 
 ###  EPG (Electronic Program Guide), tv schedule
 
