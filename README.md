@@ -153,54 +153,54 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 ### updates:
 
 2024-12-1-1
-new list grouping/edit
-site edit
+- new list grouping/edit
+- site edit
 
 2024-10-31-1
-fixed hr
+- fixed hr
 
 2024-10-30-1
-fixed pl
+- fixed pl
 
 2024-10-20-1
-update list: sort series, remove some 'stream ended' channels
+- update list: sort series, remove some 'stream ended' channels
 
 2024-09-28-1
-update list, epg urls
+- update list, epg urls
 
 2024-09-07-2
-list updated foreign
+- list updated foreign
 
 2024-09-07-1
 list updated foreign
 
 2024-09-01-1
-list updated
+- list updated
 
 2024-07-21-1
-updated links.
+- updated links.
 
 2024-02-27-1
-removed horr.
+- removed horr.
 
 2024-01-20-2
--uploaded correct file
--apparently it takes about 10min for link (raw) to update ...
+- uploaded correct file
+- apparently it takes about 10min for link (raw) to update ...
 
--2024-01-20
-update list
-renamed kids and nature channel names
+2024-01-20
+- update list
+- renamed kids and nature channel names
 
--2023-08-10-1
- added new xmltv epg sources,
- added new channels.
- removed non working lake channels
+2023-08-10-1
+- added new xmltv epg sources,
+- added new channels.
+- removed non working lake channels
 
--20230805-1
-changed list of tv stations
+20230805-1
+- changed list of tv stations
 
--20221219-1
-channels are mostly from web sites, or possibly apps.
+20221219-1
+- channels are mostly from web sites, or possibly apps.
 
 
 
