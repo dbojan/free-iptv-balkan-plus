@@ -2,111 +2,108 @@
 
 
 ### What is it:
-It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking tv channels
+- definition: iptv list is a list of network address for free tv channels, like youtube playlist
+- This is a list of channels for Balkan area: Ex-Yu channels + some free english speaking tv channels with commercial breaks
+  
+### Lists included:
+- balkan plus: balkan (serbian/croatian/bosnian) channels + english speaking channels with commercial breaks
+  - short url: https://cutt.ly/bppp
+  - long url: https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
 
-### What to do with it / Installing:
+- samo domaći: samo domaći kanali, uključujući i muzičke i kanale sa vijestima
+  - short url: https://cutt.ly/bddd
+  - long url: https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/balkan-plus-samo-domaci.m3u
+ 
+- samo domaći mini: mini lista, sa zanimljivijim kanalima
+  - short url: https://cutt.ly/bddm
+  - long url: https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/balkan-plus-domaci-mini.m3u
+  
+### How to use it:
 
-Note: https://cutt.ly/bppp is shortcut that leads to regional + global (english speaking channels):
-https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
+### Windows:
 
-Note: https://cutt.ly/bddd is shortcut that leads to (just regional files/samo domaci kanali, 
-ukljucujuci i news i muziku koji su uglavnom dosadni, tako da ih gore nema):
-https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/balkan-plus-samo-domaci.m3u
+I use editor [csvEdit_Esmeralda](https://github.com/dbojan/csvEdit_Esmeralda) to open m3u list, and then double click on row to view channel.
+Requires [mpv](https://mpv.io/) player and ffmpeg to be installed, preferrably in d:\apps.
 
-domaci mini: https://cutt.ly/bddm https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/balkan-plus-domaci-mini.m3u
+List of usable media players: 
+- [vlc](https://www.videolan.org/vlc/) start vlc, media/open network stream, add https://cutt.ly/bppp
+- [ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer) supports epg, windows only, freeware
+  - to set user agent in windows, in 'IpTvPlayer.User.ini' file, under [Settings] add: 
+   - setvlcvars="http-user-agent=Android"
+- [SF Vip player](https://serbianforum.org/threads/sf-vip-plejer.878393/)
+  - to add playlist, click on ... on the right, then +user.
+  - Enter name (anything), location (local file or internet address), and user agent (anything, for example mpv)
+  - epg support server-enabled only.
+- [smplayer](https://www.smplayer.info/), download m3u file, open file, no support for epg
+- [progtv player](https://www.progdvb.com/index/progtv/progtv-win) (shareware, minor limitations, like no recording), win, android, ios
+- [mpc-hc version by clsid2](https://github.com/clsid2/mpc-hc/), file, open file-url, add long url. Not supported: short url, user agent, epg
+- [kodi](https://kodi.tv/): install simple iptv plugin, add address: https://cutt.ly/bppp. Complicated to setup
+- [mpv](https://mpv.io/), command line mostly.
 
-Enter address: https://cutt.ly/bppp in media player: [mpv](https://mpv.io/)/[vlc](https://www.videolan.org/vlc/)/[kodi](https://kodi.tv/), whichever program you want.
 
-To have fresh list, create new text file in notepad, add the line below to it, and save it as test.m3u: 
-https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
-Note that epg does not work, if you use test.m3u or cutt.ly shortcut, if you don't care about epg, you can ignore this. 
-Also nothing to do with cutt.ly.
+### TV sets with Android:
 
-Or of you wish to save static m3u file right click on [balkan-plus.m3u](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u), and select 'Save Link As', 
-and save the file somewhere. epg works.
+- [progtv player](https://www.progdvb.com/index/progtv/progtv-win) recommended, will show short loading screen on start:
+  - add sources: https://cutt.ly/bddm (mini list) or some other list.
+  - use **arrow up** or **arrow down** on the remote to move through channels
+  - if there is no channel after wake from sleep mode, press **ok** on remote few times, or go up/down channel while wifi is restored
+   - Recommended settings: **User interface**/more options/show confirmation on exit=off
+    - show information after open channel list=on
+   - **Controls** / Start program after boot=on
+    - close list after selecting channel=on
+    - cyclic=on (start channel 1, when press key down on the Last channel)
+    - next channel by up key=off (up goes up list, down goes down list)
+   - **Channel list**/History=off (this is for the list)
+    - show channel numbers=off
+   - **in list property**/update every = 2hr (this is optional, default is 10 hrs)
 
-You can **edit** downloaded static .m3u playlist using [csvEdit_Esmeralda(beta)](https://github.com/dbojan/csvEdit_Esmeralda)
 
+ - [orion tv android app](https://play.google.com/store/apps/details?id=rs.maketv.orionott), rotating list of free regional channels
+   - after starting the app, press ok on the remote, use **channel+** and **channel-** to move through channels
+   - recommend to use as a guest, you get more channels?
+    - install [DNS66](https://github.com/julian-klode/dns66), to block adds
+     - set dns66 to autostart, add [adguard](https://adguard-dns.io/kb/general/dns-providers/) dns ip: 94.140.14.14, or 94.140.14.15 (optional?)
+
+- tivimate: untested
+
+### Android phone/tablet
+
+
+- install [mpv player](https://play.google.com/store/apps/details?id=is.xyz.mpv), browser: [firefox ](https://play.google.com/store/apps/details?id=org.mozilla.firefox) or chrome, and file manager: [cx explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) or [mx explorer](https://mixplorer.com/)
+- open cutt.ly/bppp, or whichever list you want on firefox android browser. It will expland to raw.github... adrress. Copy expanded address to device memory (click on it/select all/copy)
+- use  to create list.txt file.
+- add raw.github... addres to list.txt file
+- rename list.txt to list.m3u using cx or mx explorer. (right click, select rename)
+- in the future, start mpv, and open list.m3u
+  - additional mpv settings, optional:
+  - Settings/user interface/screen orientation, select device.
+  - Settings/advanced/edit mpv.conf, add (this is needed for some channels): 
+  - user-agent=mpv
+  - Click on save.
+
+progtv, vlc and kodi are also available for android/androidtv
 
 ###  EPG (Electronic Program Guide), tv schedule
 
-"Kodi simple iptv client" only supports one epg url at the time. Only one is enabled in the list.
-
-[ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer), supports multi epg, add it in app settings (CTRL+P).
+- Note: epg currently it is not added directly to these list, cause I did not use it much, and I think it uses a lot of memory on android TV.
+- [ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer), windows only, supports multi epg, add it in app settings (CTRL+P).
 Separate url to epg xml with comma: http://www.something.com/epg1.xml,http://http://www.something.com/epg2.xml
 Right click on app, select 'TV Guide', 'Update TV Guide'
-
-ProgTV can add more than one epg sources, you have to add each in the single text box for guide, 
+- [kodi](https://kodi.tv/) only supports one epg url at the time. 
+- ProgTV can add more than one epg sources, you have to add each in the single text box for guide, 
 when adding sources, then click update button.
 
 Epg xml addresses:
-https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz (balkan channels)
-http://cdn.iptvhr.net/tvdata/guide.xml (balkan channels)
-https://i.mjh.nz/PlutoTV/all.xml.gz (plutotv)
+- https://i.mjh.nz/PlutoTV/all.xml.gz
+- https://i.mjh.nz/SamsungTVPlus/all.xml.gz
+- https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz
+- https://www.bevy.be/bevyfiles/croatia.xml.gz
+- https://www.bevy.be/bevyfiles/bosnia.xml.gz
+- https://www.bevy.be/bevyfiles/serbia.xml
+- https://www.bevy.be/bevyfiles/montenegropremium.xml.gz
 
 more info [here](https://github.com/iptv-org/epg)
 
-
-
-### List of players that you can use with IPTV list:
-#### windows players:
-
--[vlc](https://www.videolan.org/vlc/): media/open network stream, or download list (right click, save as, open in vlc), does not support epg
-
--[mpc-hc version by clsid2](https://github.com/clsid2/mpc-hc/), file, quick open file. user agent is not supported. label is not supported., epg is not supported
-
--[mpv](https://mpv.io/). 
-
--If you use command line, you can use it like this: mpv --user-agent=android file_or_url_address
- or add to mpv/mpv.conf this line: user-agent=mpv.
- this is needed for some channels only.
- you can create local file.m3u and add this line to it: 
- https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
- later open it in mpv.
--If you want menu for playlist in mpv-windows, download .zip and .conf from 
- https://github.com/tomasklaen/uosc.-Put unzipped files and .conf in d:\apps\mpv\mpv
--does not support epg
-
--[ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer) supports epg, windows only, freeware
- to set user agent in windows, in 'IpTvPlayer.User.ini' file, under [Settings] add: 
- setvlcvars="http-user-agent=Android"
-
--[kodi](https://kodi.tv/), supports epg, kinda complicated to setup, and to navigate, supports epg
-
--[SF Vip player](https://serbianforum.org/threads/sf-vip-plejer.878393/)
-to add playlist, click on ... on the right, then +user.
-Enter name (anything), location (local file or internet address), and user agent (anything, 
-for example mpv ). epg support server-enabled only.
-
--[smplayer](https://www.smplayer.info/), download m3u file, open file, no support for epg
--[progtv player](https://www.progdvb.com/index/progtv/progtv-win) (shareware), win, android, ios
-
-#### android players:
--progtv
--kodi
--vlc
-
--[mpv](https://play.google.com/store/apps/details?id=is.xyz.mpv)
--save balkan-plus.m3u to use local version, or see below how to user remote fresh version
--While viewing content, click on screen once, then click and hold on  |< or >| at the bottom,
--to show playlist, or click once on |< or >| to go back/forward on list.
- 
- More mpv settings, optional:
--Settings/user interface/screen orientation, select device.
--Settings/advanced/edit mpv.conf, add (this is needed for some channels): 
- user-agent=mpv
--Click on save.
-
--to use remote file, enter cutt.ly/bppp in firefox browser on android, it will resolve to raw.github..
- using [cx explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) create new file, add raw.github line (copy, paste) and save it as test.txt
- after closing file, rename it to test.m3u, start mpv and open it. it will use remote file, fresh.
-
-#### android Tv players:
--progtv
--kodi
--vlc
--mpv is currently not recommended for android tv, since it lacks remote tv functionality
-use this as remote url address (kodi, vlc, progtv): https://cutt.ly/bppp 
 
 ###  Channel list sources:
 list of free iptv channels: 
@@ -117,7 +114,6 @@ https://iptvcat.com
 
 more info on apps: 
 https://github.com/iptv-org/awesome-iptv
-
 
 qr code creator web: https://goqr.me/
 [barcode scanner for android](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)
@@ -155,6 +151,10 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 ![qrlong](qrlong.png)
 
 ### updates:
+
+2024-12-1-1
+new list grouping/edit
+site edit
 
 2024-10-31-1
 fixed hr
