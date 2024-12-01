@@ -174,7 +174,7 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 - list updated foreign
 
 2024-09-07-1
-list updated foreign
+- list updated foreign
 
 2024-09-01-1
 - list updated
