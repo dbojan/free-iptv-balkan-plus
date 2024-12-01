@@ -85,7 +85,7 @@ progtv, vlc and kodi are also available for android/androidtv
 
 ###  EPG (Electronic Program Guide), tv schedule
 
-- Note: epg currently it is not added directly to these list, cause I did not use it much, and I think it uses a lot of memory on android TV.
+- Note: epg currently it is not added directly to these list, cause I did not use it much, and I think it uses a lot of memory on Android TV.
 - [ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer), windows only, supports multi epg, add it in app settings (CTRL+P).
 Separate url to epg xml with comma: http://www.something.com/epg1.xml,http://http://www.something.com/epg2.xml
 Right click on app, select 'TV Guide', 'Update TV Guide'
@@ -93,7 +93,7 @@ Right click on app, select 'TV Guide', 'Update TV Guide'
 - ProgTV can add more than one epg sources, you have to add each in the single text box for guide, 
 when adding sources, then click update button.
 
-Epg xml addresses:
+Epg xml addresses examples:
 - https://i.mjh.nz/PlutoTV/all.xml.gz
 - https://i.mjh.nz/SamsungTVPlus/all.xml.gz
 - https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz
@@ -115,9 +115,9 @@ https://iptvcat.com
 more info on apps: 
 https://github.com/iptv-org/awesome-iptv
 
-qr code creator web: https://goqr.me/
-[barcode scanner for android](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)
-url shortener: https://cutt.ly
+- qr code creator web: https://goqr.me/
+- [barcode scanner for android](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)
+- url shortener: https://cutt.ly
 
 web browser players: 
 tv balkan uzivo
