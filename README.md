@@ -1,8 +1,11 @@
 # free-iptv-balkan-plus, bppp
-<code><pre>
+
+
 ### What is it:
 It is a free IPTV list of Balkan Ex-Yu channels + some free english speaking tv channels
+
 ### What to do with it / Installing:
+
 Note: https://cutt.ly/bppp is shortcut that leads to regional + global (english speaking channels):
 https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
 
