@@ -11,6 +11,7 @@ HRT 1
 HRT 2
 HRT 3
 Jadran
+K1
 Kurir
 Narodna
 Pi Kanal
