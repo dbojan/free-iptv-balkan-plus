@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 gt="" tvg-country="" tvg-id="" tvg-beid="" tvg-tvprofil-id="" tvg-logo="https://i.imgur.com/5ZUk3ck.png" status="" ,Alternativna
+#+https://www.jagledam.com/Alternativna-ATV-uzivo-stream
+https://vpn.komtel.ba/hls/mylivestream.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="RS" tvg-id="TV Belle Amie SD/HD.rs" tvg-beid="TV Belle Amie SD/HD.rs" tvg-tvprofil-id="" tvg-logo="https://i.imgur.com/tOlN5Rz.png" status="" ,Belle Amie
 #
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
