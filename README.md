@@ -9,17 +9,19 @@
 - balkan plus: balkan (serbian/croatian/bosnian) channels + english speaking channels with commercial breaks
   - short url: https://cutt.ly/bppp
   - long url: https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
-  - approximate names printout: [bp](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/printout/L_bp.txt)
+  - approximate names printout: [bp](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/printout/L_bp.txt)
 
 - samo domaći: samo domaći kanali, uključujući i muzičke i kanale sa vijestima
   - short url: https://cutt.ly/bddd
   - long url: https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/balkan-plus-samo-domaci.m3u
-  - approximate names printout: [domaći](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/printout/L_domaci.txt)
+  - approximate names printout: [domaći](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/printout/L_domaci.txt)
+
  
 - samo domaći mini: mini lista, sa zanimljivijim kanalima
   - short url: https://cutt.ly/bddm
   - long url: https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/balkan-plus-domaci-mini.m3u
-  - approximate names printout: [mini](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/printout/L_mini.txt)
+  - approximate names printout: [mini](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/printout/L_mini.txt)
+
   
 ### How to use it:
 
