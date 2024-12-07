@@ -23,15 +23,15 @@ http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 #EXTINF:-1 gt="DAY" tvg-country="ME" tvg-id="" tvg-beid="" tvg-tvprofil-id="tvcg3.cg" tvg-logo="https://i.imgur.com/0ZT3Bc2.png" status="ok:0 2024-09-28_11:47:52" ,CG 3
 #
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="htv1.hr" tvg-beid="HRT 1.hr" tvg-tvprofil-id="htv1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" status="ok:0 2024-09-28_11:47:57" ,HRT 1 (BHT)
+#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="htv1.hr" tvg-beid="HRT 1.hr" tvg-tvprofil-id="htv1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" status="ok:0 2024-09-28_11:47:57" ,HRT 1 (bht)
 #
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
-#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="htv2.hr" tvg-beid="HRT 2.hr" tvg-tvprofil-id="htv2.hr" tvg-logo="https://i.imgur.com/yyePcl1.png" status="ok:0 2024-10-06_21:16:11" ,HRT 2 (BHT)
+#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="htv2.hr" tvg-beid="HRT 2.hr" tvg-tvprofil-id="htv2.hr" tvg-logo="https://i.imgur.com/yyePcl1.png" status="ok:0 2024-10-06_21:16:11" ,HRT 2 (bht)
 #
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hrt2.m3u8
-#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="htv3.hr" tvg-beid="HRT 3.hr" tvg-tvprofil-id="htv3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" status="ok:0 2024-09-28_11:47:59" ,HRT 3 (BHT)
+#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="htv3.hr" tvg-beid="HRT 3.hr" tvg-tvprofil-id="htv3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" status="ok:0 2024-09-28_11:47:59" ,HRT 3 (bht)
 #
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
@@ -71,7 +71,7 @@ https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:0 gt="" tvg-country="" tvg-id="" tvg-beid="" tvg-tvprofil-id="" tvg-logo="https://i.imgur.com/CG44YT3.png" status="" ,RTV 1
 #dark when movies?
 http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
-#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="STAR.hr" tvg-beid="STAR.hr" tvg-tvprofil-id="fox.movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" status="ok:0 2024-09-28_11:48:31" ,Star (BHT)
+#EXTINF:-1 gt="DAY" tvg-country="HR" tvg-id="STAR.hr" tvg-beid="STAR.hr" tvg-tvprofil-id="fox.movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" status="ok:0 2024-09-28_11:48:31" ,Star (bht)
 #does not work in kodi
 #EXTVLCOPT:http-user-agent=Android
 https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
