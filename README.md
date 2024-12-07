@@ -67,7 +67,7 @@ List of usable media players:
    - recommend to use orion app as a guest, you get more channels?
    - after starting orion app, press ok on the remote, use **channel+** and **channel-** to move through channels
 
-- tivimate: untested
+- tivimate: paying required for: resume last channel, autostart, update list from app, more than one list. Not recommended.
 
 ### Android phone/tablet
 
