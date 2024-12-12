@@ -70,24 +70,18 @@ List of usable media players:
    - after starting orion app, press ok on the remote, use **channel+** and **channel-** to move through channels
 
 - tivimate: paying required for: resume last channel, autostart, update list from app, more than one list. Not recommended.
+- dango player: unable to test latest version on android tv (android 7), older version have problem with lists.
 
 ### Android phone/tablet
 
-
-- (do this once:) install [mpv player](https://play.google.com/store/apps/details?id=is.xyz.mpv), browser: [firefox ](https://play.google.com/store/apps/details?id=org.mozilla.firefox) or chrome, and file manager: [cx explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) or [mx explorer](https://mixplorer.com/)
-- open cutt.ly/bppp, or whichever list you want in the firefox android browser. It will expland to raw.github... adrress. Copy expanded address to device memory (click on it/select all/copy)
-- use cx or mx explorer to create list.txt file.
-- add raw.github... addres to list.txt file
-- rename list.txt to list.m3u using cx or mx explorer. (right click, select rename)
-- in the future, start mpv, and open list.m3u
-  - additional mpv settings, optional:
-  - Settings/user interface/screen orientation, select device.
-  - Settings/advanced/edit mpv.conf, add (this is needed for some channels): user-agent=mpv
-  - Click on save.
-  - to change channel, click anywhere, and then click on > at the bottom
-  - to show playlist press and hold on > at the bottom
-
+- use [dango player](https://github.com/brunochanrio/DangoPlayer) or android phone, it supports multiple lists, and it is open source/free.
+  - Added iptv lists will be added to the bottom of the screen, below the 'send lists to tv' text.
 - progtv - use in landscape mode; click, or click and hold for list/functions. Also, can swipe left/right, up/down to change channel.
+- mpv - use text file, rename it to list.m3u, with text: https://cutt.ly/bppp inside.
+  - Open file on start.
+  - Use bottom arrows to go to next station, or hold to select list.
+  - Remember to set --user-agent=mpv in other options
+  - (advanced info: does not support referrer extvlcopt in the m3u list)
 - vlc and kodi are also available for android/androidtv
 
 ###  EPG (Electronic Program Guide), tv schedule
