@@ -46,14 +46,14 @@ http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" ,RTV Zenica (net)
 https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k875WTc.png" ,Studio B (net)
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" ,ATV Kosovo
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Pro 1 Kosovo
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
 #EXTINF:-1 tvg-logo="" ,T7 Kosovo
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v2a1/rewind-14400.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k875WTc.png" ,Studio B (net)
-http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" ,ZZI: Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-logo="" ,ZZM: CMC TV
