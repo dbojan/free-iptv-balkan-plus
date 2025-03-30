@@ -37,10 +37,12 @@ List of usable media players:
 - [mpv](https://mpv.io/), command line mostly.
 
 
-### TV sets with Android:
-
-- [progtv player](https://www.progdvb.com/index/progtv/progtv-win) recommended, will show short loading screen on start:
-  - add sources: https://cutt.ly/bddm (mini list) or some other list.
+### Android/TV
+- sparkle tv, very good, supports encrypted channels, supports auto refresh with 3 hours minimal time. Can only add one playlist at a time, 
+- ott navigator, supports encrypted channels, DOES NOT support auto refresh in free version, can add multiple playlist, one active at a time.
+- progtv, 3 seconds delay at a start in trial version, supports auto refres with 1 hour minimal time, multiple lists support, one active at a time I think.
+- [progtv player](https://www.progdvb.com/index/progtv/progtv-win) settings
+  - add sources: https://cutt.ly/bppp includes english channnels, or https://cutt.ly/bddd (domaca)
   - use **arrow up** or **arrow down** on the remote to move through channels
   - if there is no channel after wake from sleep mode, press **ok** on remote a couple of times, or go up/down channel while wifi is restored
    - Recommended settings: **User interface**/more options/show confirmation on exit=off
@@ -60,20 +62,13 @@ List of usable media players:
    - recommend to use orion app as a guest, you get more channels?
    - after starting orion app, press ok on the remote, use **channel+** and **channel-** to move through channels
 
-- tivimate: paying required for: resume last channel, autostart, update list from app, more than one list. Not recommended.
-- dango player: unable to test latest version on android tv (android 7), older version have problem with lists.
+- dango player: unable to test latest version on android tv (android 7), older version have problem with lists, does not support encrypted channels
+- fermata, support sftp, does not support encrypted channels
+- 'televizio', 'm3u app', 'iptv smarters', do not support encrypted channels
+- tivimate: paying required for: resume last channel, autostart, update list from app, more than one list. Not recommended.  Supports encrypted channels
+- kodi does not support encrypted channels?, big
+- mpv and vlc players are also available for android.
 
-### Android phone/tablet
-
-- use [dango player](https://github.com/brunochanrio/DangoPlayer) or android phone, it supports multiple lists, and it is open source/free.
-  - Added iptv lists will be added to the bottom of the screen, below the 'send lists to tv' text.
-- progtv - use in landscape mode; click, or click and hold for list/functions. Also, can swipe left/right, up/down to change channel.
-- mpv - use text file, rename it to list.m3u, with text: https://cutt.ly/bppp inside.
-  - Open file on start.
-  - Use bottom arrows to go to next station, or hold to select list.
-  - Remember to set --user-agent=mpv in other options
-  - (advanced info: does not support referrer extvlcopt in the m3u list)
-- vlc and kodi are also available for android/androidtv
 
 ###  EPG (Electronic Program Guide), tv schedule
 
@@ -144,9 +139,9 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 
 ### updates:
 
-2025-03-30-1
--update domaci
--removed domaci-mini, merged with domaci
+2025-03-30-1  
+-update domaci  
+-removed domaci-mini, merged with domaci  
 
 2024-12-1-1
 - new list grouping/edit
