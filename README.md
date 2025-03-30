@@ -98,7 +98,7 @@ https://github.com/iptv-org/iptv
 https://github.com/Free-TV/IPTV  
 https://satelitskiforum.com  
 https://iptvcat.com  
-ja gledam    balkan tv  
+ja gledam    balkan tv uzivo
 
 more info on apps: 
 https://github.com/iptv-org/awesome-iptv
