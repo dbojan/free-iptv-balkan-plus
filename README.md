@@ -107,11 +107,6 @@ https://github.com/iptv-org/awesome-iptv
 - [barcode scanner for android](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)
 - url shortener: https://cutt.ly
 
-web browser players: 
-tv balkan uzivo
-
-
-
 ## qr codes
 
 qr codes for list, short and long. Both are ok. Point your phone camera, or use qr code scanner app
