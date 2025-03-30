@@ -9,13 +9,10 @@
 - balkan plus: balkan (serbian/croatian/bosnian) channels + english speaking channels with commercial breaks
   - short url: https://cutt.ly/bppp
   - long url: https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
-  - approximate names printout: [bp](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/print_bp.txt)
 
 - samo domaći kanali
   - short url: https://cutt.ly/bddd
   - long url: https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/balkan-plus-samo-domaci.m3u
-  - approximate names printout: [domaći](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/print_domaci.txt)
-
 
 ### How to use it:
 
@@ -146,6 +143,10 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 ![qrlong](qrlong.png)
 
 ### updates:
+
+2025-03-30-1
+-update domaci
+-removed domaci-mini, merged with domaci
 
 2024-12-1-1
 - new list grouping/edit
