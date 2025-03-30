@@ -1,12 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ZUk3ck.png" ,Alternativna (net)
 https://vpn.komtel.ba/hls/mylivestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DUBvfWb.png" ,BN (net)
-https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tOlN5Rz.png" ,Belle Amie (net)
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01bZ5rw.png" ,BHRT (bht)
+#EXTVLCOPT:http-user-agent=Android
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XM5Qz1i.png" ,Blic (net)
 https://53a7ed211fc32.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DUBvfWb.png" ,BN (net)
+https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QORHrXu.png" ,CG 1 (net)
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WECmUKH.png" ,CG 2 (net)
@@ -43,11 +46,36 @@ http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" ,RTV Zenica (net)
 https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-logo="" ,ATV Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/index.m3u8
+#EXTINF:-1 tvg-logo="" ,Pro 1 Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
+#EXTINF:-1 tvg-logo="" ,T7 Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v2a1/rewind-14400.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k875WTc.png" ,Studio B (net)
 http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/01bZ5rw.png" ,BHRT (bht)
-#EXTVLCOPT:http-user-agent=Android
-https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 tvg-logo="" ,ZZI: Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-logo="" ,ZZM: CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik Flashback
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik HipHop
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik Jeka
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik Mediteraneo
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik Moba
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik Popstar
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik Rock and Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik WWM
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 gt="" tvg-country="USA" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62ba60f059624e000781c436-alt.m3u8" url_alt="" status="ok:0 2024-11-09_11:54:23" description="" ,00s Replay (Pluto)
 #
 #EXTVLCOPT:http-user-agent=Android
