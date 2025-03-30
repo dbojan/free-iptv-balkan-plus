@@ -11,7 +11,7 @@
   - long url: https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.m3u
   - approximate names printout: [bp](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/print_bp.txt)
 
-- samo domaći: samo domaći kanali
+- samo domaći kanali
   - short url: https://cutt.ly/bddd
   - long url: https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/refs/heads/main/balkan-plus-samo-domaci.m3u
   - approximate names printout: [domaći](https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/print_domaci.txt)
