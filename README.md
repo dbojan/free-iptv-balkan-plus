@@ -93,12 +93,12 @@ more info [here](https://github.com/iptv-org/epg)
 
 
 ###  Channel list sources:
-list of free iptv channels: 
-https://github.com/iptv-org/iptv
-https://github.com/Free-TV/IPTV
-https://satelitskiforum.com
-https://iptvcat.com
-ja gledam    balkan tv
+list of free iptv channels:   
+https://github.com/iptv-org/iptv  
+https://github.com/Free-TV/IPTV  
+https://satelitskiforum.com  
+https://iptvcat.com  
+ja gledam    balkan tv  
 
 more info on apps: 
 https://github.com/iptv-org/awesome-iptv
