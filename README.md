@@ -84,10 +84,6 @@ Epg xml addresses examples:
 - https://i.mjh.nz/PlutoTV/all.xml.gz
 - https://i.mjh.nz/SamsungTVPlus/all.xml.gz
 - https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz
-- https://www.bevy.be/bevyfiles/croatia.xml.gz
-- https://www.bevy.be/bevyfiles/bosnia.xml.gz
-- https://www.bevy.be/bevyfiles/serbia.xml
-- https://www.bevy.be/bevyfiles/montenegropremium.xml.gz
 
 more info [here](https://github.com/iptv-org/epg)
 
