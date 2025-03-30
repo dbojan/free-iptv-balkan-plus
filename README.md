@@ -96,8 +96,9 @@ more info [here](https://github.com/iptv-org/epg)
 list of free iptv channels: 
 https://github.com/iptv-org/iptv
 https://github.com/Free-TV/IPTV
-https://satelitskiforum.com/index.php?page=Thread&threadID=11945&pageNo=37
+https://satelitskiforum.com
 https://iptvcat.com
+ja gledam    balkan tv
 
 more info on apps: 
 https://github.com/iptv-org/awesome-iptv
