@@ -22,6 +22,8 @@ https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" ,Nova BH (net)
 http://109.105.201.198/NOVABHHD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="" ,Nova S (net)
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" ,N1 BIH (net)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" ,N1 HRV (net)
@@ -58,7 +60,9 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v2a1/rewind-14400.ts.m3u8
 #EXTINF:-1 tvg-logo="" ,ZZI: Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-logo="" ,ZZM: CMC TV
+#EXTINF:-1 tvg-logo="" ,ZZM: Bravo
+https://streaming.social3.hr:443/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
+#EXTINF:-1 tvg-logo="" ,ZZM: CMC
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-logo="" ,ZZM: Muzzik
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
