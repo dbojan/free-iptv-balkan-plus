@@ -20,6 +20,8 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 #EXTINF:-1 tvg-logo="" ,M (net)
 https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" ,Nova BH (net)
+http://109.105.201.198/NOVABHHD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" ,N1 BIH (net)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" ,N1 HRV (net)
