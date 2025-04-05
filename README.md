@@ -38,10 +38,13 @@ List of usable media players:
 
 
 ### Android/TV
-- sparkle tv, very good, supports encrypted channels, supports auto refresh with 3 hours minimal time. Can only add one playlist at a time, 
+- sparkle tv, very good, supports encrypted channels, supports auto refresh with 3 hours minimal time. Can only add one playlist at a time,
+- (you can switch channels on tablet by swiping up and down :) )
 - ott navigator, supports encrypted channels, DOES NOT support auto refresh in free version, can add multiple playlist, one active at a time.
-- progtv, 3 seconds delay at a start in trial version, supports auto refres with 1 hour minimal time, multiple lists support, one active at a time I think.
-- [progtv player](https://www.progdvb.com/index/progtv/progtv-win) settings
+- (recommended settings: settings/visual style/use transparent interface=yes, settings/player interface/player menu and heads up display/hide ui overlay playback in=3 seconds)  
+- (on tablet I set 'settings/player/touch zones configuration/center/switch to next channel', and remote controller keys up and down to switch channels)  
+- progtv, 3 seconds delay at a start in trial version, supports auto refres with 1 hour minimal time, multiple lists support, one active at a time I think.  
+- [progtv player](https://www.progdvb.com/index/progtv/progtv-win) settings  
   - add sources: https://cutt.ly/bppp includes english channnels, or https://cutt.ly/bddd (domaca)
   - use **arrow up** or **arrow down** on the remote to move through channels
   - if there is no channel after wake from sleep mode, press **ok** on remote a couple of times, or go up/down channel while wifi is restored
@@ -62,7 +65,7 @@ List of usable media players:
    - recommend to use orion app as a guest, you get more channels?
    - after starting orion app, press ok on the remote, use **channel+** and **channel-** to move through channels
 
-- dango player: unable to test latest version on android tv (android 7), older version have problem with lists, does not support encrypted channels
+- dango player: works ok, does not support encrypted channels, use 'back/exit' key on remote to change channels
 - fermata, support sftp, does not support encrypted channels
 - 'televizio', 'm3u app', 'iptv smarters', do not support encrypted channels
 - tivimate: paying required for: resume last channel, autostart, update list from app, more than one list. Not recommended.  Supports encrypted channels
