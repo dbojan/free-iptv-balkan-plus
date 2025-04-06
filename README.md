@@ -22,28 +22,28 @@ I use editor [csvEdit_Esmeralda](https://github.com/dbojan/csvEdit_Esmeralda) to
 Requires [mpv](https://mpv.io/) player and ffmpeg to be installed, preferrably in d:\apps.
 
 List of usable media players: 
-- [vlc](https://www.videolan.org/vlc/) start vlc, media/open network stream, add https://cutt.ly/bppp
-- [ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer) supports epg, windows only, freeware
+- [**vlc**](https://www.videolan.org/vlc/) start vlc, media/open network stream, add https://cutt.ly/bppp
+- [**ip-tv player** by BorPas-Soft](https://borpas.info/iptvplayer) supports epg, windows only, freeware
   - to set user agent in windows, in 'IpTvPlayer.User.ini' file, under [Settings] add: 
    - setvlcvars="http-user-agent=Android"
-- [SF Vip player](https://serbianforum.org/threads/sf-vip-plejer.878393/)
+- [**SF Vip** player](https://serbianforum.org/threads/sf-vip-plejer.878393/)
   - to add playlist, click on ... on the right, then +user.
   - Enter name (anything), location (local file or internet address), and user agent (anything, for example mpv)
   - epg support server-enabled only.
-- [smplayer](https://www.smplayer.info/), download m3u file, open file, no support for epg
-- [progtv player](https://www.progdvb.com/index/progtv/progtv-win) (shareware, minor limitations, like no recording), win, android, ios
-- [mpc-hc version by clsid2](https://github.com/clsid2/mpc-hc/), file, open file-url, add long url. Not supported: short url, user agent, epg
-- [kodi](https://kodi.tv/): install simple iptv plugin, add address: https://cutt.ly/bppp. Complicated to setup
-- [mpv](https://mpv.io/), command line mostly.
+- [**smplayer**](https://www.smplayer.info/), download m3u file, open file, no support for epg
+- [**progtv** player](https://www.progdvb.com/index/progtv/progtv-win) (shareware, minor limitations, like no recording), win, android, ios
+- [**mpc-hc** version by clsid2](https://github.com/clsid2/mpc-hc/), file, open file-url, add long url. Not supported: short url, user agent, epg
+- [**kodi**](https://kodi.tv/): install simple iptv plugin, add address: https://cutt.ly/bppp. Complicated to setup
+- [**mpv**](https://mpv.io/), command line mostly.
 
 
 ### Android/TV
-- sparkle tv, very good, supports encrypted channels, supports auto refresh with 3 hours minimal time. Can only add one playlist at a time,
+- **sparkle tv**, very good, supports encrypted channels, supports auto refresh of the playlist with 3 hours minimal time. Can only add one playlist at a time,
 - (you can switch channels on tablet by swiping up and down :) )
-- ott navigator, supports encrypted channels, DOES NOT support auto refresh in free version, can add multiple playlist, one active at a time.
-- (recommended settings: settings/visual style/use transparent interface=yes, settings/player interface/player menu and heads up display/hide ui overlay playback in=3 seconds)  
-- (on tablet I set 'settings/player/touch zones configuration/center/switch to next channel', and remote controller keys up and down to switch channels)  
-- progtv, 3 seconds delay at a start in trial version, supports auto refres with 1 hour minimal time, multiple lists support, one active at a time I think.  
+- **ott navigator**, supports encrypted channels, DOES NOT support auto refresh in free version, can add multiple playlist, one active at a time.
+- (recommended settings for ott navigator:: settings/visual style/use transparent interface=yes, settings/player interface/player menu and heads up display/hide ui overlay playback in=3 seconds
+- on tablet I set 'settings/player/touch zones configuration/center/switch to next channel', and remote controller keys up and down to switch channels)  
+- **progtv**, 3 seconds delay at a start in trial version, supports auto refres with 1 hour minimal time, multiple lists support, one active at a time I think.  
 - [progtv player](https://www.progdvb.com/index/progtv/progtv-win) settings  
   - add sources: https://cutt.ly/bppp includes english channnels, or https://cutt.ly/bddd (domaca)
   - use **arrow up** or **arrow down** on the remote to move through channels
@@ -59,18 +59,19 @@ List of usable media players:
    - **in list property**/update every = 2hr (this is optional, default is 10 hrs)
  
 
- - [orion tv android app](https://play.google.com/store/apps/details?id=rs.maketv.orionott), rotating list of free regional channels
+ - [**orion tv** android app](https://play.google.com/store/apps/details?id=rs.maketv.orionott), rotating list of free regional channels
    - install [DNS66](https://github.com/julian-klode/dns66), to block adds
    - set dns66 to autostart, add [adguard](https://adguard-dns.io/kb/general/dns-providers/) dns ip: 94.140.14.14, or 94.140.14.15 (optional?)
    - recommend to use orion app as a guest, you get more channels?
    - after starting orion app, press ok on the remote, use **channel+** and **channel-** to move through channels
 
-- dango player: works ok, does not support encrypted channels, use 'back/exit' key on remote to change channels
-- fermata, support sftp, does not support encrypted channels
-- 'televizio', 'm3u app', 'iptv smarters', do not support encrypted channels
-- tivimate: paying required for: resume last channel, autostart, update list from app, more than one list. Not recommended.  Supports encrypted channels
-- kodi does not support encrypted channels?, big
-- mpv and vlc players are also available for android.
+- most of these support adding more than one list:
+- **dango player**: works ok, does not support encrypted channels, use 'back/exit' key on remote to change channels
+- **fermata**, supports sftp, does not support encrypted channels
+- **televizio**, **m3u app**, **iptv smarters**, do not support encrypted channels
+- **tivimate**: paying required for: resume last channel, autostart, update list from app, more than one list. Not recommended.  Supports encrypted channels
+- **kodi** does not support encrypted channels?, big
+- **mpv** and **vlc** players are also available for android.
 
 
 ###  EPG (Electronic Program Guide), tv schedule
@@ -95,7 +96,7 @@ more info [here](https://github.com/iptv-org/epg)
 list of free iptv channels:   
 https://github.com/iptv-org/iptv  
 https://github.com/Free-TV/IPTV  
-https://satelitskiforum.com  
+[https://satelitskiforum.com](https://satelitskiforum.com/sf/forum/index.php?thread/11945-web-tv-samo-slu%C5%BEbeni-streamovi/)  
 https://iptvcat.com  
 ja gledam    balkan tv uzivo
 
