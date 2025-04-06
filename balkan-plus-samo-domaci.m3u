@@ -34,12 +34,6 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1s
 http://stream.pikanal.rs/pikanal/pgm.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" ,RT Balkan (net)
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rzB6Z6u.png" ,RTL (net)
-https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rzB6Z6u.png" ,RTL 2 (net)
-https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C7H5bJs.png" ,RTL Kockica (net)
-https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Sgs5gM.png" ,RTRS (net)
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CG44YT3.png" ,RTV 1 (net)
