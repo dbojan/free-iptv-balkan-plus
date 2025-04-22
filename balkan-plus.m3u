@@ -1,81 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZUk3ck.png" ,Alternativna (net)
-https://vpn.komtel.ba/hls/mylivestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tOlN5Rz.png" ,Belle Amie (net)
-http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/01bZ5rw.png" ,BHRT (bht)
+#EXTINF:-1 tvg-logo="", AS (net)
 #EXTVLCOPT:http-user-agent=Android
-https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XM5Qz1i.png" ,Blic (net)
-https://53a7ed211fc32.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DUBvfWb.png" ,BN (net)
+https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZUk3ck.png", Alternativna (net)
+https://vpn.komtel.ba/hls/mylivestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01bZ5rw.png", BHRT (jgl)
+#EXTVLCOPT:http-user-agent=Android
+https://bhrtstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DUBvfWb.png", BN (net)
 https://rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QORHrXu.png" ,CG 1 (net)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tOlN5Rz.png", Belle Amie (net)
+http://92.60.238.10:1935/live/belleamie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XM5Qz1i.png", Blic (net)
+https://53a7ed211fc32.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QORHrXu.png", CG 1 (net)
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WECmUKH.png" ,CG 2 (net)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WECmUKH.png", CG 2 (net)
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZT3Bc2.png" ,CG 3 (net)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZT3Bc2.png", CG 3 (net)
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HBPnUD5.png" ,Kurir (net)
+#EXTINF:-1 tvg-logo="", CG MNE (net)
+#EXTVLCOPT:http-user-agent=Android
+https://webtvstream.bhtelecom.ba/tvcg_mne.m3u8
+#EXTINF:-1 tvg-logo="", FilmBox Extra (jgl)
+https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
+#EXTINF:-1 tvg-logo="", FilmBox Premium (jgl)
+https://webtvstream.bhtelecom.ba/hls6/filmbox_premium.m3u8
+#EXTINF:-1 tvg-logo="", FilmBox Stars (jgl)
+https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HBPnUD5.png", Kurir (net)
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
-#EXTINF:-1 tvg-logo="" ,M (net)
+#EXTINF:-1 tvg-logo="", M (net)
 https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="" ,Nova BH (net)
-http://109.105.201.198/NOVABHHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="" ,Nova S (net)
-https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" ,N1 BIH (net)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png", N1 BH (net)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" ,N1 HRV (net)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png", N1 HR (net)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" ,N1 SRB (net)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png", N1 SR (net)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8ugnFa3.png" ,Pi Kanal (net)
+#EXTINF:-1 tvg-logo="", Nova S (net)
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ugnFa3.png", Pi (net)
 http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" ,RT Balkan (net)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/66wHb7E.png", Pink (btu)
+https://edge8.pink.rs/pinktv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png", RT Balkan (net)
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Sgs5gM.png" ,RTRS (net)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Sgs5gM.png", RTRS (net)
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CG44YT3.png" ,RTV 1 (net)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CG44YT3.png", RTV 1 (net)
 http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/skpr66t.png" ,RTV 2 (net)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skpr66t.png", RTV 2 (net)
 http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,RTV HB (net)
+#EXTINF:-1 tvg-logo="", RTV HB (net)
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" ,RTV Zenica (net)
+#EXTINF:-1 tvg-logo="", RTV Zenica (net)
 https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k875WTc.png" ,Studio B (net)
+#EXTINF:-1 tvg-logo="", Red (btu)
+https://edge8.pink.rs/redtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k875WTc.png", Studio B (net)
 http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,ATV Kosovo
+#EXTINF:-1 tvg-logo="", ATV Kosovo (jgl)
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/index.m3u8
-#EXTINF:-1 tvg-logo="" ,Pro 1 Kosovo
+#EXTINF:-1 tvg-logo="", Pro 1 Kosovo (jgl)
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
-#EXTINF:-1 tvg-logo="" ,T7 Kosovo
+#EXTINF:-1 tvg-logo="", T7 Kosovo (jgl)
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v2a1/rewind-14400.ts.m3u8
-#EXTINF:-1 tvg-logo="" ,ZZI: Al Jazeera Balkans
+#EXTINF:-1 tvg-logo="", Al Jazeera Balkans (jgl)
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-logo="" ,ZZM: Bravo
-https://streaming.social3.hr:443/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
-#EXTINF:-1 tvg-logo="" ,ZZM: CMC
-https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik Flashback
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik HipHop
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik Jeka
-https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik Mediteraneo
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik Moba
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik Popstar
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik Rock and Roll
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,ZZM: Muzzik WWM
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 gt="" tvg-country="USA" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" provider="pluto" url_mh="https://jmp2.uk/plu-62ba60f059624e000781c436-alt.m3u8" url_alt="" status="ok:0 2024-11-09_11:54:23" description="" ,00s Replay (Pluto)
 #
 #EXTVLCOPT:http-user-agent=Android
