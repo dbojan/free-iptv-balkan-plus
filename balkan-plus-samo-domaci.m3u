@@ -11,8 +11,6 @@ https://bhrtstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tOlN5Rz.png", Belle Amie (net)
 http://92.60.238.10:1935/live/belleamie/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XM5Qz1i.png", Blic (net)
-https://53a7ed211fc32.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QORHrXu.png", CG 1 (net)
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WECmUKH.png", CG 2 (net)
@@ -28,6 +26,8 @@ https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
 https://webtvstream.bhtelecom.ba/hls6/filmbox_premium.m3u8
 #EXTINF:-1 tvg-logo="", FilmBox Stars (jgl)
 https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
+#EXTINF:-1 tvg-logo="", Happy (net)
+https://stream1.happytv.rs/Happytv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HBPnUD5.png", Kurir (net)
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 #EXTINF:-1 tvg-logo="", M (net)
@@ -38,11 +38,13 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1b
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png", N1 SR (net)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dua57HD.png", Narodna (net)
+https://edge8.pink.rs/narodnatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Nova S (net)
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ugnFa3.png", Pi (net)
 http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/66wHb7E.png", Pink (btu)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/66wHb7E.png", Pink (net)
 https://edge8.pink.rs/pinktv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png", RT Balkan (net)
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_1600Kb.m3u8
@@ -56,7 +58,7 @@ http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="", RTV Zenica (net)
 https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 tvg-logo="", Red (btu)
+#EXTINF:-1 tvg-logo="", Red (net)
 https://edge8.pink.rs/redtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k875WTc.png", Studio B (net)
 http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
