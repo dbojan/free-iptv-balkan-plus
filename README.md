@@ -66,9 +66,9 @@ List of usable media players:
    - after starting orion app, press ok on the remote, use **channel+** and **channel-** to move through channels
 
 - most of these support adding more than one list:
+- **televizio**, **m3u app**, **iptv smarters**, does not support encrypted channels 
 - **dango player**: works ok, does not support encrypted channels, use 'back/exit' key on remote to change channels
 - **fermata**, supports sftp, does not support encrypted channels
-- **televizio**, **m3u app**, **iptv smarters**, do not support encrypted channels
 - **tivimate**: paying required for: resume last channel, autostart, update list from app, more than one list. Not recommended.  Supports encrypted channels
 - **kodi** does not support encrypted channels?, big
 - **mpv** and **vlc** players are also available for android.
@@ -134,6 +134,8 @@ https://raw.githubusercontent.com/dbojan/free-iptv-balkan-plus/main/balkan-plus.
 ![qrlong](qrlong.png)
 
 ### updates:
+2025-08-02-1
+-update
 
 2025-03-30-1  
 -update domaci  
