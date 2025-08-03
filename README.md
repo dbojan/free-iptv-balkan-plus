@@ -57,7 +57,8 @@ List of usable media players:
    - Optional: **Channel list**/History=off (this is for the list)
     - show channel numbers=off
    - **in list property**/update every = 2hr (this is optional, default is 10 hrs)
- 
+
+ - **RTS PLANETA** - registrujte se, ima aplikacija za android/tv/apple, veoma bogato i kvalitetno
 
  - [**orion tv** android app](https://play.google.com/store/apps/details?id=rs.maketv.orionott), rotating list of free regional channels
    - install [DNS66](https://github.com/julian-klode/dns66), to block adds
