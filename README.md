@@ -58,14 +58,6 @@ List of usable media players:
     - show channel numbers=off
    - **in list property**/update every = 2hr (this is optional, default is 10 hrs)
 
- - **RTS PLANETA** - registrujte se, ima aplikacija za android/tv/apple, veoma bogato i kvalitetno
-
- - [**orion tv** android app](https://play.google.com/store/apps/details?id=rs.maketv.orionott), rotating list of free regional channels
-   - install [DNS66](https://github.com/julian-klode/dns66), to block adds
-   - set dns66 to autostart, add [adguard](https://adguard-dns.io/kb/general/dns-providers/) dns ip: 94.140.14.14, or 94.140.14.15 (optional?)
-   - recommend to use orion app as a guest, you get more channels?
-   - after starting orion app, press ok on the remote, use **channel+** and **channel-** to move through channels
-
 - most of these support adding more than one list:
 - **televizio**, **m3u app**, **iptv smarters**, does not support encrypted channels 
 - **dango player**: works ok, does not support encrypted channels, use 'back/exit' key on remote to change channels
@@ -107,6 +99,17 @@ https://github.com/iptv-org/awesome-iptv
 - qr code creator web: https://goqr.me/
 - [barcode scanner for android](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)
 - url shortener: https://cutt.ly
+
+### OSTALO
+
+- **RTS PLANETA** - registrujte se, ima aplikacija za android/tv/apple, veoma bogato i kvalitetno, **preporucujem**
+
+- [**orion tv** android app](https://play.google.com/store/apps/details?id=rs.maketv.orionott), rotating list of free regional channels
+  - install [DNS66](https://github.com/julian-klode/dns66), to block adds
+  - set dns66 to autostart, add [adguard](https://adguard-dns.io/kb/general/dns-providers/) dns ip: 94.140.14.14, or 94.140.14.15 (optional?)
+  - recommend to use orion app as a guest, you get more channels?
+  - after starting orion app, press ok on the remote, use **channel+** and **channel-** to move through channels
+
 
 ## qr codes
 
